@@ -36,5 +36,9 @@ title: 小希小桃Channel 的 bilibili 空间
 
 path: [bilibili/user/video/5563350](xml/bilibili_user_video_5563350.xml "小希小桃Channel 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_5563350.xml "小希小桃Channel 的 bilibili 空间")」
 
+title: 田中姬铃木雏Official 的 bilibili 空间
+
+path: [bilibili/user/video/296909317](xml/bilibili_user_video_296909317.xml "田中姬铃木雏Official 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_296909317.xml "田中姬铃木雏Official 的 bilibili 空间")」
+
 
 ---end---
