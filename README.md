@@ -1,6 +1,8 @@
 # proxy_rsshub
 
-使用 GitHub Actions 实现 RSSHub 负载均衡
+使用 GitHub Actions 实现 RSSHub 负载均衡。
+
+https://github.com/wdssmq/proxy_rsshub
 
 # 关于
 
