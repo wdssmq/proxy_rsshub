@@ -40,7 +40,7 @@ def for_routes(route_list, host_list):
         (title, path, name) = for_instances(host_list, route_info)
         route_info_str = "title: %s\n\n" % title
         route_info_str += "path: %s\n\n" % path
-        route_info_str += "url: [%s](xml/%s \"%s\")" % (path, name, title)
+        route_info_str += "url: [%s](xml/%s.xml \"%s\")" % (path, name, title)
         readme_data += route_info_str
         print("----")
     return readme_data
