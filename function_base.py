@@ -1,4 +1,4 @@
-# Functions
+# functions
 import os
 import time
 
@@ -13,6 +13,8 @@ def fnLog(msg="", tip=None):
         tip = " ← %s" % tip
     else:
         tip = ""
+    if isinstance(msg, int):
+        msg = str(msg)
     if not any(msg):
         print("")
     else:

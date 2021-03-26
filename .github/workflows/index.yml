@@ -1,4 +1,4 @@
-name: RSS Everyday
+name: proxy_rsshub
 on:
   schedule:
     - cron: "0 */4 * * *"
