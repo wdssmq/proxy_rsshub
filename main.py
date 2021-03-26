@@ -52,7 +52,7 @@ def get_xml(url, name):
     xml_file = os.path.join(os.getcwd(), "xml/%s.xml" % name)
     fnLog(url)
     try:
-        r = requests.get(url, timeout=5)
+        r = requests.get(url, timeout=30)
         fnLog(r.status_code)
         if (r.status_code == 200):
             with open(xml_file, 'w', encoding='utf-8') as f:
