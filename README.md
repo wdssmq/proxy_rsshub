@@ -30,5 +30,9 @@ title: 猎影娘 的 bilibili 空间
 
 path: [bilibili/user/video/43619319](xml/bilibili_user_video_43619319.xml "猎影娘 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_43619319.xml "猎影娘 的 bilibili 空间")」
 
+title: 小希小桃Channel 的 bilibili 空间
+
+path: [bilibili/user/video/5563350](xml/bilibili_user_video_5563350.xml "小希小桃Channel 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_5563350.xml "小希小桃Channel 的 bilibili 空间")」
+
 
 ---end---
