@@ -1,9 +1,9 @@
 {
   "instances": [
-    "http://getrss2021.xyz:1200/",
     "https://rsshub.app/",
-    "https://rss.shab.fun/",
-    "https://rsshub.rssforever.com/"
+    "https://rsshub.rssforever.com/",
+    "http://getrss2021.xyz:1200/",
+    "https://rss.shab.fun/"
   ],
   "routes": [
     {

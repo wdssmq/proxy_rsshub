@@ -39,8 +39,8 @@ def for_routes(route_list, host_list):
     for route_info in route_list:
         (title, path, name) = for_instances(host_list, route_info)
         route_info_str = "title: %s\n\n" % title
-        route_info_str += "path: %s\n\n" % path
-        route_info_str += "url: [%s](xml/%s.xml \"%s\")" % (path, name, title)
+        route_info_str += "path: [%s](xml/%s.xml \"%s\") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/%s.xml \"%s\")」\n\n" % (
+            path, name, title, name, title)
         readme_data += route_info_str
         print("----")
     return readme_data
@@ -52,7 +52,7 @@ def get_xml(url, name):
     xml_file = os.path.join(os.getcwd(), "xml/%s.xml" % name)
     fnLog(url)
     try:
-        r = requests.get(url, timeout=30)
+        r = requests.get(url, timeout=5)
         fnLog(r.status_code)
         if (r.status_code == 200):
             with open(xml_file, 'w', encoding='utf-8') as f:
