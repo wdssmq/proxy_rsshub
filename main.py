@@ -65,7 +65,7 @@ def get_xml(url, name):
 
 
 def update_readme(file, data):
-    insert = "---start---\n\n"+data+"\n\n---end---"
+    insert = "---start---\n\n"+data+"\n---end---"
     # 获取README.md内容
     with open(file, 'r', encoding='utf-8') as f:
         content = f.read()
