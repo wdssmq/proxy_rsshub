@@ -40,5 +40,25 @@ title: 田中姬铃木雏Official 的 bilibili 空间
 
 path: [bilibili/user/video/296909317](xml/bilibili_user_video_296909317.xml "田中姬铃木雏Official 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_296909317.xml "田中姬铃木雏Official 的 bilibili 空间")」
 
+title: 哔哩哔哩电影 的 bilibili 空间
+
+path: [bilibili/user/video/15773384](xml/bilibili_user_video_15773384.xml "哔哩哔哩电影 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_15773384.xml "哔哩哔哩电影 的 bilibili 空间")」
+
+title: 葵歌剧摸鱼团 的 bilibili 空间
+
+path: [bilibili/user/video/7078836](xml/bilibili_user_video_7078836.xml "葵歌剧摸鱼团 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_7078836.xml "葵歌剧摸鱼团 的 bilibili 空间")」
+
+title: 夏実萌恵 的 bilibili 空间
+
+path: [bilibili/user/video/355167926](xml/bilibili_user_video_355167926.xml "夏実萌恵 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_355167926.xml "夏実萌恵 的 bilibili 空间")」
+
+title: 影迷qzm 的 bilibili 空间
+
+path: [bilibili/user/video/108766690](xml/bilibili_user_video_108766690.xml "影迷qzm 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_108766690.xml "影迷qzm 的 bilibili 空间")」
+
+title: Azulim搬运 的 bilibili 空间
+
+path: [bilibili/user/video/508191](xml/bilibili_user_video_508191.xml "Azulim搬运 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_508191.xml "Azulim搬运 的 bilibili 空间")」
+
 
 ---end---
