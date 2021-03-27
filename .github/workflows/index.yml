@@ -1,7 +1,7 @@
 name: proxy_rsshub
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */6 * * *"
   push:
     branches:
       - main
