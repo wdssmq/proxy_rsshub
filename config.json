@@ -11,8 +11,16 @@
       "path": "bilibili/user/bangumi/44744006"
     },
     {
+      "title": "猎影娘 的 bilibili 空间",
+      "path": "bilibili/user/video/43619319"
+    },
+    {
       "title": "橙心资讯 的 bilibili 空间",
       "path": "bilibili/user/video/28822227"
+    },
+    {
+      "title": "影迷qzm 的 bilibili 空间",
+      "path": "bilibili/user/video/108766690"
     },
     {
       "title": "Azulim搬运 的 bilibili 空间",
@@ -21,10 +29,6 @@
     {
       "title": "AIChannel官方 的 bilibili 空间",
       "path": "bilibili/user/video/1473830"
-    },
-    {
-      "title": "猎影娘 的 bilibili 空间",
-      "path": "bilibili/user/video/43619319"
     },
     {
       "title": "小希小桃Channel 的 bilibili 空间",
@@ -47,12 +51,20 @@
       "path": "bilibili/user/video/355167926"
     },
     {
-      "title": "影迷qzm 的 bilibili 空间",
-      "path": "bilibili/user/video/108766690"
-    },
-    {
       "title": "MMP字幕搬运 的 bilibili 空间",
       "path": "bilibili/user/video/278093107"
+    },
+    {
+      "title": "虚拟女友Yomemi 的 bilibili 空间",
+      "path": "bilibili/user/video/292044559"
+    },
+    {
+      "title": "琴肥夢甜品加工坊 的 bilibili 空间",
+      "path": "bilibili/user/video/84399544"
+    },
+    {
+      "title": "琴吹夢_official 的 bilibili 空间",
+      "path": "bilibili/user/video/442426299"
     }
   ]
 }
