@@ -39,7 +39,7 @@ def for_routes(route_list, host_list):
     for route_info in route_list:
         (title, path, name) = for_instances(host_list, route_info)
         route_info_str = "title: %s\n\n" % title
-        route_info_str += "path: [%s](xml/%s.xml \"%s\") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/%s.xml \"%s\")」\n\n" % (
+        route_info_str += "path: [%s](xml/%s.xml \"%s\") 「[raw](xml/%s.xml?raw=true \"%s\")」\n\n" % (
             path, name, title, name, title)
         readme_data += route_info_str
         print("----")
