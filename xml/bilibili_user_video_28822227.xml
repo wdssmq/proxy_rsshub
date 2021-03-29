@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 29 Mar 2021 00:56:08 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 29 Mar 2021 02:33:43 GMT</lastBuildDate>
+        <ttl>60</ttl>
         
         <item>
             <title><![CDATA[凝光 怒斥群臣]]></title>
