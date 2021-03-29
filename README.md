@@ -56,9 +56,9 @@ title: 影迷qzm 的 bilibili 空间
 
 path: [bilibili/user/video/108766690](xml/bilibili_user_video_108766690.xml "影迷qzm 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_108766690.xml "影迷qzm 的 bilibili 空间")」
 
-title: Azulim搬运 的 bilibili 空间
+title: MMP字幕搬运 的 bilibili 空间
 
-path: [bilibili/user/video/508191](xml/bilibili_user_video_508191.xml "Azulim搬运 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_508191.xml "Azulim搬运 的 bilibili 空间")」
+path: [bilibili/user/video/278093107](xml/bilibili_user_video_278093107.xml "MMP字幕搬运 的 bilibili 空间") 「[raw](https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main/xml/bilibili_user_video_278093107.xml "MMP字幕搬运 的 bilibili 空间")」
 
 
 ---end---
