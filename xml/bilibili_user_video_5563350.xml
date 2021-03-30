@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,7 +14,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 30 Mar 2021 06:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 12:28:25 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
