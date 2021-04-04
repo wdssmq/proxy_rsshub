@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴吹夢_official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/442426299</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢_official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,7 +14,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 04 Apr 2021 12:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 18:32:07 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
