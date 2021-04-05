@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 05 Apr 2021 12:24:07 GMT</lastBuildDate>
-        <ttl>60</ttl>
+        <lastBuildDate>Mon, 05 Apr 2021 18:33:49 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【喜剧】愤怒的小鸟（2016）]]></title>
