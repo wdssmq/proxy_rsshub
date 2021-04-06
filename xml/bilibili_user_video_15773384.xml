@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 06 Apr 2021 06:24:41 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 06 Apr 2021 12:18:39 GMT</lastBuildDate>
+        <ttl>60</ttl>
+        
+        <item>
+            <title><![CDATA[【动作】绝岭雄风（1993）【史泰龙】]]></title>
+            <description><![CDATA[加贝（西尔维斯特·史泰龙 Sylvester Stallone 饰）是一名高山抢险队队员，对于他来说，不断的征服一座又一座看似高不可攀的山巅就是人生的全部意义所在。然而，在一次行动中，由于加贝的疏忽导致了朋友意外坠山而亡，心中充满了愧疚与悔恨的他决心就此放弃攀登。一次偶然中，加贝接收到了一个神秘的求救信号，信号的发出地位于雪岭之巅，和朋友哈尔（迈克尔·鲁克 Michael Rooker 饰）、杰西（简宁·特纳 Janine Turner 饰）一起，加贝决心到那里一探究竟。<br><br><iframe src="https://player.bilibili.com/player.html?aid=204924459&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/7bb1b64d9d82466fd1ae997d76c98b54a3bde11f.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Apr 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1th411D7s1</guid>
+            <link>https://www.bilibili.com/video/BV1th411D7s1</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【历史】遥远的桥（1977）【影史战争巨制】]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Fri, 02 Apr 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV17y4y1t7Ef</guid>
             <link>https://www.bilibili.com/video/BV17y4y1t7Ef</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【中文】汪汪队立大功之超能救援（2020）]]></title>
-            <description><![CDATA[神秘陨石坠落冒险湾，赋予了汪汪队强大的超能力！然而陨石的坠落竟是汉丁那市长的粗心实验引来的。汉丁那市长对自己的失败并不满意，于是和他的侄子设计困住了汪汪队的队长莱德，并偷走了陨石，企图控制整个城市。他们的野心却出现了差错，小狗们必须齐心协力，灵活运用新技能——毛毛的威力热力，小砾的超级力量，天天的乘风翼——超能全开，拯救世界！<br><br><iframe src="https://player.bilibili.com/player.html?aid=459835587&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/7925b6b58a0742ef042489574aeb0a3c5c410e81.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Apr 2021 08:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1y5411w7Ud</guid>
-            <link>https://www.bilibili.com/video/BV1y5411w7Ud</link>
             
             
             
