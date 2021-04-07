@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,7 +14,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 07 Apr 2021 00:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 06:23:46 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
