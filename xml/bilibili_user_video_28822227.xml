@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 07 Apr 2021 06:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 12:27:54 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[奥特曼打小怪兽太暴力！？超八成家长要求严控动画片！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=332496990&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/273e855c7e403bbdcc7a214a0b4fad01668578e6.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Apr 2021 08:35:39 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1FA411L77i</guid>
+            <link>https://www.bilibili.com/video/BV1FA411L77i</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[欢乐愚人节！让我们来看看都有哪些动漫游戏假新闻吧！]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Wed, 24 Mar 2021 08:08:48 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZK4y127eb</guid>
             <link>https://www.bilibili.com/video/BV1ZK4y127eb</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[海底真有派大星！喜欢和海绵在一起！中国人定的新物种名字！]]></title>
-            <description><![CDATA[<：O  ><br><br><iframe src="https://player.bilibili.com/player.html?aid=929819341&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/f808245b53b7c83b8a2a8dfce458f3ea02d91d2d.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 23 Mar 2021 08:45:28 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1LK4y1S7vK</guid>
-            <link>https://www.bilibili.com/video/BV1LK4y1S7vK</link>
             
             
             

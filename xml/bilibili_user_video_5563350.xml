@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 07 Apr 2021 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 12:28:20 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[你以为你在打拳，其实是在给他们打钱【沙雕观察4.06】]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=204957439&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/b7ab5970949f3158c204c4f1bd02164d97205ac7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Apr 2021 12:05:28 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Bh411D7KG</guid>
+            <link>https://www.bilibili.com/video/BV1Bh411D7KG</link>
+            
+            
+            
+            <author><![CDATA[小希小桃Channel]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[艾伦，你真的自由吗？（虚研会053）]]></title>
@@ -217,41 +233,6 @@ BGM：
             <pubDate>Mon, 15 Mar 2021 11:03:22 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1kK4y1U7ft</guid>
             <link>https://www.bilibili.com/video/BV1kK4y1U7ft</link>
-            
-            
-            
-            <author><![CDATA[小希小桃Channel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[过审老国王养成指南（虚研会：050）]]></title>
-            <description><![CDATA[借物表：
-model：
-わち
-
-Video：
-
-1.《我的妹妹不可能那么可爱》动画片段
-2.《名侦探柯南》动画片段
-3.《超时空要塞F》动画片段
-4.《刀剑神域》动画片段
-5.《潜行吧！奈亚子》动画片段
-6.《Fate/Stay Night》（2006版）动画片段
-7.《狮子王》动画片段
-8.《半妖的夜叉姬》动画片段
-9.《天元突破红莲螺岩》动画片段
-10.《宝石宠物Sunshine》动画片段
-11.《楚门的世界》电影片段
-12.《最终幻想X》CG片段
-13.《犬夜叉：天下霸道之剑》动画片段
-14. 战斗<br><br><iframe src="https://player.bilibili.com/player.html?aid=374517375&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/faa165f56df7f3a64735948d03730ba3dc29ccc4.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 12 Mar 2021 11:55:49 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1WZ4y1P7ZZ</guid>
-            <link>https://www.bilibili.com/video/BV1WZ4y1P7ZZ</link>
             
             
             
