@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 08 Apr 2021 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 12:28:05 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[《生化8》鬼夫人原型是赫本？ IGN分享独家采访！角色设定曝光！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=417383010&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/591b404da3255ada61dc8cd7091952f558a598c7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 08 Apr 2021 09:21:40 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1HV411n7ZB</guid>
+            <link>https://www.bilibili.com/video/BV1HV411n7ZB</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[奥特曼打小怪兽太暴力！？超八成家长要求严控动画片！]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Thu, 25 Mar 2021 10:08:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Kb4y1X7YY</guid>
             <link>https://www.bilibili.com/video/BV1Kb4y1X7YY</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[甲方逼疯绫波丽！庵野秀明指导林原惠配音片段笑死我了！]]></title>
-            <description><![CDATA[：C<br><br><iframe src="https://player.bilibili.com/player.html?aid=929865445&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/df0e5631c454eedc9e92ee56f2a68d208d247edb.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Mar 2021 08:08:48 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZK4y127eb</guid>
-            <link>https://www.bilibili.com/video/BV1ZK4y127eb</link>
             
             
             
