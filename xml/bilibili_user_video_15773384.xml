@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 09 Apr 2021 06:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:27:37 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[灵魂战车（2007）【漫威超英改编】]]></title>
+            <description><![CDATA[约翰尼·布雷泽本是摩托车特级演员，当他发现父亲身患癌症之时，他与恶魔梅菲斯特签订了契约。他自己变身幽灵车神，为恶魔服务。对恶魔的要求言听计从的约翰尼，白天是星光灿烂的特级明星；夜间一身皮装、身体化为骷髅、身披布满刺钉的战袍，开动摩托车，替恶魔追捕那些穷凶极恶之人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=459891328&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/027f278221f422ae8161a02815fe9209d96bef33.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 09 Apr 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1X5411w79o</guid>
+            <link>https://www.bilibili.com/video/BV1X5411w79o</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[孙中山（上集）（1986）]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Sun, 04 Apr 2021 08:10:47 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1WX4y1g7Pf</guid>
             <link>https://www.bilibili.com/video/BV1WX4y1g7Pf</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【奇幻】新神榜：哪吒重生（2021）]]></title>
-            <description><![CDATA[三千年前，天下动荡，人神共遇大劫，不想哪吒的一缕魂魄逃脱天罗地网，世世转世投胎，这一世与东海市酷爱机车的热血青年李云祥人神共生。然而龙族对哪吒恩怨并未善罢甘休，有着哪吒元神的李云祥，亦无法逃脱被龙族赶尽杀绝的宿命。东海危在旦夕，李云祥是否能够与哪吒元神并肩作战，成为抵抗龙族的英雄？东海市的子民能否得到拯救？<br><br><iframe src="https://player.bilibili.com/player.html?aid=204891646&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/f709072c2a0f7260d1973e88f2f412aec8a21713.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Apr 2021 01:38:13 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV17h411D7aX</guid>
-            <link>https://www.bilibili.com/video/BV17h411D7aX</link>
             
             
             
