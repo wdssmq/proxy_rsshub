@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 11 Apr 2021 12:26:34 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 11 Apr 2021 16:56:59 GMT</lastBuildDate>
+        <ttl>60</ttl>
         
         <item>
             <title><![CDATA[【动作】霹雳娇娃（2000）【刘玉玲/德鲁·巴里摩尔】]]></title>
