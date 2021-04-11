@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,40 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 11 Apr 2021 00:59:20 GMT</lastBuildDate>
-        <ttl>60</ttl>
+        <lastBuildDate>Sun, 11 Apr 2021 06:22:46 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【翻唱】Goodbye宣言 - Chinozo _covered by Kizuna AI]]></title>
+            <description><![CDATA[Goodbye宣言这这个Pose，意外地还挺难
+
+非常棒的本家原曲：Chinozo
+
+Movie：ちゃそ
+
+Mix：大福みっくす
+
+Vocal：Kizuna AI
+----------------------------
+油管发布于2021年4月4号
+
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel & A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=502617543&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/2dab46ec63ebc5a23e605fc2aa77fac1f78f01c4.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 11 Apr 2021 03:00:03 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1BK411F7Q9</guid>
+            <link>https://www.bilibili.com/video/BV1BK411F7Q9</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【游戏化决定】学园模拟恋爱【绊爱学园】]]></title>
@@ -240,29 +272,6 @@ Ado
             <pubDate>Thu, 18 Mar 2021 11:07:31 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1uf4y1x7Qx</guid>
             <link>https://www.bilibili.com/video/BV1uf4y1x7Qx</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[苏帕AI大战长颈老师【直播剪辑】]]></title>
-            <description><![CDATA[长颈老师啊啊啊啊啊啊啊啊啊！
-----------------------------
-
-快来关注我吧‍(・ω< )★~
-
-❤微博❤@Kizuna_AI绊爱
-❤Youtube❤A.I.Channel A.I.Games
-❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=799638875&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/57059fb766c579089e42500fc0c4c6a6063f3f2e.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 18 Mar 2021 03:23:18 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Sy4y187av</guid>
-            <link>https://www.bilibili.com/video/BV1Sy4y187av</link>
             
             
             
