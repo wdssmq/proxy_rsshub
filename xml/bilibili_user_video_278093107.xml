@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[MMP字幕搬运 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/278093107</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/278093107" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/278093107" rel="self" type="application/rss+xml" />
         <description><![CDATA[MMP字幕搬运 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 11 Apr 2021 18:26:18 GMT</lastBuildDate>
-        <ttl>60</ttl>
+        <lastBuildDate>Mon, 12 Apr 2021 00:59:04 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[鞍山墨染 | 来读读我的steam库 第一节]]></title>
