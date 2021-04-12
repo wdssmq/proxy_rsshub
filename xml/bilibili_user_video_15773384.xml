@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 12 Apr 2021 06:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 12:32:45 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[日月精忠（1966）【第39届奥斯卡最佳影片】]]></title>
+            <description><![CDATA[国王亨利八世爱上了名叫安妮的女子，他想同王后离婚，却又碍于世俗道德的制约。亨利八世找到了大法官托马斯，他要求托马斯在离婚法令上签字，企图以托马斯的德高望重来减轻自己的负罪。托马斯一生光明磊落，国王的无理要求令极富正义感的他十分困扰，因为他明白，拒绝国王的人注定不会有好下场。<br><br><iframe src="https://player.bilibili.com/player.html?aid=887560187&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/f69a86e5e0438a46c28767b2b154f74b1ac658bb.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 12 Apr 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1hK4y1K7um</guid>
+            <link>https://www.bilibili.com/video/BV1hK4y1K7um</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【动作】霹雳娇娃（2000）【刘玉玲/德鲁·巴里摩尔】]]></title>
@@ -152,22 +168,6 @@
             <pubDate>Tue, 06 Apr 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1th411D7s1</guid>
             <link>https://www.bilibili.com/video/BV1th411D7s1</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【历史】遥远的桥（1977）【影史战争巨制】]]></title>
-            <description><![CDATA[欧战尾声，盟军上下逐渐弥漫着乐观的情绪。为了提前结束战争，各地盟军将领认为只要一番猛攻，便可提早直捣柏林结束战争。于是轻率地将大批伞兵空投在德军营地背后，去攻占阿纳姆的那座横跨莱茵河的大桥。不料遭遇德军的顽强抵抗，盟军付出了伤亡惨重的代价。这场堪称二战中最具戏剧性的战役，终以盟军的惨痛失败而告终。<br><br><iframe src="https://player.bilibili.com/player.html?aid=374979315&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/1ebf1d340f857f1f00074c4183878cb2b5b8d33e.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 06 Apr 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1sZ4y1c7TC</guid>
-            <link>https://www.bilibili.com/video/BV1sZ4y1c7TC</link>
             
             
             
