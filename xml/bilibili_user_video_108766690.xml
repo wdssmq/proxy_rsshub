@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 12 Apr 2021 18:36:28 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 11 Apr 2021 18:28:38 GMT</lastBuildDate>
+        <ttl>60</ttl>
         
         <item>
             <title><![CDATA[[久石让配乐版]1926年巴斯特·基顿经典无声喜剧《将军号》]]></title>

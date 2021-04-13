@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,24 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 12 Apr 2021 18:36:27 GMT</lastBuildDate>
-        <ttl>5</ttl>
-        
-        <item>
-            <title><![CDATA[【毒评论】42：没十年资本家做不出这事！员工休息天被压榨 拿来搬家！]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=205054965&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/e765f9105c5a1ff4dc49fe3dafd53f79e8c5dcd9.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 12 Apr 2021 09:30:35 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV14h411U7D9</guid>
-            <link>https://www.bilibili.com/video/BV14h411U7D9</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
+        <lastBuildDate>Sat, 10 Apr 2021 18:22:00 GMT</lastBuildDate>
+        <ttl>60</ttl>
         
         <item>
             <title><![CDATA[笋到极致！宜家这个椅子！来呐，你坐啊…… 谁还敢买？]]></title>
@@ -167,6 +151,22 @@
             <pubDate>Wed, 31 Mar 2021 08:51:24 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1EX4y1G7pe</guid>
             <link>https://www.bilibili.com/video/BV1EX4y1G7pe</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[什么？伊莉雅新剧场版在夏天上映？啊我死了]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=417293449&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/90ad569b9e3babdc3e9ed4b9771a4ba3070366ce.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Mar 2021 08:13:23 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1JV411e7oZ</guid>
+            <link>https://www.bilibili.com/video/BV1JV411e7oZ</link>
             
             
             
