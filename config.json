@@ -1,9 +1,10 @@
 {
   "instances": [
-    "https://rsshub.app/",
+    "https://rss.shab.fun/",
+    "https://vercel.getrss2021.xyz/",
     "https://rsshub.rssforever.com/",
     "http://getrss2021.xyz:1200/",
-    "https://rss.shab.fun/"
+    "https://rsshub.app/"
   ],
   "routes": [
     {
