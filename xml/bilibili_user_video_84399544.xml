@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴肥夢甜品加工坊 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/84399544</link>
-        <atom:link href="http://rsshub/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴肥夢甜品加工坊 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 15 Apr 2021 00:56:13 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 15 Apr 2021 06:23:27 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【深夜夢电台】日本虚拟UP主竟在直播中发出这种声音？！你还睡得着吗？]]></title>
