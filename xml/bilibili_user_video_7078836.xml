@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[富士葵中国粉丝团 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/7078836</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/7078836" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/7078836" rel="self" type="application/rss+xml" />
         <description><![CDATA[富士葵中国粉丝团 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 14 Apr 2021 18:28:16 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 15 Apr 2021 00:56:04 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【富士葵熟肉】苦手小葵居然也能胜利？【糖豆人生放#FallAIs】]]></title>
