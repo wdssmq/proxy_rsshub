@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="http://rsshub/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 15 Apr 2021 18:30:40 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 16 Apr 2021 00:55:07 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[给我一杯核废水，福岛真是见了鬼【沙雕观察SP01】]]></title>
