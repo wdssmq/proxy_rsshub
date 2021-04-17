@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 17 Apr 2021 07:08:38 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 17 Apr 2021 12:26:27 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[中央车站（1998）【第48届柏林电影节金熊奖】]]></title>
+            <description><![CDATA[里约热内卢的中央车站，朵拉在这里帮人写信。但她会把看不顺眼的信统统撕掉不寄，甚至公开读信里的内容取乐。在朵拉的内心，人与人之间的真情根本就不值得信赖。小男孩约书亚的出现令她开始了一段重新认识人生的旅程——约书亚很想见到远方素未谋面的父亲，不断写信给他。男孩母亲意外的车祸让朵拉决定陪伴约书亚前往东北部寻找父亲。<br><br><iframe src="https://player.bilibili.com/player.html?aid=928997163&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/fe66a63c55059887ddfb75418421bd47db9c23b5.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 17 Apr 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1DT4y1P7zF</guid>
+            <link>https://www.bilibili.com/video/BV1DT4y1P7zF</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【惊悚】第九区（2009）【高分硬核科幻神作】]]></title>
@@ -152,22 +168,6 @@
             <pubDate>Sat, 10 Apr 2021 02:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1i5411A7Nd</guid>
             <link>https://www.bilibili.com/video/BV1i5411A7Nd</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[灵魂战车（2007）【漫威超英改编】]]></title>
-            <description><![CDATA[约翰尼·布雷泽本是摩托车特级演员，当他发现父亲身患癌症之时，他与恶魔梅菲斯特签订了契约。他自己变身幽灵车神，为恶魔服务。对恶魔的要求言听计从的约翰尼，白天是星光灿烂的特级明星；夜间一身皮装、身体化为骷髅、身披布满刺钉的战袍，开动摩托车，替恶魔追捕那些穷凶极恶之人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=459891328&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/027f278221f422ae8161a02815fe9209d96bef33.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 09 Apr 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1X5411w79o</guid>
-            <link>https://www.bilibili.com/video/BV1X5411w79o</link>
             
             
             
