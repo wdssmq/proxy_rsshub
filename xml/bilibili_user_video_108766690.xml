@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,25 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 14 Apr 2021 00:53:38 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 17 Apr 2021 06:22:17 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[1915年查尔斯·卓别林无声喜剧短片《卡门滑稽剧》]]></title>
+            <description><![CDATA[《卡门滑稽剧》是卓别林在埃森内电影公司制作发行的一部短片，由卓别林自导自演，戏仿了同年的塞西尔·德米尔电影《卡门》。
+配乐：Timothy Brock（改编自乔治·比才歌剧《卡门》）<br><br><iframe src="https://player.bilibili.com/player.html?aid=587515381&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/b9c4d195310334bed996aaa0e4ef4192b9821b44.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Apr 2021 15:21:11 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1YB4y1w7CC</guid>
+            <link>https://www.bilibili.com/video/BV1YB4y1w7CC</link>
+            
+            
+            
+            <author><![CDATA[影迷qzm]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[久石让配乐版]1926年巴斯特·基顿经典无声喜剧《将军号》]]></title>
@@ -23,7 +40,7 @@
 由于本片在影史上的重要地位，很多著名作曲家都为本片配过乐。此特别版选用的是著名作曲家久石让谱写的配乐。2004年，他受法国MK2公司之邀，为其谱写了配乐，并在戛纳电影节上现场演出。
 由于不同版本间的差异，久石让的配乐必须经过剪辑才可以基本匹配画面。
 字幕翻译制作、音轨剪辑调校：影迷qzm
-音乐：久石 譲<br><br><iframe src="https://player.bilibili.com/player.html?aid=715088649&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/bd40ee9232b6663cebe11966135fad467a060d7d.jpg" referrerpolicy="no-referrer">]]></description>
+音乐：久石 譲<br><br><iframe src="https://player.bilibili.com/player.html?aid=715088649&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/bd40ee9232b6663cebe11966135fad467a060d7d.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 10 Apr 2021 12:27:49 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1cX4y137WS</guid>
             <link>https://www.bilibili.com/video/BV1cX4y137WS</link>
@@ -42,7 +59,7 @@
             <description><![CDATA[来源网络
 《我妻子的亲戚》由巴斯特·基顿自导自演，1922年发行。
 此版本由法国Lobster公司修复发行，其结尾与以前美国Kino版完全不同。
-音乐：Rodney Sauer / Brett Swenson<br><br><iframe src="https://player.bilibili.com/player.html?aid=587383775&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/f55089f5acc451d7473a4bf45d03a5e8613d8daf.jpg" referrerpolicy="no-referrer">]]></description>
+音乐：Rodney Sauer / Brett Swenson<br><br><iframe src="https://player.bilibili.com/player.html?aid=587383775&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/f55089f5acc451d7473a4bf45d03a5e8613d8daf.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 02 Apr 2021 13:41:26 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1vB4y1P7PP</guid>
             <link>https://www.bilibili.com/video/BV1vB4y1P7PP</link>
@@ -59,7 +76,7 @@
         <item>
             <title><![CDATA[1917年查尔斯·卓别林无声喜剧短片《冒险家》]]></title>
             <description><![CDATA[《冒险家》是卓别林为Mutual公司拍摄制作的最后一部短片。
-配乐：Carl Davis<br><br><iframe src="https://player.bilibili.com/player.html?aid=844954040&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/75506dcdc562c9ae4e7c7c43ea19bc640e31d7b5.jpg" referrerpolicy="no-referrer">]]></description>
+配乐：Carl Davis<br><br><iframe src="https://player.bilibili.com/player.html?aid=844954040&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/75506dcdc562c9ae4e7c7c43ea19bc640e31d7b5.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 02 Apr 2021 04:33:25 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1f54y1t79a</guid>
             <link>https://www.bilibili.com/video/BV1f54y1t79a</link>
@@ -77,7 +94,7 @@
             <title><![CDATA[1928年劳莱与哈台主演无声喜剧短片《霉运当头》]]></title>
             <description><![CDATA[《霉运当头》于1928年上映，莱奥·麦卡雷执导。本片虽不算劳莱与哈台的代表作品，但此片的结构被用在了几年后的经典长片《沙漠之子》中。另外，此片制作正值有声片起步时期，虽仍是无声片，但上映时配有同步Victor唱片音轨，并且罕见地加入了很多笑声。此音轨90年代才被重新发现，现在市面上仅有德国Kinowelt发行DVD时选用了这一原始音轨。
 这个版本主要选用带有稀有原始音轨的Kinowelt影碟，用美国Image版原始字卡替换重制字卡，以还原本片公映原貌。
-画面经调色、超分辨率以呈现最佳效果。<br><br><iframe src="https://player.bilibili.com/player.html?aid=374829458&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/1abdab08246e2f2cf2f14d7f0ab565272a127d81.jpg" referrerpolicy="no-referrer">]]></description>
+画面经调色、超分辨率以呈现最佳效果。<br><br><iframe src="https://player.bilibili.com/player.html?aid=374829458&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/1abdab08246e2f2cf2f14d7f0ab565272a127d81.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 27 Mar 2021 15:02:57 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1gZ4y1A7oJ</guid>
             <link>https://www.bilibili.com/video/BV1gZ4y1A7oJ</link>
@@ -93,7 +110,7 @@
         
         <item>
             <title><![CDATA[1933年劳莱与哈台主演喜剧短片《我和我的伙伴》]]></title>
-            <description><![CDATA[《我和我的伙伴》是喜剧组合“劳莱与哈台”于1933年主演的有声喜剧短片，由查尔斯·罗杰斯执导。<br><br><iframe src="https://player.bilibili.com/player.html?aid=289704328&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/047b2ff1d768a8ec985a3415882f8fd0fe6588e9.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[《我和我的伙伴》是喜剧组合“劳莱与哈台”于1933年主演的有声喜剧短片，由查尔斯·罗杰斯执导。<br><br><iframe src="https://player.bilibili.com/player.html?aid=289704328&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/047b2ff1d768a8ec985a3415882f8fd0fe6588e9.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 20 Mar 2021 08:00:05 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Zf4y1s7xx</guid>
             <link>https://www.bilibili.com/video/BV1Zf4y1s7xx</link>
@@ -110,7 +127,7 @@
         <item>
             <title><![CDATA[1928年劳莱与哈台主演无声喜剧短片《吹奏大师》]]></title>
             <description><![CDATA[《吹奏大师》是劳莱与哈台的早期无声短片，上映于1928年。虽说本片是一部无声喜剧，但已经可以看到劳莱与哈台对于有声笑料的尝试。
-此版本画面主要选用KirchGroup公司修复发行的DVD版，一个损坏严重的片段由美国Image公司发行的DVD替换。画面经算法去锐化、超分辨率以达到最佳效果。配乐取自英国BBC的节目Paul Merton's Silent Clowns中播放的版本，由著名默片音乐家Neil Brand作曲。为使不同版本的声音画面完美同步，画面的速度经过细微调整，同时音乐也经过剪辑。<br><br><iframe src="https://player.bilibili.com/player.html?aid=802004146&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i2.hdslb.com/bfs/archive/924a651207dca38ae6caabeaeacaa02d3ecfb6bd.jpg" referrerpolicy="no-referrer">]]></description>
+此版本画面主要选用KirchGroup公司修复发行的DVD版，一个损坏严重的片段由美国Image公司发行的DVD替换。画面经算法去锐化、超分辨率以达到最佳效果。配乐取自英国BBC的节目Paul Merton's Silent Clowns中播放的版本，由著名默片音乐家Neil Brand作曲。为使不同版本的声音画面完美同步，画面的速度经过细微调整，同时音乐也经过剪辑。<br><br><iframe src="https://player.bilibili.com/player.html?aid=802004146&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/924a651207dca38ae6caabeaeacaa02d3ecfb6bd.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 13 Mar 2021 14:04:47 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1yy4y177Ce</guid>
             <link>https://www.bilibili.com/video/BV1yy4y177Ce</link>
@@ -126,7 +143,7 @@
         
         <item>
             <title><![CDATA[【稀有】斯坦·劳莱组合前出演早期无声喜剧短片合集]]></title>
-            <description><![CDATA[本合集收集了著名喜剧演员斯坦·劳莱在与奥利弗·哈台组合前出演的短片。<br><br><iframe src="https://player.bilibili.com/player.html?aid=929606625&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/e8137072d4d62f021030511a8e2966aebba7583c.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[本合集收集了著名喜剧演员斯坦·劳莱在与奥利弗·哈台组合前出演的短片。<br><br><iframe src="https://player.bilibili.com/player.html?aid=929606625&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/e8137072d4d62f021030511a8e2966aebba7583c.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 10 Mar 2021 08:59:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1nK4y1U7NS</guid>
             <link>https://www.bilibili.com/video/BV1nK4y1U7NS</link>
@@ -143,7 +160,7 @@
         <item>
             <title><![CDATA[1930年劳莱与哈台主演喜剧短片《又一团糟》]]></title>
             <description><![CDATA[《又一团糟》是喜剧组合“劳莱与哈台”于1930年主演的有声喜剧短片，由詹姆斯·帕罗特执导。本片改编自1908年斯坦·劳莱的父亲阿瑟·J·杰斐逊的舞台剧Home from the Honeymoon，劳莱与哈台在成立组合前已经将其搬上过大银幕，即1927年的无声短片Duck Soup。
-此版本拼合了目前市面上的各种版本，并对部分片段进行了微调，以达到最佳音画质。各版本均有不同程度的丢帧现象，但对白基本连贯无缺失，可能是当时的母版制作就有点问题。<br><br><iframe src="https://player.bilibili.com/player.html?aid=971818339&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/fea1b5e4ed4ad2b548cfc310690230a91a194b54.jpg" referrerpolicy="no-referrer">]]></description>
+此版本拼合了目前市面上的各种版本，并对部分片段进行了微调，以达到最佳音画质。各版本均有不同程度的丢帧现象，但对白基本连贯无缺失，可能是当时的母版制作就有点问题。<br><br><iframe src="https://player.bilibili.com/player.html?aid=971818339&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/fea1b5e4ed4ad2b548cfc310690230a91a194b54.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 26 Feb 2021 10:00:07 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1yp4y1n7hF</guid>
             <link>https://www.bilibili.com/video/BV1yp4y1n7hF</link>
@@ -159,26 +176,10 @@
         
         <item>
             <title><![CDATA[1930年劳莱与哈台主演喜剧短片《尽情疯狂》]]></title>
-            <description><![CDATA[《尽情疯狂》是喜剧组合“劳莱与哈台”于1930年主演的有声喜剧短片，由詹姆斯·帕罗特执导。<br><br><iframe src="https://player.bilibili.com/player.html?aid=886839958&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i0.hdslb.com/bfs/archive/fdb91967fbbb45f63437091a82898efe52138080.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[《尽情疯狂》是喜剧组合“劳莱与哈台”于1930年主演的有声喜剧短片，由詹姆斯·帕罗特执导。<br><br><iframe src="https://player.bilibili.com/player.html?aid=886839958&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/fdb91967fbbb45f63437091a82898efe52138080.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 20 Feb 2021 09:05:03 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1dK4y1E7io</guid>
             <link>https://www.bilibili.com/video/BV1dK4y1E7io</link>
-            
-            
-            
-            <author><![CDATA[影迷qzm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[1930年劳莱与哈台主演喜剧短片《俩顽童》]]></title>
-            <description><![CDATA[《俩顽童》是喜剧组合“劳莱与哈台”于1930年主演的有声喜剧短片，由詹姆斯·帕罗特执导。这是首部两人分别分饰两角的影片，也是他们作品中为数不多的没有其他演员的影片。<br><br><iframe src="https://player.bilibili.com/player.html?aid=799281840&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://i1.hdslb.com/bfs/archive/a20148c1e3028f6fc9a436cde2d3c818d3083cb2.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 20 Feb 2021 02:51:32 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ry4y1h7Sy</guid>
-            <link>https://www.bilibili.com/video/BV1ry4y1h7Sy</link>
             
             
             
