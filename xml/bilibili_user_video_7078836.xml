@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[富士葵中国粉丝团 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/7078836</link>
-        <atom:link href="http://rsshub/bilibili/user/video/7078836" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/7078836" rel="self" type="application/rss+xml" />
         <description><![CDATA[富士葵中国粉丝团 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,34 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 18 Apr 2021 12:26:34 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 18 Apr 2021 18:27:20 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【富士葵熟肉】#N325【试着唱了】ギラギラ ／ Ado]]></title>
+            <description><![CDATA[https://youtu.be/h1qNJ1tYu5Q
+搬运与熟肉制作已由@Aoich_official私信简单授权
+遵循双方约定不以官方名义活动且杜绝一切盈利手段
+视频版权所有权 属于Aoi ch.
+原作者名: 富士葵 Aoi ch.
+原视频标题：ギラギラ ／ Ado （Covered by 富士葵 ／ Aoi Fuji）【歌ってみた】
+2020年4月17日发布
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
+歌词翻译来源网络
+后期:万叶
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br><br><iframe src="https://player.bilibili.com/player.html?aid=587631908&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/3c1b8caed7716060e4c2ebc750d246ab3120c40f.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 18 Apr 2021 12:27:05 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1EB4y1A7cH</guid>
+            <link>https://www.bilibili.com/video/BV1EB4y1A7cH</link>
+            
+            
+            
+            <author><![CDATA[富士葵中国粉丝团]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【富士葵熟肉】泡沫啊请不要离去 ／ HIMEHINA【试着唱了】]]></title>
@@ -254,30 +280,6 @@ https<br><br><iframe src="https://player.bilibili.com/player.html?aid=502451993&
             <pubDate>Fri, 19 Mar 2021 14:21:58 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV17N411X7Hq</guid>
             <link>https://www.bilibili.com/video/BV17N411X7Hq</link>
-            
-            
-            
-            <author><![CDATA[富士葵中国粉丝团]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【富士葵熟肉】可爱阿葵在线打鬼【节分直播】]]></title>
-            <description><![CDATA[https://www.youtube.com/channel/UC3Ruo_5doyu514PesWGvCAg
-搬运与熟肉制作已由@Aoich_official私信简单授权
-遵循双方约定不以官方名义活动且杜绝一切盈利手段
-视频版权所有权 属于Aoi ch.
-原作者名: 富士葵 Aoi ch.
-原视频来源：【凸待ち】VTuber限定!!!節分凸待ち【鬼は外、福は内】#葵の生放送　富士葵
-https://youtu.be/tciSmiIi364
-直播日期：2020年2月4日
-【節分】豆まいて鬼倒したいんじゃ<br><br><iframe src="https://player.bilibili.com/player.html?aid=887141204&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/204dd0a3aef00c7548250dff0625478588de0027.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 17 Mar 2021 12:35:56 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PK4y1T7u8</guid>
-            <link>https://www.bilibili.com/video/BV1PK4y1T7u8</link>
             
             
             
