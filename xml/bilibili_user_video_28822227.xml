@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 20 Apr 2021 06:24:38 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 20 Apr 2021 12:27:33 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[庵野老贼进美术课本了！我们的美术课何时才能这么接地气？]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=332720600&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/4c7cfa16f4ca1cd9f15649be95aab386e7d07744.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Apr 2021 08:46:56 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1LA411V7Xe</guid>
+            <link>https://www.bilibili.com/video/BV1LA411V7Xe</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[著名HOMO头子，Noripro话事人佃煮海苔男，在4月15日宣布上个月结婚]]></title>
@@ -155,22 +171,6 @@
             <pubDate>Fri, 09 Apr 2021 09:54:55 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1kh411U7NY</guid>
             <link>https://www.bilibili.com/video/BV1kh411U7NY</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[妹抖龙起床服务！3D的托尔喊你起床看第二季了！]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=972504746&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/d6c77eb5b88744cc28a93809c47436839ea06c84.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 09 Apr 2021 08:29:04 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV12p4y187yW</guid>
-            <link>https://www.bilibili.com/video/BV12p4y187yW</link>
             
             
             

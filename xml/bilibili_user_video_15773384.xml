@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 20 Apr 2021 06:24:50 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 20 Apr 2021 12:27:42 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【战争】猎杀T34（2019）]]></title>
+            <description><![CDATA[根据二战真实事件改编。莫斯科保卫战时，刚从坦克学校毕业的尼古拉被派往战场执行“自杀式”的任务，在以一敌六的情况下，他驾驶着传奇坦克T-34，奇迹般地击毁了德军耶格尔上校的小队，但自己却遭到俘虏。到了二战末期，耶格尔为了快速训练出德国希特勒青年团的坦克新兵，逼迫集中营里的尼古拉和另外几名苏联俘虏驾驶一辆翻新的T-34作为他们训练的活靶子。在其他人都在为赴死作心里准备时，尼古拉的脑子里却浮现出了一个惊人的计划——驾驶T-34在训练中逃离德国军营。<br><br><iframe src="https://player.bilibili.com/player.html?aid=375197307&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/13279ff05a4c20e7e5d9be695f820100e23da635.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Apr 2021 08:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1So4y1f7av</guid>
+            <link>https://www.bilibili.com/video/BV1So4y1f7av</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[乱世忠魂（1953）【第26届奥斯卡最佳影片】]]></title>
@@ -151,23 +167,6 @@
             <pubDate>Mon, 12 Apr 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1hK4y1K7um</guid>
             <link>https://www.bilibili.com/video/BV1hK4y1K7um</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【动作】霹雳娇娃（2000）【刘玉玲/德鲁·巴里摩尔】]]></title>
-            <description><![CDATA[查理先生手下有三名女打手，她们才貌双全拥有一身好功夫，专门接受查理先生的命令为他人伸张正义。她们分别是：娜塔莉、戴兰与艾利克斯。
-她们最近接受了一个任务：艾瑞克•克诺斯先生设计了一款高科技的声音辨别系统。艾瑞克却不幸被绑架了，这三名“天使”需要从不法分子手中拯救艾瑞克。因为这套由艾瑞克设计的高科技系统，一旦被不法分子利用的话后果堪虞。三位“天使”得知情况后，很快联想到了艾瑞克公司的对手，该负责人罗格成为了最大的嫌疑。三人于是日夜调查罗格的行踪，也掌握了重要的线索。正在她们有把握拯救艾瑞克的时候，<br><br><iframe src="https://player.bilibili.com/player.html?aid=672398793&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/a6cea1d39ddcfc64daeeb4386c21003fe41c6391.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 11 Apr 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV15U4y1Y7Uq</guid>
-            <link>https://www.bilibili.com/video/BV15U4y1Y7Uq</link>
             
             
             

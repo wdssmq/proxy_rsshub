@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,31 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 20 Apr 2021 06:24:44 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 20 Apr 2021 12:27:37 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【腊肉】【雀魂】绊爱接待麻将！谢谢大家为我做的一切！（第一局）【直播剪辑】]]></title>
+            <description><![CDATA[----------------------------
+
+
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=630143370&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/36b6be008a0297689012c77cce6f37ea28264666.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Apr 2021 10:20:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Rb4y1D718</guid>
+            <link>https://www.bilibili.com/video/BV1Rb4y1D718</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【整蛊】突然出现在超喜欢绊爱的V面前，让她们惊讶到哭出来www]]></title>
@@ -246,31 +269,6 @@ Vocal：Kizuna AI
             <pubDate>Wed, 24 Mar 2021 11:37:17 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Dp4y1b7qk</guid>
             <link>https://www.bilibili.com/video/BV1Dp4y1b7qk</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[向绊爱许愿！实现大家的愿望…【直播剪辑】]]></title>
-            <description><![CDATA[今天要来实现从【#向绊爱许愿】募集过来的大家的愿望！
-…希望能实现！
-
-----------------------------
-
-快来关注我吧‍(・ω< )★~
-
-❤微博❤@Kizuna_AI绊爱
-❤Youtube❤A.I.Channel & A.I.Games
-❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=714646668&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/5026c0c25bfcbff282d43402bf637d750775f159.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 22 Mar 2021 10:30:07 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1vX4y137d3</guid>
-            <link>https://www.bilibili.com/video/BV1vX4y137d3</link>
             
             
             
