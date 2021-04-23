@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[猎影娘 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/43619319</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/43619319" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/43619319" rel="self" type="application/rss+xml" />
         <description><![CDATA[猎影娘 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 23 Apr 2021 12:27:57 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 23 Apr 2021 18:32:29 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【本宫吐槽】恐婚指数+1]]></title>

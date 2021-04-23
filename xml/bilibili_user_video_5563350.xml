@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 23 Apr 2021 12:28:29 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 23 Apr 2021 18:32:40 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[人类还需要奥特曼吗？（虚研会056）]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=760128464&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/334fb607e3f2127174e52dec9d5bec71b58f84d1.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 23 Apr 2021 13:06:11 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1u64y1i7JD</guid>
+            <link>https://www.bilibili.com/video/BV1u64y1i7JD</link>
+            
+            
+            
+            <author><![CDATA[小希小桃Channel]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[别炒了！我只是想“用”个显卡而已【沙雕观察4.08】]]></title>
@@ -196,34 +212,6 @@ Evan C<br><br><iframe src="https://player.bilibili.com/player.html?aid=545105569
             <pubDate>Wed, 07 Apr 2021 12:05:28 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Bh411D7KG</guid>
             <link>https://www.bilibili.com/video/BV1Bh411D7KG</link>
-            
-            
-            
-            <author><![CDATA[小希小桃Channel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[艾伦，你真的自由吗？（虚研会053）]]></title>
-            <description><![CDATA[Video：
-
-1.《进击的巨人》1-4季动画素材
-2.《【手绘动画】巨人最终季 第六、七集砍猴删减片段（演猿的幕后）》（BV1bU4y147mu）
-3.《【手绘动画】巨人最终季 努力还原漫画中~可爱温柔~的三笠》（BV1CT4y1N7di）
-4.《【手绘动画】 阿尔敏——用巨人之力，为世界带来爱与和平~》（BV1BA411u7vH）
-5.《ReLIFE》动画素材
-6.《尼采老师》PV素材
-
-BGM：
-
-1.神聖かまってちゃん - 僕の戦争.mp3
-2.cinema staff - Name of Lov<br><br><iframe src="https://player.bilibili.com/player.html?aid=972471415&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/a54b1195094b39719bec80a8d308f75759c642be.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Apr 2021 09:08:51 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ip4y187Qq</guid>
-            <link>https://www.bilibili.com/video/BV1ip4y187Qq</link>
             
             
             
