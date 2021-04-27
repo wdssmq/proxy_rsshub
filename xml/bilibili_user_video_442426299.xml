@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴吹夢_official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/442426299</link>
-        <atom:link href="http://rsshub/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢_official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 27 Apr 2021 12:28:42 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 27 Apr 2021 18:33:12 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【技多不压身】日本妹子第一次见学太极拳的反应...学得还可以！（成龙有被冒犯到，抱歉！）]]></title>
