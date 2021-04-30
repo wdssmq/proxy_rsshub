@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,37 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 30 Apr 2021 06:21:14 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 30 Apr 2021 12:24:53 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【翻跳】Poppin'Shakin'【NiziU 2nd Single】]]></title>
+            <description><![CDATA[虽然自己说会有点奇怪・・・・
+世・界・第・一・可・爱
+
+优秀的本家✨
+NiziU(니쥬) 2nd Single 『Poppin’ Shakin’』 MV
+
+----------------------------
+油管发布于2021年4月30日
+
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=972857122&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/9aaf4d87d7378979f050b624a3ac15e01c301743.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 30 Apr 2021 08:22:20 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Gp4y147QB</guid>
+            <link>https://www.bilibili.com/video/BV1Gp4y147QB</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[爱酱爱哥皇宫再会！来世还做你的爱妃(；д；)]]></title>
@@ -234,34 +263,6 @@ Vocal：Kizuna AI
             <pubDate>Sun, 11 Apr 2021 03:00:03 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1BK411F7Q9</guid>
             <link>https://www.bilibili.com/video/BV1BK411F7Q9</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【游戏化决定】学园模拟恋爱【绊爱学园】]]></title>
-            <description><![CDATA[新学期！！你要和绊爱一起挥洒怎样的青春呢？
-
-感谢漂亮的制服设计原案：森倉円
-
-
-----------------------------
-油管发布于2021年4月1日
-
-快来关注我吧‍(・ω< )★~
-
-❤微博❤@Kizuna_AI绊爱
-❤Youtube❤A.I.Channel A.I.Games
-❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=929938079&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/deb2c522388c7ff0a3f9a7210476c79603a38c1c.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Apr 2021 08:51:11 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1nK4y1m7ms</guid>
-            <link>https://www.bilibili.com/video/BV1nK4y1m7ms</link>
             
             
             
