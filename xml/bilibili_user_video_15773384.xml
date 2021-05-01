@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 01 May 2021 00:52:58 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 01 May 2021 06:19:44 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【摇滚吧！中二乐团】独家上线，耗时7年完成的口碑作]]></title>
+            <description><![CDATA[高中生健治有一天突发奇想，邀请伙伴太田和朝仓一起组乐队，但是三个人都对乐器一窍不通。他们的乐队是一把贝斯，再来一把贝斯，还有鼓，配置十分独特。当他们弹奏出第一个音符，立刻被一种前所未有的感觉淹没了，音乐震撼了他们。那天过后，他们决定乐队名字就叫“古典武术”，但是却发现学校里已经有一个“古典艺术”的乐队了。两个乐队明显撞型了，但在看了对方的表演之后，立刻碰撞出了合作的火花。于是他们摩拳擦掌，想要参加即将到来的摇滚音乐节…<br><br><iframe src="https://player.bilibili.com/player.html?aid=760139507&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/1950487e68c9e8bcad4d18222085b1df0876dbe3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 01 May 2021 02:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1c64y1i7A5</guid>
+            <link>https://www.bilibili.com/video/BV1c64y1i7A5</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【唐人街探案3】王宝强刘昊然联手破案，神秘Q现身！]]></title>
@@ -152,22 +168,6 @@
             <pubDate>Sat, 24 Apr 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1HU4y1b7YK</guid>
             <link>https://www.bilibili.com/video/BV1HU4y1b7YK</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【黑暗面】豆瓣8.2分悬疑片]]></title>
-            <description><![CDATA[年轻指挥家亚德里安的女友贝伦失踪了，活不见人死不见尸，只留下一段视频讯息。郁闷的亚德里安不断被警察怀疑和调查，烦不胜烦之下到小酒馆浇愁，一不小心喝的大醉，受到女招待法比安娜照顾，两人迅速陷入新的恋情。很快，法比安娜住进亚德里安的大宅，敏感的她时时感到房子里面不对劲，浴室里面好像总有奇怪的声音，亚德里安对此不以为意，但法比安娜开始时时留心，还一度怀疑是他前女友的鬼魂作祟。一天，在卧室更衣的法比安娜拾到一把古怪的钥匙，似乎接近了一个天大的秘密……<br><br><iframe src="https://player.bilibili.com/player.html?aid=714905359&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/9d7b18537e7fb42861e537692574bd5a8c342e19.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 23 Apr 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV15X4y1g7A5</guid>
-            <link>https://www.bilibili.com/video/BV15X4y1g7A5</link>
             
             
             
