@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 02 May 2021 06:21:05 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 02 May 2021 12:24:13 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[[更新至第2话]关于我转生变成史莱姆这档事 转生史莱姆日记]]></title>
