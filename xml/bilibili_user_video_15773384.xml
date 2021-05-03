@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,28 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 03 May 2021 06:22:31 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 03 May 2021 12:23:13 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【野战排】第59届奥斯卡最佳影片]]></title>
+            <description><![CDATA[泰勒（查理•辛饰）是越战期间的一名美国大学生，他前往越南前线去服兵役，被分到了一个步兵部队。部队里有两个人一直对他影响颇大——伊莱亚斯（威廉•达福饰）和巴恩斯（汤姆•贝伦杰饰）。他们两人对战争的看法截然不同，前者不忍残杀无辜，而后者却杀人如麻，泰勒心里非常迷惑，到底谁对战争的看法才是正确。巴恩斯展开了一场残忍的屠杀，越南整条村落都流血成河。伊莱亚斯力劝好友不要如此残暴，却遭致二人关系的裂缝。巴恩斯更怀疑伊莱亚斯向上司打小报告，友谊变为妒恨。于是，在一次丛林战争中，他背着所有人，向伊莱亚斯扣下了扳<br><br><iframe src="https://player.bilibili.com/player.html?aid=972404012&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/31dc02b2e21153f13b207675128044ce533d5bff.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 03 May 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV17p4y187Nk</guid>
+            <link>https://www.bilibili.com/video/BV17p4y187Nk</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【正义联盟：扎克施奈德版】4小时一刀未剪，史诗级视觉盛宴]]></title>
-            <description><![CDATA[布鲁斯·韦恩为了确保不让超人白白牺牲，他决定与戴安娜·普林斯联手并计划招募一支超能力者团队来保护世界免遭即将到来的灾难性威胁。但这项任务比布鲁斯想象中要困难，因为每位成员都必须面对并跨越自己过去的心魔，团结起来，最终形成一个前所未有的英雄联盟：蝙蝠侠、神奇女侠、海王、钢骨、闪电侠。他们现在必须联合起来，否则就无法阻止荒原狼、狄萨德以及达克赛德毁灭地球的可怕计划。<br><br><iframe src="https://player.bilibili.com/player.html?aid=672676070&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/ad41684445fff89f7d94feaa4199d9ec5e58cab4.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[布鲁斯·韦恩为了确保不让超人白白牺牲，他决定与戴安娜·普林斯联手并计划招募一支超能力者团队来保护世界免遭即将到来的灾难性威胁。但这项任务比布鲁斯想象中要困难，因为每位成员都必须面对并跨越自己过去的心魔，团结起来，最终形成一个前所未有的英雄联盟：蝙蝠侠、神奇女侠、海王、钢骨、闪电侠。他们现在必须联合起来，否则就无法阻止荒原狼、狄萨德以及达克赛德毁灭地球的可怕计划。<br><br><iframe src="https://player.bilibili.com/player.html?aid=672676070&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/bcf8f06f4160a81b195ceefb42e1246e23c41d58.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 03 May 2021 01:34:18 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1tU4y1b7XX</guid>
             <link>https://www.bilibili.com/video/BV1tU4y1b7XX</link>
@@ -151,23 +167,6 @@
             <pubDate>Tue, 27 Apr 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1H64y117du</guid>
             <link>https://www.bilibili.com/video/BV1H64y117du</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【朱丽叶与梁山伯】豆瓣8.3分爱情佳作]]></title>
-            <description><![CDATA[佐敦（吴镇宇饰）因为欠下元朗大哥新界安（任达华饰）十多万赌债，被迫逃跑。而同一时刻，孤女Judy（吴君如饰）也带着行李离开丈夫，返回元朗。佐敦好友嘉华（刘以达饰）在元朗遇见债主新界安，打电话给佐敦求救，佐敦赶往途中遇见Judy在街上狂奔。Judy正赶往医院探望刚撞车的爷爷，佐敦好心相助，载她到医院后才去救嘉华。但一到便被殴至头破血流，入院疗伤又遇见Judy。Judy自与丈夫分开后，对别人的爱已没半点希望，再加上癌症而割去一边乳房，自信心已全失。但当遇上佐敦后，封闭的心门慢慢敞开…
-<br><br><iframe src="https://player.bilibili.com/player.html?aid=247676214&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/7bac404c49fb9e447c3782659a38746a1d650d1e.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 26 Apr 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Rv41177eo</guid>
-            <link>https://www.bilibili.com/video/BV1Rv41177eo</link>
             
             
             
