@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="http://rsshub/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 03 May 2021 18:25:22 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 04 May 2021 00:47:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[鬼未曾伤我分毫，炭治郎你灭的是什么鬼？（虚研会057）]]></title>
