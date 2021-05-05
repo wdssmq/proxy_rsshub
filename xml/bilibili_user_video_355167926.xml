@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[夏実萌恵 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/355167926</link>
-        <atom:link href="http://rsshub/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
         <description><![CDATA[夏実萌恵 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 05 May 2021 00:44:09 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 05 May 2021 06:20:47 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Friday Night Funkin'值得玩吗? || NEWGROUNDS 游戏评测]]></title>
