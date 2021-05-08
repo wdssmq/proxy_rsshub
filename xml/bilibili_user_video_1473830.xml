@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,11 +14,36 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 08 May 2021 00:44:49 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 08 May 2021 06:19:36 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
-            <title><![CDATA[拯救孤独患者【孤独回避】]]></title>
+            <title><![CDATA[【反转Ver】NiziU 2nd 单曲 『Poppin’ Shakin’』【翻跳】]]></title>
+            <description><![CDATA[对着镜子跳的版本！
+大家练习翻跳的时候能用的上的话就好了
+
+----------------------------
+油管发布于2021年5月7日
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=887899413&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/96e977f07542478b08ddf76c9aa1461556afd77f.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 08 May 2021 02:47:33 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1kK4y1w76q</guid>
+            <link>https://www.bilibili.com/video/BV1kK4y1w76q</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[不 再 孤 单 一 人【孤独回避】]]></title>
             <description><![CDATA[有我在你就不孤单了！
 
 ----------------------------
@@ -228,31 +253,6 @@ https://www.youtube.com/channel/UC3-jXrZXv-PQshpaTQpicPQ
             <pubDate>Sun, 18 Apr 2021 10:29:54 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV11v41177fb</guid>
             <link>https://www.bilibili.com/video/BV11v41177fb</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【整蛊套娃】以为是整蛊但又不是整蛊的整蛊！？]]></title>
-            <description><![CDATA[这不上不下的都是个啥！！！
-
-----------------------------
-油管发布于2021年4月8日
-
-快来关注我吧‍(・ω< )★~
-
-❤微博❤@Kizuna_AI绊爱
-❤Youtube❤A.I.Channel A.I.Games
-❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=845049219&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/e8a1e7e9585b33c77fa589c5b7d2ac6517fc5d82.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 12 Apr 2021 10:35:19 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1t54y1b7vZ</guid>
-            <link>https://www.bilibili.com/video/BV1t54y1b7vZ</link>
             
             
             
