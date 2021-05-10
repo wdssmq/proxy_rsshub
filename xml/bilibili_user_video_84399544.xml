@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴肥夢甜品加工坊 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/84399544</link>
-        <atom:link href="http://rsshub/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴肥夢甜品加工坊 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 09 May 2021 18:22:30 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 10 May 2021 00:46:53 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【琴吹梦】五月之夏，来看我的直播吧！（五月录播合集更新至5.6）]]></title>
