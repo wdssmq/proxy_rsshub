@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[田中姬铃木雏Official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/296909317</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
         <description><![CDATA[田中姬铃木雏Official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 10 May 2021 00:46:30 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 10 May 2021 06:19:47 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【大量的BUG】本以为是教导机器人何谓人心的游戏]]></title>
