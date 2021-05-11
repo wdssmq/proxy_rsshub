@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,35 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 11 May 2021 06:20:11 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 11 May 2021 12:23:35 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【翻唱翻跳】Phao - 2 Phut Hon (KAIZ Remix) | TikTok Vietnamese Music 2020]]></title>
+            <description><![CDATA[好久没和爱哥一起翻唱啦?
+在TikTok上看到就很喜欢的这首歌??
+
+超棒的本家✨
+Phao - 2 Phut Hon (KAIZ Remix) | TikTok Vietnamese Music 2020
+https://youtu.be/yoZy2E17-50
+----------------------------
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel & A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=205375952&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/5cd36c63daf5679ea684cad1d52ae5d8181609d5.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 11 May 2021 09:10:05 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Wh411m7GT</guid>
+            <link>https://www.bilibili.com/video/BV1Wh411m7GT</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【翻唱】吸血鬼(ヴァンパイア) - DECO_27_covered by 绊爱]]></title>
@@ -235,30 +262,6 @@ NiziU(니쥬) 2nd Single 『Poppin’ Shakin’』 MV
             <pubDate>Wed, 21 Apr 2021 10:00:13 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1BK4y1P7tG</guid>
             <link>https://www.bilibili.com/video/BV1BK4y1P7tG</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【腊肉】【雀魂】绊爱接待麻将！谢谢大家为我做的一切！（第一局）【直播剪辑】]]></title>
-            <description><![CDATA[大家好好合计合计。
-----------------------------
-
-
-快来关注我吧‍(・ω< )★~
-
-❤微博❤@Kizuna_AI绊爱
-❤Youtube❤A.I.Channel A.I.Games
-❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=630143370&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/36b6be008a0297689012c77cce6f37ea28264666.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 20 Apr 2021 10:20:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Rb4y1D718</guid>
-            <link>https://www.bilibili.com/video/BV1Rb4y1D718</link>
             
             
             
