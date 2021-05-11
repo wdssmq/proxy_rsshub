@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[MMP字幕搬运 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/278093107</link>
-        <atom:link href="http://rsshub/bilibili/user/video/278093107" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/278093107" rel="self" type="application/rss+xml" />
         <description><![CDATA[MMP字幕搬运 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 10 May 2021 18:27:52 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 11 May 2021 00:46:41 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Canta per me - Noir【日语钢琴翻唱】]]></title>
