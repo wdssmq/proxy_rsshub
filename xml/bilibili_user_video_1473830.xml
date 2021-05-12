@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 11 May 2021 18:27:42 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 12 May 2021 00:47:52 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【翻唱翻跳】Phao - 2 Phut Hon (KAIZ Remix) | TikTok Vietnamese Music 2020]]></title>

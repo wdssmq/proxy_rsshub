@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="http://rsshub/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 11 May 2021 18:27:40 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 12 May 2021 00:47:47 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[[55周年纪念]4K蓝光SDR颜色校正版《黄金三镖客》画质欣赏剪辑]]></title>
