@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,63 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 13 May 2021 06:21:39 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 13 May 2021 18:31:44 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[undefined]夏目友人帐 唤石者与怪异的访客]]></title>
+            <description><![CDATA[本作由【唤石者】与【怪异的访客】两个人气短篇集锦而成。讲述生来便能看见各种妖怪的夏目，与自称保镖的猫咪老师一同邂逅的一系列温暖故事。
+【唤石者】一天夏目在森林中遇到一只小妖怪——密实。密实称自己肩负「...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/6cf43708b779cde84ad285ff4e3a080de98df0af.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 13 May 2021 18:31:44 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ss38627</guid>
+            <link>https://www.bilibili.com/bangumi/play/ss38627</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[[更新至第6话]佐贺偶像是传奇 卷土重来]]></title>
+            <description><![CDATA[她们是生前来自不同时期的少女，集结成为特别的偶像团体，目标只有一个：唱吧！跳吧！战斗吧！
+现在，少女们卷土重来，再次登上了舞台！...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/68bb99512e16639649be4864dea5925900d966cc.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 13 May 2021 15:45:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep399477</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep399477</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[[更新至第7话]通灵王]]></title>
+            <description><![CDATA[“通灵王（SHAMAN KING）”
+那是掌管森罗万象的星球之王。
+能够与神明或灵体交流、被称作「通灵人」的人们，
+在500年一度的「通灵人大战」当中争夺这一宝座。
+
+这些通灵人其中之一的少年·麻仓叶...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/1cd26af47cf9d9ca045ec36f56ce14a66867438d.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 13 May 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep399612</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep399612</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第6话]關於我轉生變成史萊姆這檔事 轉生史萊姆日記（僅限港澳台地區）]]></title>
@@ -154,22 +209,6 @@
         </item>
         
         <item>
-            <title><![CDATA[[更新至第1062话]名侦探柯南]]></title>
-            <description><![CDATA[主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样。之后他...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 08 May 2021 11:30:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep400920</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep400920</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[[更新至第12话]与汪汪喵喵同居的开心日常 中配版]]></title>
             <description><![CDATA[一只精神满满、可爱到爆的狗狗。一只凶神恶煞却让人讨厌不起来的猫猫。铲屎官与它们的充满欢笑与感动的每一天。
 你是犬派？还是猫派？
@@ -188,57 +227,6 @@
         </item>
         
         <item>
-            <title><![CDATA[[更新至第32话]罗小黑战记]]></title>
-            <description><![CDATA[猫妖小黑盗取天明珠被谛听发现，被打回原形重伤而逃，在流落街头之时被罗小白带回了家，起名罗小黑。
-有一天小黑突然变成了人形，告诉小白自己要暂时离开去完成师父交给自己的任务。却在离开之后因为师傅交给自己的...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/b00ab23001f8b73e7ed09fe55c1af14781f27d14.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 08 May 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep402350</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep402350</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第5话]佐贺偶像是传奇 卷土重来]]></title>
-            <description><![CDATA[她们是生前来自不同时期的少女，集结成为特别的偶像团体，目标只有一个：唱吧！跳吧！战斗吧！
-现在，少女们卷土重来，再次登上了舞台！...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/68bb99512e16639649be4864dea5925900d966cc.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 06 May 2021 15:45:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep399476</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep399476</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第5话]极主夫道]]></title>
-            <description><![CDATA[主人公被称作“不死之龙”（传闻中一晚上可以单枪匹马毁掉对手整整十处地盘传说中的极道老大）。曾是极道老大，现为家庭主夫。
-因为曾是极道人士的经历影响，遣词用句时常带有道上人的风格，容易让人感到畏惧、恐怖...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/a1b98209234a65542b1a56b228d847206b4df51c.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 06 May 2021 11:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep399418</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep399418</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[[全25话]樱花任务]]></title>
             <description><![CDATA[木春由乃是个从乡下前往东京，即将短大毕业的普通的二十岁女生。
 “在东京一切皆有可能，既然这样自己也一定能成为特别的什么人吧”，怀着如此梦想的她接受了30多家公司的面试，但仍然没能得到内定。
@@ -246,6 +234,22 @@
             <pubDate>Wed, 20 Sep 2017 16:30:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep103235</guid>
             <link>https://www.bilibili.com/bangumi/play/ep103235</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[[全12话]少女编号]]></title>
+            <description><![CDATA[拥有可爱的外表以及蔑视世间内心的女大学生·乌丸千岁。在怀抱着梦想与希望与野心踏入的声优业界，她所见到的是，残酷业界的种种严苛现实——。无工作×无干劲的新人声优·千岁，究竟能否开辟通往人气声优的道路！？...<br><img src="http://i0.hdslb.com/bfs/bangumi/783bcdb50d9702b23e3aef2e6a5bbd0508465a87.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 23 Dec 2016 04:00:09 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep96404</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep96404</link>
             
             
             

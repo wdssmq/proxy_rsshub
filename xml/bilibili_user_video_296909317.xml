@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[田中姬铃木雏Official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/296909317</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
         <description><![CDATA[田中姬铃木雏Official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 13 May 2021 12:26:03 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 13 May 2021 18:31:53 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【笑出声来马上结束】忍住不被「应援」逗笑并清唱到最后！]]></title>
