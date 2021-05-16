@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+    tags:
+      - "test-*"
 jobs:
   push:
     runs-on: ubuntu-20.04
