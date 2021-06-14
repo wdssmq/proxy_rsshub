@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[Azulim搬运组 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/508191</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
         <description><![CDATA[Azulim搬运组 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 14 Jun 2021 00:15:21 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 14 Jun 2021 16:10:12 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【坎公骑冠剑】谢谢你，陌生人]]></title>
