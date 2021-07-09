@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 09 Jul 2021 00:14:43 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 09 Jul 2021 16:06:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[绽放爱之花，《LOVESHII》爱酱与花谱的梦幻联动]]></title>
+            <description><![CDATA[双厨狂喜，JK被爱酱拐跑啦！<br><br><iframe src="https://player.bilibili.com/player.html?aid=674114286&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/0ff3fc4f3e91fb2e5ee17cdbcb1545a188d8ea37.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 09 Jul 2021 13:50:20 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1zU4y137yW</guid>
+            <link>https://www.bilibili.com/video/BV1zU4y137yW</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【翻唱】疼痛快飞走 - 真島ゆろ _ covered by 绊爱]]></title>
@@ -218,29 +234,6 @@ Download / Stream : https://linkco.re/yPXYfR3N
             <pubDate>Sun, 06 Jun 2021 10:15:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1kq4y1j7bs</guid>
             <link>https://www.bilibili.com/video/BV1kq4y1j7bs</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【Music】Kizuna AI - over the reality (Moe Shop Remix)]]></title>
-            <description><![CDATA[■ Kizuna AI & Moe Shop - RADIO LOVE HIGHWAY
-各大音乐直播平台正在配信中！
-Download / Stream : https://linkco.re/yPXYfR3N
-
-01. Kizuna AI & Moe Shop - RADIO LOVE HIGHWAY
-02. Moe Shop - Notice (feat. Kizuna AI)
-03. Kizuna AI - Again (Moe Shop Remix)
-04. Kizuna AI - over th<br><br><iframe src="https://player.bilibili.com/player.html?aid=888417424&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/dab1bc49a01772e1b65248c2b774f529e8a8f862.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 05 Jun 2021 10:30:04 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1XK4y1g7Uk</guid>
-            <link>https://www.bilibili.com/video/BV1XK4y1g7Uk</link>
             
             
             
