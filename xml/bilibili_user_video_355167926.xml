@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[夏実萌恵 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/355167926</link>
-        <atom:link href="http://rsshub/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
         <description><![CDATA[夏実萌恵 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,39 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 11 Jul 2021 00:16:10 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 11 Jul 2021 16:09:30 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[让萌惠教你爱在中世纪]]></title>
+            <description><![CDATA[Hi guys！我是夏实萌惠！
+
+你有没有想过中世纪的爱情、浪漫和婚姻是什么样的？没有？哦，好吧。今天的视频将向你科普中世纪的求爱。这可能是这个频道的最后一个教育视频了，我马上就要迁移到一个新的频道了。
+
+这个视频是我做的噢！
+
+字幕协力：MMP字幕组
+翻译：Oktp
+时轴：Nigel
+校对：胧月、Cash
+后期：铠歌
+压制：铠歌
+
+我们还在吃人噢，审核群278910064
+
+爱我就点个关注吧！<br><br><iframe src="https://player.bilibili.com/player.html?aid=589087381&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/33aa2db5dcd1a1638d8f7849bd8e2da3cb8fe9a9.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 11 Jul 2021 12:48:11 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV15B4y1N7Zm</guid>
+            <link>https://www.bilibili.com/video/BV15B4y1N7Zm</link>
+            
+            
+            
+            <author><![CDATA[夏実萌恵]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Zzzz]]></title>
@@ -215,22 +246,6 @@ Ahoy！你这个坏蛋！来玩盗贼之海2021年版吧！为了我们的战利
             <pubDate>Sun, 16 May 2021 09:14:35 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1M64y1m7rt</guid>
             <link>https://www.bilibili.com/video/BV1M64y1m7rt</link>
-            
-            
-            
-            <author><![CDATA[夏実萌恵]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[早]]></title>
-            <description><![CDATA[原推特视频发送时间2021年5月14日 22：06<br><br><iframe src="https://player.bilibili.com/player.html?aid=758054920&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/9a785ef026a3e5604e5b6f4f6beb47622f5d5217.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 14 May 2021 15:44:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1c64y1m7Xe</guid>
-            <link>https://www.bilibili.com/video/BV1c64y1m7Xe</link>
             
             
             
