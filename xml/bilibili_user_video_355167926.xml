@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[夏実萌恵 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/355167926</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/355167926" rel="self" type="application/rss+xml" />
         <description><![CDATA[夏実萌恵 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 11 Jul 2021 16:09:30 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 12 Jul 2021 00:15:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[让萌惠教你爱在中世纪]]></title>
