@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 14 Jul 2021 00:14:52 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 14 Jul 2021 16:06:31 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[《剃须》四月新番播放第一？ ABEMA平台数据出台！沙优大胜利]]></title>
+            <description><![CDATA[:0<br><br><iframe src="https://player.bilibili.com/player.html?aid=761680727&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/e11ce2c36bcba0118448114a0009b250f289b5d0.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 14 Jul 2021 08:19:08 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1U64y147fz</guid>
+            <link>https://www.bilibili.com/video/BV1U64y147fz</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【翻配】（不会上海话的）小叶子发来偶像组队邀请！]]></title>
@@ -165,22 +181,6 @@
             <pubDate>Fri, 02 Jul 2021 08:48:49 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Eg411u7sK</guid>
             <link>https://www.bilibili.com/video/BV1Eg411u7sK</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[绅士必看！《噬血狂袭》真的用OVA做到完结了！]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=716488743&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/ea457b5ecebf08527be592f714ade89f74d73240.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Jul 2021 08:38:50 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PX4y1w7b9</guid>
-            <link>https://www.bilibili.com/video/BV1PX4y1w7b9</link>
             
             
             
