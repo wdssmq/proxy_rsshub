@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 16 Jul 2021 00:16:38 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 16 Jul 2021 16:06:44 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【理发师】斯科特·格伦主演，美国犯罪惊悚片]]></title>
+            <description><![CDATA[美国某个小镇，貌不惊人的小老头尤金·范·温格特正坐在餐厅里喝着咖啡，这时他敏锐地发现一个年轻人正在盯着他。弗兰西斯试图悄然离去，谁知竟在外面遭到青年的攻击。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291377847&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/9a4d84a729c7894d92d9ce924fe50e9809c7982e.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Jul 2021 10:00:29 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV13f4y1b7sY</guid>
+            <link>https://www.bilibili.com/video/BV13f4y1b7sY</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【重整旗鼓】真实故事改编拳击片，塞缪尔·杰克逊主演]]></title>
+            <description><![CDATA[他是一个落魄的拳手，曾经的辉煌年代早已过去，他也不愿再提，如今他推着一辆超市手推车流浪在街头，连一个名字都没有，同伴们给他起了个外号——反复嚼。艾里克是一个不太成功的记者，除了被老板派遣去采访一些毫无价值的体育新闻外，他一事无成。<br><br><iframe src="https://player.bilibili.com/player.html?aid=716359877&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/ee1a0bcf9a936bf4f66c0dc4a90af2880675f127.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 16 Jul 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PX4y1P7kn</guid>
+            <link>https://www.bilibili.com/video/BV1PX4y1P7kn</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【动作/惊悚/犯罪】边缘战士【阿诺·施瓦辛格】]]></title>
-            <description><![CDATA[为求达到英雄梦，前FBI特务阿诺·施瓦辛格接受一项接近死亡边缘的任务，凭借与众不同对付罪犯的独特手段，智破罪恶集团，完成艰巨任务! <br><br><iframe src="https://player.bilibili.com/player.html?aid=246242779&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/aebf8b2e71c7077f81678c2bf97fff449d03ccc8.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[为求达到英雄梦，前FBI特务阿诺·施瓦辛格接受一项接近死亡边缘的任务，凭借与众不同对付罪犯的独特手段，智破罪恶集团，完成艰巨任务! <br><br><iframe src="https://player.bilibili.com/player.html?aid=246242779&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/aebf8b2e71c7077f81678c2bf97fff449d03ccc8.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 15 Jul 2021 10:04:22 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Sv411W7Q9</guid>
             <link>https://www.bilibili.com/video/BV1Sv411W7Q9</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【演员的自我修养】杰瑞米·艾恩斯主演公路喜剧]]></title>
-            <description><![CDATA[杰瑞米·艾恩斯、杰克·休斯顿出演公路片《演员的自我修养》。杰瑞米·艾恩斯饰演的父亲是一名自视甚高的演员，杰克·休斯顿则饰性格迥异的儿子。因要从洛杉矶赶往纽约参加女儿的婚礼，身体不适的父亲不得不在儿子的陪伴下开始了一段“特殊旅行”。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931261761&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/50b7360439eb482dfb5604c90ad5e2d3367ba514.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[杰瑞米·艾恩斯、杰克·休斯顿出演公路片《演员的自我修养》。杰瑞米·艾恩斯饰演的父亲是一名自视甚高的演员，杰克·休斯顿则饰性格迥异的儿子。因要从洛杉矶赶往纽约参加女儿的婚礼，身体不适的父亲不得不在儿子的陪伴下开始了一段“特殊旅行”。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931261761&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/50b7360439eb482dfb5604c90ad5e2d3367ba514.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 15 Jul 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1hM4y1u7F4</guid>
             <link>https://www.bilibili.com/video/BV1hM4y1u7F4</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【光】河濑直美导演，戛纳金棕榈奖提名]]></title>
-            <description><![CDATA[尾崎美佐子从事着一份特殊的职业，她的工作是将电影画面转化成文字写下来，再录制成音轨，为的是能让双目失明的盲人们亦能享受电影带给他们的无限想象和乐趣。近日里，美佐子的工作遭遇了瓶颈期，她所撰写的解说始终无法获得盲人观众的认可，更有一位名叫中森雅哉的摄影师，不断的向她抛出尖锐的问题。<br><br><iframe src="https://player.bilibili.com/player.html?aid=376580417&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/55ac5c70dfca61c16af2dd4f37371ee6a3c16c78.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[尾崎美佐子从事着一份特殊的职业，她的工作是将电影画面转化成文字写下来，再录制成音轨，为的是能让双目失明的盲人们亦能享受电影带给他们的无限想象和乐趣。近日里，美佐子的工作遭遇了瓶颈期，她所撰写的解说始终无法获得盲人观众的认可，更有一位名叫中森雅哉的摄影师，不断的向她抛出尖锐的问题。<br><br><iframe src="https://player.bilibili.com/player.html?aid=376580417&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/55ac5c70dfca61c16af2dd4f37371ee6a3c16c78.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 14 Jul 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV18o4y1X7Aj</guid>
             <link>https://www.bilibili.com/video/BV18o4y1X7Aj</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【旺角揸Fit人】吴镇宇、李丽珍主演]]></title>
-            <description><![CDATA[生命垂危的黑帮人叻君（吴镇宇 饰）讲述了他被出卖被背叛的一生：曾经天真的他被骗入黑社会，投身于无良黑帮大佬的门下，被朋友出卖，惹来了不少麻烦。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931573565&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/47171ea46ce26aefd299575d6969febb8735b8a2.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[生命垂危的黑帮人叻君（吴镇宇 饰）讲述了他被出卖被背叛的一生：曾经天真的他被骗入黑社会，投身于无良黑帮大佬的门下，被朋友出卖，惹来了不少麻烦。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931573565&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/47171ea46ce26aefd299575d6969febb8735b8a2.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 13 Jul 2021 10:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1vM4y1M7ij</guid>
             <link>https://www.bilibili.com/video/BV1vM4y1M7ij</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【少年歌德之烦恼】爱上上司未婚妻，写下世界最长情书]]></title>
-            <description><![CDATA[歌德出生在一个家教甚严的家庭之中，父亲一直希望儿子能够研习法律走上权衡公平与正义的道路，歌德选择听从父亲的话，进入法学院深造。然而，歌德内心的文学之魂一直都在蠢蠢欲动，在学习法律期间，他将大部分的事件都放在了文学创作之上，成绩自然一落千丈，并且最终被学校除名...<br><br><iframe src="https://player.bilibili.com/player.html?aid=716348109&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/acd3c045cf199b9b200910c133714448a6388448.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[歌德出生在一个家教甚严的家庭之中，父亲一直希望儿子能够研习法律走上权衡公平与正义的道路，歌德选择听从父亲的话，进入法学院深造。然而，歌德内心的文学之魂一直都在蠢蠢欲动，在学习法律期间，他将大部分的事件都放在了文学创作之上，成绩自然一落千丈，并且最终被学校除名...<br><br><iframe src="https://player.bilibili.com/player.html?aid=716348109&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/acd3c045cf199b9b200910c133714448a6388448.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 13 Jul 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1gX4y1P7oM</guid>
             <link>https://www.bilibili.com/video/BV1gX4y1P7oM</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【淹没】詹姆斯·麦卡沃伊、艾丽西亚·维坎德主演]]></title>
-            <description><![CDATA[詹姆斯·麦卡沃伊、艾丽西亚·维坎德加盟的爱情片《淹没》将于三月开机，导演维姆·文德斯。故事围绕女科学家丹妮尔与英国商人詹姆斯的爱情故事展开。詹姆斯因被伊斯兰圣战分子囚禁，与丹妮尔远隔千里，两人的爱情面临生与死的考验。Embankment公司将在2月开展的欧洲电影交易市场上对本片进行预售。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291420201&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/553a08d85f9953117cc72dc9988e4b24fbf5123d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[詹姆斯·麦卡沃伊、艾丽西亚·维坎德加盟的爱情片《淹没》将于三月开机，导演维姆·文德斯。故事围绕女科学家丹妮尔与英国商人詹姆斯的爱情故事展开。詹姆斯因被伊斯兰圣战分子囚禁，与丹妮尔远隔千里，两人的爱情面临生与死的考验。Embankment公司将在2月开展的欧洲电影交易市场上对本片进行预售。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291420201&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/553a08d85f9953117cc72dc9988e4b24fbf5123d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 12 Jul 2021 10:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1pf4y1b7Qd</guid>
             <link>https://www.bilibili.com/video/BV1pf4y1b7Qd</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【独家】潜水艇（2010）【克雷格·罗伯兹/亚丝明·佩奇】]]></title>
-            <description><![CDATA[十五岁的奥利弗坐在教室里的时候脑中总是充满各种幻想，周围的一切对他来说都是普通中蕴含奇异的存在。在同学里他总是显得不合群，他注意到同学祖娜也是如此。祖娜在铁桥下约见奥利弗并拍下两人亲吻的照片以此来刺激前男友，奥利弗为此付出了被祖娜前男友教训的代价，而这却让两个人真正走在一起了。<br><br><iframe src="https://player.bilibili.com/player.html?aid=248883152&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/f9b5fe4012e984dd14ab79f60896c182b65fc0fb.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[十五岁的奥利弗坐在教室里的时候脑中总是充满各种幻想，周围的一切对他来说都是普通中蕴含奇异的存在。在同学里他总是显得不合群，他注意到同学祖娜也是如此。祖娜在铁桥下约见奥利弗并拍下两人亲吻的照片以此来刺激前男友，奥利弗为此付出了被祖娜前男友教训的代价，而这却让两个人真正走在一起了。<br><br><iframe src="https://player.bilibili.com/player.html?aid=248883152&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/f9b5fe4012e984dd14ab79f60896c182b65fc0fb.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 12 Jul 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1xv411H7iD</guid>
             <link>https://www.bilibili.com/video/BV1xv411H7iD</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【交响诗篇 超进化2】（2018）]]></title>
-            <description><![CDATA[故事讲述在儿时的那一天，父亲留下安妮莫奈前往战场，之后成为了不归人。悔恨之情深深存留在安妮莫奈小小的胸膛中。过了7年，安妮莫奈身处父亲逝去的战场——东京。作为实验部队阿西德所执行的作战关键，安妮莫奈不得不与人类的敌人“第7个Eureka=Eureka Seven”战斗。被Eureka Seven逼入绝境的人类，已经只能把希望寄托在安妮莫奈身上了。<br><br><iframe src="https://player.bilibili.com/player.html?aid=630915703&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/bc0f7a2b4a852ebcf363f4729ae2f02c7bfc843d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[故事讲述在儿时的那一天，父亲留下安妮莫奈前往战场，之后成为了不归人。悔恨之情深深存留在安妮莫奈小小的胸膛中。过了7年，安妮莫奈身处父亲逝去的战场——东京。作为实验部队阿西德所执行的作战关键，安妮莫奈不得不与人类的敌人“第7个Eureka=Eureka Seven”战斗。被Eureka Seven逼入绝境的人类，已经只能把希望寄托在安妮莫奈身上了。<br><br><iframe src="https://player.bilibili.com/player.html?aid=630915703&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/bc0f7a2b4a852ebcf363f4729ae2f02c7bfc843d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 11 Jul 2021 10:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1vb4y1Z74Y</guid>
             <link>https://www.bilibili.com/video/BV1vb4y1Z74Y</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【交响诗篇 超进化1】（2017）]]></title>
-            <description><![CDATA[十年前，发生了震撼世界的重大事件“第一次爱之夏”。兰顿失去了他的父亲阿德洛克，现在已经在边境城镇贝尔福雷斯特参加了塔州联盟军校。被称赞为英雄的已故父亲。什么都没有的单调日常。兰顿身边的一切都很闷。但在兰顿面前，世界上最古老的LFO尼尔瓦修突然出现。从驾驶舱出现的是优莱卡。兰顿和优莱卡的旅程将在哪里结束？<br><br><iframe src="https://player.bilibili.com/player.html?aid=205897397&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/825d608fe12a05f487e54fc90d0185a2e5b71a33.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 11 Jul 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Kh411e7Lr</guid>
-            <link>https://www.bilibili.com/video/BV1Kh411e7Lr</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【波斯语课】豆瓣8.2分，年度口碑佳作]]></title>
-            <description><![CDATA[二战期间，犹太人吉尔斯在集中营谎称自己是波斯人保命，被一位德国军官看中要求教自己波斯语。对波斯语完全不懂的吉尔斯只能凭空编出一门语言，他开始用集中营中关押的犹太人的名字作为词根，编造出上千个“波斯语”单词，军官在残暴的环境中对吉尔斯竟有了依赖，并开始袒护他，不料集中营中来了一 个真正的波斯人……<br><br><iframe src="https://player.bilibili.com/player.html?aid=546300143&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/3d790155fb5453a92ea17855efb5a55a8b8fa396.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 10 Jul 2021 08:00:00 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1dq4y1L7nb</guid>
-            <link>https://www.bilibili.com/video/BV1dq4y1L7nb</link>
             
             
             
