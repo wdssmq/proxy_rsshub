@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,13 +14,13 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 16 Jul 2021 16:06:14 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 17 Jul 2021 00:14:49 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[1921年巴斯特·基顿无声喜剧短片《厄运》]]></title>
             <description><![CDATA[《厄运》由巴斯特·基顿自导自演，1921年发行。本片曾一度被认为丢失，找回后发行的也是残片，很多片段以及结尾均丢失。此版本为法国Lobster修复的版本，基本上补齐了所有丢失的片段，是目前市面上最完整的版本。
-配乐：Stephen Horne<br><br><iframe src="https://player.bilibili.com/player.html?aid=673923425&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/568031cdd161369fef9b8c139d3c89ffd57f360e.jpg" referrerpolicy="no-referrer">]]></description>
+配乐：Stephen Horne<br><br><iframe src="https://player.bilibili.com/player.html?aid=673923425&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/568031cdd161369fef9b8c139d3c89ffd57f360e.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 04 Jul 2021 03:57:41 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1VU4y1V7sh</guid>
             <link>https://www.bilibili.com/video/BV1VU4y1V7sh</link>
@@ -37,7 +37,7 @@
         <item>
             <title><![CDATA[1923年巴斯特·基顿无声喜剧短片《气球》]]></title>
             <description><![CDATA[《气球》由巴斯特·基顿自导自演，1923年发行，是基顿独立制片时期的最后一部无声短片。
-配乐：Stephen Horne<br><br><iframe src="https://player.bilibili.com/player.html?aid=673740462&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/fa941239617475e88be12106493bcc0d2caf25b5.jpg" referrerpolicy="no-referrer">]]></description>
+配乐：Stephen Horne<br><br><iframe src="https://player.bilibili.com/player.html?aid=673740462&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/fa941239617475e88be12106493bcc0d2caf25b5.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 20 Jun 2021 14:35:52 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1jU4y1G7pu</guid>
             <link>https://www.bilibili.com/video/BV1jU4y1G7pu</link>
@@ -54,7 +54,7 @@
         <item>
             <title><![CDATA[哥伦比亚经典电影4K蓝光第二辑官方预告片（9月14日上市）]]></title>
             <description><![CDATA[https://www.youtube.com/watch?v=Tj_bAVI63x8
-4K套装包含杜比视界版《出租车司机》《社交网络》以及HDR10版本《桃色血案》《雾都孤儿》《杂牌军东征》《理智与情感》，定于2021年9月14日上市。<br><br><iframe src="https://player.bilibili.com/player.html?aid=758694084&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/c2f92da7b9a33a105e58019d109337de16567248.jpg" referrerpolicy="no-referrer">]]></description>
+4K套装包含杜比视界版《出租车司机》《社交网络》以及HDR10版本《桃色血案》《雾都孤儿》《杂牌军东征》《理智与情感》，定于2021年9月14日上市。<br><br><iframe src="https://player.bilibili.com/player.html?aid=758694084&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/c2f92da7b9a33a105e58019d109337de16567248.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 18 Jun 2021 04:23:57 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1U64y1X7X2</guid>
             <link>https://www.bilibili.com/video/BV1U64y1X7X2</link>
@@ -71,7 +71,7 @@
         <item>
             <title><![CDATA[[预告]最新修复版蓝光巴斯特·基顿《航海家》《福尔摩斯二世》]]></title>
             <description><![CDATA[视频来源：Lobster Films
-法国巴黎Lobster Films重磅推出两部巴斯特·基顿的经典影片蓝光版，其中《航海家》的画质明显好于先前Cohen发行的4K修复版，配乐均为全新。<br><br><iframe src="https://player.bilibili.com/player.html?aid=206031419&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/3b4f1d0c0d64742d244a81e143612e64d0b26ba3.jpg" referrerpolicy="no-referrer">]]></description>
+法国巴黎Lobster Films重磅推出两部巴斯特·基顿的经典影片蓝光版，其中《航海家》的画质明显好于先前Cohen发行的4K修复版，配乐均为全新。<br><br><iframe src="https://player.bilibili.com/player.html?aid=206031419&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/3b4f1d0c0d64742d244a81e143612e64d0b26ba3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 10 Jun 2021 03:58:11 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Bh411e7wS</guid>
             <link>https://www.bilibili.com/video/BV1Bh411e7wS</link>
@@ -88,7 +88,7 @@
         <item>
             <title><![CDATA[1957年查尔斯·卓别林电影《一个国王在纽约/纽约之王》]]></title>
             <description><![CDATA[《一个国王在纽约》是喜剧大师卓别林晚期自编自导自演作品，讲述一个流亡国王在美国寻求庇护的故事。
-字幕：繁体中文<br><br><iframe src="https://player.bilibili.com/player.html?aid=588473749&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/5025857bc957f5e0449af8f677d4b461e6b1cfd1.jpg" referrerpolicy="no-referrer">]]></description>
+字幕：繁体中文<br><br><iframe src="https://player.bilibili.com/player.html?aid=588473749&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/5025857bc957f5e0449af8f677d4b461e6b1cfd1.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 04 Jun 2021 05:12:35 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1uB4y1g78Z</guid>
             <link>https://www.bilibili.com/video/BV1uB4y1g78Z</link>
@@ -105,7 +105,7 @@
         <item>
             <title><![CDATA[【首映重构版】1921年查尔斯·卓别林经典喜剧《小孩/寻子遇仙记》]]></title>
             <description><![CDATA[《小孩》是卓别林执导的首部真正意义的长片，上映于1921年。1971年，卓别林对影片进行了删减，并且自己作曲重新配乐。现在所有市面上的蓝光版本都是这个53分钟版。
-重映版也许是一部更加“完美”的电影，但是不可否认1921年的原版更具有戏剧性和实验性，且在当年获得了极大成功。这个版本不应该被彻底抛弃。此“重构版”意在重构1921年原始公映版，画面源于蓝光版、花絮中的删减片段以及68分钟版DVD，帧率统一为20，音乐源于Timothy Brock根据卓别林配乐改编的全新录音，经调速剪辑匹配视频。<br><br><iframe src="https://player.bilibili.com/player.html?aid=503208827&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/e7d895d926f79a01039f5824fe45595e29009c85.jpg" referrerpolicy="no-referrer">]]></description>
+重映版也许是一部更加“完美”的电影，但是不可否认1921年的原版更具有戏剧性和实验性，且在当年获得了极大成功。这个版本不应该被彻底抛弃。此“重构版”意在重构1921年原始公映版，画面源于蓝光版、花絮中的删减片段以及68分钟版DVD，帧率统一为20，音乐源于Timothy Brock根据卓别林配乐改编的全新录音，经调速剪辑匹配视频。<br><br><iframe src="https://player.bilibili.com/player.html?aid=503208827&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/e7d895d926f79a01039f5824fe45595e29009c85.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 21 May 2021 14:02:14 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV17N411Z7pS</guid>
             <link>https://www.bilibili.com/video/BV17N411Z7pS</link>
@@ -121,7 +121,7 @@
         
         <item>
             <title><![CDATA[[55周年纪念]4K蓝光SDR颜色校正版《黄金三镖客》画质欣赏剪辑]]></title>
-            <description><![CDATA[此剪辑视频来源取自Kino Lorber 2021年发行的4K蓝光《黄金三镖客》，之前发行的4K修复版本蓝光颇有争议的“黄色滤镜”被重新校色处理。这个版本比市面上所有其他版本更为清晰、颜色也更为自然。<br><br><iframe src="https://player.bilibili.com/player.html?aid=247866481&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/0401d9711c097c7d3d53385e72eb563ad98c0c39.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[此剪辑视频来源取自Kino Lorber 2021年发行的4K蓝光《黄金三镖客》，之前发行的4K修复版本蓝光颇有争议的“黄色滤镜”被重新校色处理。这个版本比市面上所有其他版本更为清晰、颜色也更为自然。<br><br><iframe src="https://player.bilibili.com/player.html?aid=247866481&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/0401d9711c097c7d3d53385e72eb563ad98c0c39.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 28 Apr 2021 07:59:23 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Vv411j7ts</guid>
             <link>https://www.bilibili.com/video/BV1Vv411j7ts</link>
@@ -139,7 +139,7 @@
             <title><![CDATA[1929年劳莱与哈台主演无声喜剧短片《一错再错》]]></title>
             <description><![CDATA[《一错再错》于1929年上映，莱奥·麦卡雷执导。本片讲述了劳莱与哈台错把一匹名为“忧郁男孩”的马当作同名失窃画作归还失主的故事。
 此特别版综合了市面上的三个不同版本，还原原始字卡，部分片段经过超分辨率、调色处理以呈现最佳效果。原始同步音轨经过剪辑以匹配画面。
-特别版制作、字幕翻译：影迷qzm<br><br><iframe src="https://player.bilibili.com/player.html?aid=417718892&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/956a8216c1aab7c3b4c755feb30405b5d5bdd7c9.jpg" referrerpolicy="no-referrer">]]></description>
+特别版制作、字幕翻译：影迷qzm<br><br><iframe src="https://player.bilibili.com/player.html?aid=417718892&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/956a8216c1aab7c3b4c755feb30405b5d5bdd7c9.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 24 Apr 2021 13:58:51 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1WV411J7ZA</guid>
             <link>https://www.bilibili.com/video/BV1WV411J7ZA</link>
@@ -156,7 +156,7 @@
         <item>
             <title><![CDATA[1929年劳莱与哈台主演无声喜剧短片《大买卖》]]></title>
             <description><![CDATA[《大买卖》于1928年上映，詹姆斯·W·霍恩执导。本片是劳莱与哈台在默片时期的代表作品之一，讲述二人卖圣诞树引发的冲突、混乱以至疯狂。
-画面经调速、超分辨率以呈现最佳效果。<br><br><iframe src="https://player.bilibili.com/player.html?aid=417696704&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/0e993f809e469767b03b0adb11bfcfd27696112c.jpg" referrerpolicy="no-referrer">]]></description>
+画面经调速、超分辨率以呈现最佳效果。<br><br><iframe src="https://player.bilibili.com/player.html?aid=417696704&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/0e993f809e469767b03b0adb11bfcfd27696112c.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 17 Apr 2021 14:38:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1xV411J7Uk</guid>
             <link>https://www.bilibili.com/video/BV1xV411J7Uk</link>
@@ -173,7 +173,7 @@
         <item>
             <title><![CDATA[1915年查尔斯·卓别林无声喜剧短片《卡门滑稽剧》]]></title>
             <description><![CDATA[《卡门滑稽剧》是卓别林在埃森内电影公司制作发行的一部短片，由卓别林自导自演，戏仿了同年的塞西尔·德米尔电影《卡门》。
-配乐：Timothy Brock（改编自乔治·比才歌剧《卡门》）<br><br><iframe src="https://player.bilibili.com/player.html?aid=587515381&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/b9c4d195310334bed996aaa0e4ef4192b9821b44.jpg" referrerpolicy="no-referrer">]]></description>
+配乐：Timothy Brock（改编自乔治·比才歌剧《卡门》）<br><br><iframe src="https://player.bilibili.com/player.html?aid=587515381&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b9c4d195310334bed996aaa0e4ef4192b9821b44.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 16 Apr 2021 15:21:11 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1YB4y1w7CC</guid>
             <link>https://www.bilibili.com/video/BV1YB4y1w7CC</link>
