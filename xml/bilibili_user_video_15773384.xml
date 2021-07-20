@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,57 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 20 Jul 2021 00:14:33 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 20 Jul 2021 16:06:26 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【好莱坞式结局】伍迪·艾伦、蒂娅·里欧妮主演黑色幽默喜剧]]></title>
+            <description><![CDATA[这时瓦克斯曼的事业并不如意，生活有点潦倒。他常常想起当年自己的风采，那段峥嵘岁月里他曾得过两届的奥斯卡奖。他拼命在无奈的生活中挣扎，幸好有前妻艾丽为他推荐，有机会执导一部新电影。<br><br><iframe src="https://player.bilibili.com/player.html?aid=974272176&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b27c8c4b1ce22928e08457ece25f17373a915cd2.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Jul 2021 11:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1c44y1m7VB</guid>
+            <link>https://www.bilibili.com/video/BV1c44y1m7VB</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【奇招尽出】伍迪·艾伦执导爱情喜剧]]></title>
+            <description><![CDATA[从看到阿曼达（克里斯蒂娜·里奇 Christina Ricci 饰）第一眼起，杰瑞（贾森·比格斯 Jason Biggs 饰）就深深的爱上了她，尽管此时的杰瑞身边已有佳人相伴而阿曼达亦名花有主，但这残酷的事实依旧无法阻挡杰瑞渴求阿曼达的心。并且，撇开世俗道德不谈，两人也确实是天设地造的一对。
+　　就这样，都并非“自由身”的两人走到了一起，而他们之间的私情很快就东窗事发了，杰瑞的女友和阿曼达的男友选择退出，杰瑞终于可以名正言顺的和阿曼达出双入对了。如果你以为故事到这里就结束了那可真是大错特错，好不<br><br><iframe src="https://player.bilibili.com/player.html?aid=461665508&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/f58f8b8df90d47d7661e3aaa9acb2d1399bafb05.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Jul 2021 10:01:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ML411H7Zo</guid>
+            <link>https://www.bilibili.com/video/BV1ML411H7Zo</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【异形：汇合】豆瓣2.5分山寨怪兽爽片]]></title>
+            <description><![CDATA[致力于光学神经芯片项目的国防部高级研究计划局研究员艾玛曾是一名优秀的飞行员，但因为早年间的一次坠机事件导致她抗拒进入驾驶舱，但同时也激发她设计利用思维操纵飞机的灵感。当她和四位因伤残退役的飞行员同事对他们的科研项目进行飞行试验时，发现飞机模型与一头不明生物在空中缠斗。<br><br><iframe src="https://player.bilibili.com/player.html?aid=248778302&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/0c2594808f0c6ae5c65f94ae82eeed9e749562e4.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 20 Jul 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Xv411n7Jy</guid>
+            <link>https://www.bilibili.com/video/BV1Xv411n7Jy</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【玉蝎子的魔咒】伍迪·艾伦、查理兹·塞隆主演犯罪喜剧]]></title>
@@ -119,54 +168,6 @@
             <pubDate>Fri, 16 Jul 2021 10:00:29 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV13f4y1b7sY</guid>
             <link>https://www.bilibili.com/video/BV13f4y1b7sY</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【重整旗鼓】真实故事改编拳击片，塞缪尔·杰克逊主演]]></title>
-            <description><![CDATA[他是一个落魄的拳手，曾经的辉煌年代早已过去，他也不愿再提，如今他推着一辆超市手推车流浪在街头，连一个名字都没有，同伴们给他起了个外号——反复嚼。艾里克是一个不太成功的记者，除了被老板派遣去采访一些毫无价值的体育新闻外，他一事无成。<br><br><iframe src="https://player.bilibili.com/player.html?aid=716359877&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/ee1a0bcf9a936bf4f66c0dc4a90af2880675f127.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 16 Jul 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PX4y1P7kn</guid>
-            <link>https://www.bilibili.com/video/BV1PX4y1P7kn</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【边缘战士】施瓦辛格动作片]]></title>
-            <description><![CDATA[为求达到英雄梦，前FBI特务阿诺·施瓦辛格接受一项接近死亡边缘的任务，凭借与众不同对付罪犯的独特手段，智破罪恶集团，完成艰巨任务! <br><br><iframe src="https://player.bilibili.com/player.html?aid=246242779&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/9781a29585cecad1de38911efe346dd60c06bb23.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 15 Jul 2021 10:04:22 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Sv411W7Q9</guid>
-            <link>https://www.bilibili.com/video/BV1Sv411W7Q9</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【演员的自我修养】杰瑞米·艾恩斯主演公路喜剧]]></title>
-            <description><![CDATA[杰瑞米·艾恩斯、杰克·休斯顿出演公路片《演员的自我修养》。杰瑞米·艾恩斯饰演的父亲是一名自视甚高的演员，杰克·休斯顿则饰性格迥异的儿子。因要从洛杉矶赶往纽约参加女儿的婚礼，身体不适的父亲不得不在儿子的陪伴下开始了一段“特殊旅行”。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931261761&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/50b7360439eb482dfb5604c90ad5e2d3367ba514.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 15 Jul 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1hM4y1u7F4</guid>
-            <link>https://www.bilibili.com/video/BV1hM4y1u7F4</link>
             
             
             
