@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,40 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 22 Jul 2021 00:15:31 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 22 Jul 2021 16:06:03 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【夜色人生】本·阿弗莱克自导自演黑帮片]]></title>
+            <description><![CDATA[《以夜为生》根据美国当代著名作家丹尼斯·勒翰2012年同名小说改编，故事设定在上世纪20、30年代，讲述了一个出身于警察世家的年轻人乔·考夫林加入黑帮、越陷越深、走上不归路的故事。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931826675&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/958c4274ce31325e6cfba832ec5c8cdf3046c8a0.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 22 Jul 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1GM4y1T7br</guid>
+            <link>https://www.bilibili.com/video/BV1GM4y1T7br</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【再见完美结局】凯伦·吉兰主演小清新爱情喜剧]]></title>
+            <description><![CDATA[年轻小说家Jane完成了带有自传性质的作品，被多家出版社退稿后，终于得到出版商Tom的赏识。二人经过一番讨论修改后，小说出版了，然而Jane发现书名被Tom擅自改成《完美结局》。<br><br><iframe src="https://player.bilibili.com/player.html?aid=931459446&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/c60cace30c47786eaa0c8cb785f1947c58bb7edb.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 22 Jul 2021 05:15:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1QM4y1T7Ck</guid>
+            <link>https://www.bilibili.com/video/BV1QM4y1T7Ck</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【情人与知己】简·奥斯汀小说改编，凯特·贝金赛尔主演]]></title>
@@ -136,38 +168,6 @@
             <pubDate>Sun, 18 Jul 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ny4y1T7B5</guid>
             <link>https://www.bilibili.com/video/BV1ny4y1T7B5</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【菲比梦游奇境】艾丽·范宁主演“爱丽丝”的奇妙仙境]]></title>
-            <description><![CDATA[9岁女孩菲比进入学校话剧团，饰演《爱丽丝梦游仙境》的主角爱丽丝，话剧老师道吉尔小姐对菲比赞誉有佳。但话剧团外的菲比却问题重重，因向同学吐口水和无法控制自己的行为而屡遭麻烦。菲比的母亲希拉里拒绝承认菲比身患强迫性神经官能症的事实，面对多重压力，希拉里与丈夫皮特的矛盾频繁升级。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334178330&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/31a62240e0f8736529ffd197db781ff2f7596658.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 18 Jul 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Cw411d7WJ</guid>
-            <link>https://www.bilibili.com/video/BV1Cw411d7WJ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【时光尽头的恋人】布莱克·莱弗利演绎冻龄女神]]></title>
-            <description><![CDATA[1908年，阿戴琳出生了，一晃眼27年过去，曾经那个哇哇啼哭的小婴儿已经长大成人，组建了属于自己的家庭，成为了一名母亲。然而，就在这人生中最幸福的时刻，一场意外的发生让阿戴琳徘徊在生死的边缘并最终幸运的死里逃生，然而，很快，阿戴琳就发现，自己的身体发生了某些奇妙的变化，她竟然不再变老，而是永远的停留在了27岁。拥有永恒的生命这件事听起来很妙，但实际上却充满了痛苦，随着时间的推移，阿戴琳所爱的人们渐渐变老，并最终离开了她，留下阿戴琳一人在这世间，沉浸于无尽的孤独之中，阿戴琳封闭起了自己的内心，不再<br><br><iframe src="https://player.bilibili.com/player.html?aid=674207900&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/70e0f6afa530146b2c6658e910efb1e890e19c80.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 17 Jul 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1MU4y1G7iu</guid>
-            <link>https://www.bilibili.com/video/BV1MU4y1G7iu</link>
             
             
             
