@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[虚拟女友Yomemi 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/292044559</link>
-        <atom:link href="http://rsshub/bilibili/user/video/292044559" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/292044559" rel="self" type="application/rss+xml" />
         <description><![CDATA[虚拟女友Yomemi 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 23 Jul 2021 00:16:21 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 23 Jul 2021 16:07:01 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[关于我们的今后…]]></title>
