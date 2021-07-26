@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[Azulim搬运组 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/508191</link>
-        <atom:link href="http://rsshub/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
         <description><![CDATA[Azulim搬运组 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,30 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 26 Jul 2021 00:15:27 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 26 Jul 2021 16:06:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[初次锁死摔倒，一个偶然在场的大叔帮助了我]]></title>
+            <description><![CDATA[~
+辛苦辛苦了~
+叔叔，真的非常感谢您。
+
+staff：时轴：九重阳炎
+          翻译： SN
+           校对：赛钱箱，新鲜的烤螃蟹<br><br><iframe src="https://player.bilibili.com/player.html?aid=419465035&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/3129f2ecd771c691599929c326c3d62cadcf7763.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 26 Jul 2021 05:33:48 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1k341167Rw</guid>
+            <link>https://www.bilibili.com/video/BV1k341167Rw</link>
+            
+            
+            
+            <author><![CDATA[Azulim搬运组]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[转过这发卡弯，便是那放牧场]]></title>
@@ -192,25 +214,6 @@ https://twitter.com/azuma_lim
             <pubDate>Thu, 01 Apr 2021 00:09:50 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1NK4y1m7Ks</guid>
             <link>https://www.bilibili.com/video/BV1NK4y1m7Ks</link>
-            
-            
-            
-            <author><![CDATA[Azulim搬运组]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【熟肉】【第一次弹唱配信】夏日的歌曲和DAKEN前辈]]></title>
-            <description><![CDATA[~
-staff：翻译：狐狼 AW
-          时轴：葬葬 狐狼 羽断星
-          校对：赛钱箱 香草<br><br><iframe src="https://player.bilibili.com/player.html?aid=587293500&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/7bc5d811c78817c8b337d4bfd470acb48b0e79de.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Mar 2021 00:00:13 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1TB4y1P7nJ</guid>
-            <link>https://www.bilibili.com/video/BV1TB4y1P7nJ</link>
             
             
             
