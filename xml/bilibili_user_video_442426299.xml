@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴吹夢_official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/442426299</link>
-        <atom:link href="http://rsshub/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢_official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,29 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 27 Jul 2021 00:15:31 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 27 Jul 2021 16:07:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【假面骑士BLACK RX翻唱】吾乃Vtuber中的昭和歌姬（一）和我一起抖起来！]]></title>
+            <description><![CDATA[翻唱假面骑士BLACK RX 歌曲
+
+好像DD们都很喜欢假面骑士BK RX
+难道你们也是昭和生的男儿吗
+
+你们最喜欢的假面骑士是谁呢？<br><br><iframe src="https://player.bilibili.com/player.html?aid=291883036&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/cd9007cde1e3f266230b405081c7e4d6425edab7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 27 Jul 2021 12:01:19 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tf4y157v6</guid>
+            <link>https://www.bilibili.com/video/BV1tf4y157v6</link>
+            
+            
+            
+            <author><![CDATA[琴吹夢_official]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【直播回放】【B限杂谈游戏】菜归菜，玩归玩，两码事！ 2021年7月25日20点场]]></title>
@@ -185,25 +206,6 @@ https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w137644-19794252049.26.26c77204
             <pubDate>Fri, 25 Jun 2021 05:00:44 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ph411Y71n</guid>
             <link>https://www.bilibili.com/video/BV1ph411Y71n</link>
-            
-            
-            
-            <author><![CDATA[琴吹夢_official]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【君の知らない物語-琴吹梦】能在你身边就好 可现实是残酷的 ！其实一直都喜欢着你]]></title>
-            <description><![CDATA[-《君の知らない物语》
--supercell
--cover 琴吹夢
--video 不是后期君<br><br><iframe src="https://player.bilibili.com/player.html?aid=973658818&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/2131ea3a49f2afd339e1019c860e8d1523c79eb7.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 18 Jun 2021 11:15:07 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1E44y1B7Ui</guid>
-            <link>https://www.bilibili.com/video/BV1E44y1B7Ui</link>
             
             
             

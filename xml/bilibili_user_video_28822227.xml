@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 27 Jul 2021 00:15:21 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 27 Jul 2021 16:06:48 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[《俺妹》黑猫线漫画版也来了！你愿意再看她一遍吗？]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=804479512&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/427af31b5f2a574e4a0d3701511af69d9eccaf66.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 27 Jul 2021 08:39:24 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Qy4y1j7tV</guid>
+            <link>https://www.bilibili.com/video/BV1Qy4y1j7tV</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《剃须》作者新作来了！沙优直呼内行！读者血压拉满！]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Fri, 16 Jul 2021 08:20:54 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1VL411H7s4</guid>
             <link>https://www.bilibili.com/video/BV1VL411H7s4</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[《JOJO》第八部即将完结！你的评价是几分？]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=974184803&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/2ddcec6bf0763511884a522ebf3eca32e5dfbd38.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 15 Jul 2021 08:37:24 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1s44y127gG</guid>
-            <link>https://www.bilibili.com/video/BV1s44y127gG</link>
             
             
             
