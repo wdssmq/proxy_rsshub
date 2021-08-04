@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 04 Aug 2021 00:16:18 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 04 Aug 2021 16:06:28 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[这次只用声音来决胜负]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=674547147&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/ebef4313a96d2bd09fc072a9c8cd503e86d988ee.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 12:11:41 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1NU4y1J7fC</guid>
+            <link>https://www.bilibili.com/video/BV1NU4y1J7fC</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【Among Us】单人版宇宙狼人杀可针不戳！【IMPOSTER HIDE】]]></title>
@@ -233,22 +249,6 @@
             <pubDate>Sat, 10 Jul 2021 03:25:03 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Yv411J7pd</guid>
             <link>https://www.bilibili.com/video/BV1Yv411J7pd</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[爱酱爱哥联袂出演，不仅仅是简单的《touch me》]]></title>
-            <description><![CDATA[触碰我的心<br><br><iframe src="https://player.bilibili.com/player.html?aid=376601186&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/37ff1068c1b024c69bd47934eed392b2046291dd.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 09 Jul 2021 23:56:15 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1xo4y1X7bH</guid>
-            <link>https://www.bilibili.com/video/BV1xo4y1X7bH</link>
             
             
             

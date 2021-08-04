@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 04 Aug 2021 00:15:51 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 04 Aug 2021 16:06:24 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[樋上至后悔出走 如今想回KEY社被嫌弃 网友群嘲！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=504590029&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/47d94fee6a5a0f2c7552ed5da213aadf2d232481.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 08:59:09 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Xg41177Xn</guid>
+            <link>https://www.bilibili.com/video/BV1Xg41177Xn</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[让《游戏王》成为奥运项目？加拿大博主向奥委会请愿！]]></title>
@@ -152,22 +168,6 @@
             <pubDate>Thu, 22 Jul 2021 08:55:02 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV19M4y1K7L7</guid>
             <link>https://www.bilibili.com/video/BV19M4y1K7L7</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[因为才能太大被宫崎骏拒收！细田守讲述当年应聘吉卜力落选的故事]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=974370025&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/da88535833f058cb85c95f22d7ebd41ad6fd4096.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 21 Jul 2021 08:30:33 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1h44y1m7jC</guid>
-            <link>https://www.bilibili.com/video/BV1h44y1m7jC</link>
             
             
             

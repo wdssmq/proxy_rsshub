@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,60 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 04 Aug 2021 00:16:37 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 04 Aug 2021 16:06:30 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【江湖情】刘德华、万梓良、周润发主演，英雄好汉前传]]></title>
+            <description><![CDATA[香港早期，大量难民涌入，龙蛇混集。潮州人杨群带年幼的小凤和阿华来港，不料投靠的朋友刚好去世，于是他独自抚养小凤、阿华和良仔。数年后，良仔不学无术，沉迷赌博，结果欠下一笔巨款。阿华为救他被殴打致伤，并引来黑势力大佬的追杀，走投无路的他向周求救。周因阿华的英勇和义气将他留在身边并委以重任，使阿华继而平步青云；良仔轻佻浮躁，不得周的垂青，却因此对阿华怀恨在心。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334512175&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/2ef7d1a173ee1cbe3a4c813164740df12880c59d.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1zA411A7Sn</guid>
+            <link>https://www.bilibili.com/video/BV1zA411A7Sn</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[《言语如苏打般涌现》动人片段，爷爷回忆青春往事]]></title>
+            <description><![CDATA[樱桃是个不善与人交谈、一直戴着耳机的少年，他喜欢把无法说出口的心情寄托于俳句中。微笑是个为了把矫正中的大门牙挡起来而一直戴着口罩的少女，身为人气视频上传者的她，看到可爱的东西就会发布视频。这样的两个人在商场相遇了，交换了联系方式开始聊天。他们在一起打工的地方，遇见了一个叫藤山的老人，后来还得知了老人一直在寻找某张唱片的原因。他们决定一起寻找唱片，而两人之间的距离也越来越近。但当某件事情发生之后，两人的想法出现了分歧。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334624579&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/92c4c765766c12bef31a222391a89dfe63cc1729.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 03:54:49 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1VA411P7iK</guid>
+            <link>https://www.bilibili.com/video/BV1VA411P7iK</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【被控告的人】]]></title>
+            <description><![CDATA[　讲述了我国有一个美丽的边关小镇--荷花渡，地处我国南海之滨，香港之畔。一条小街把这个镇划分成两个世界：一侧归中国所管；另一侧属港英当局管辖。海关分关长龙汉生，严于律己，不徇私情，为了捍卫国家的利益，不放过任何一个违法走私的罪犯。<br><br><iframe src="https://player.bilibili.com/player.html?aid=632042799&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/55e39fb052a01aa46d8a080c25c23aec6463b16a.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1gb4y1z7Lp</guid>
+            <link>https://www.bilibili.com/video/BV1gb4y1z7Lp</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【摩登如来神掌】刘德华、王祖贤奇幻喜剧]]></title>
-            <description><![CDATA[广告公司任职的武德辉与同事厉迟前往大陆公干，顺便走私出土文物。他们无意中发现了一个秘洞，得到了一本武功秘籍，并且救出了冷冻在山洞中的元朝云萝公主和侍女小蛮，但是也无意中放出了邪派高手天残。原本就精通多国语言的公主在现代社会中如鱼得水，而阿辉与阿迟在两个古代女子的帮助下也分别练成如来神掌与七旋斩，成功地完成了屌丝到大侠的逆袭。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291765348&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/2aa67d0177795b1c7b0c95ed68464e2997b785c9.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[广告公司任职的武德辉与同事厉迟前往大陆公干，顺便走私出土文物。他们无意中发现了一个秘洞，得到了一本武功秘籍，并且救出了冷冻在山洞中的元朝云萝公主和侍女小蛮，但是也无意中放出了邪派高手天残。原本就精通多国语言的公主在现代社会中如鱼得水，而阿辉与阿迟在两个古代女子的帮助下也分别练成如来神掌与七旋斩，成功地完成了屌丝到大侠的逆袭。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291765348&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/2aa67d0177795b1c7b0c95ed68464e2997b785c9.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 03 Aug 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1af4y1j7SJ</guid>
             <link>https://www.bilibili.com/video/BV1af4y1j7SJ</link>
@@ -34,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[《言语如苏打般涌现》正片片段，众人顶着高温寻找老唱片]]></title>
+            <description><![CDATA[樱桃是个不善与人交谈、一直戴着耳机的少年，他喜欢把无法说出口的心情寄托于俳句中。微笑是个为了把矫正中的大门牙挡起来而一直戴着口罩的少女，身为人气视频上传者的她，看到可爱的东西就会发布视频。这样的两个人在商场相遇了，交换了联系方式开始聊天。他们在一起打工的地方，遇见了一个叫藤山的老人，后来还得知了老人一直在寻找某张唱片的原因。他们决定一起寻找唱片，而两人之间的距离也越来越近。但当某件事情发生之后，两人的想法出现了分歧。<br><br><iframe src="https://player.bilibili.com/player.html?aid=762030240&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/0e324d47f41bdc414ce4041ff810425a4df8f461.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 03 Aug 2021 03:36:20 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1P64y147aN</guid>
+            <link>https://www.bilibili.com/video/BV1P64y147aN</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[【梦醒时分】巩俐、钟镇涛主演，张艾嘉导演]]></title>
-            <description><![CDATA[大学毕业之后，马莉只身一人来到繁华的大都市香港，希望能够在这里开拓一片属于自己的新天地。马莉没有香港的身份证，因此在职场上屡屡受挫，某日，她结识了珠宝店的少东家彼得，两人坠入了爱河。彼得一直承诺会给马莉一个名分，但行动上却迟迟没有动静，甚至不愿意讲马莉介绍给家人认识。<br><br><iframe src="https://player.bilibili.com/player.html?aid=759514646&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/9f4cb092430bdcd239773909323354147e8a1a0c.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[大学毕业之后，马莉只身一人来到繁华的大都市香港，希望能够在这里开拓一片属于自己的新天地。马莉没有香港的身份证，因此在职场上屡屡受挫，某日，她结识了珠宝店的少东家彼得，两人坠入了爱河。彼得一直承诺会给马莉一个名分，但行动上却迟迟没有动静，甚至不愿意讲马莉介绍给家人认识。<br><br><iframe src="https://player.bilibili.com/player.html?aid=759514646&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/9f4cb092430bdcd239773909323354147e8a1a0c.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 03 Aug 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1G64y1B7Jo</guid>
             <link>https://www.bilibili.com/video/BV1G64y1B7Jo</link>
@@ -51,7 +115,7 @@
         
         <item>
             <title><![CDATA[【巡弋悍将】刀锋战士化身安保专家]]></title>
-            <description><![CDATA[安保专家卡特在阻止一次超市抢劫案时，因为处理失误导致妻子身亡，自感愧疚的卡特状态低沉。好友试图帮助他重新振作，推荐卡特担任航空公司安保教师一职，卡特乘坐航班前往洛杉矶公干。在同一班客机上，著名恐怖分子查尔斯•雷恩也在FBI的押解下前往加州受审。<br><br><iframe src="https://player.bilibili.com/player.html?aid=762091926&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/e2eb6a9776f97abd9ac2a00ff300e6897ae2d801.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[安保专家卡特在阻止一次超市抢劫案时，因为处理失误导致妻子身亡，自感愧疚的卡特状态低沉。好友试图帮助他重新振作，推荐卡特担任航空公司安保教师一职，卡特乘坐航班前往洛杉矶公干。在同一班客机上，著名恐怖分子查尔斯•雷恩也在FBI的押解下前往加州受审。<br><br><iframe src="https://player.bilibili.com/player.html?aid=762091926&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/e2eb6a9776f97abd9ac2a00ff300e6897ae2d801.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 02 Aug 2021 10:00:46 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1k64y1W7Fe</guid>
             <link>https://www.bilibili.com/video/BV1k64y1W7Fe</link>
@@ -67,7 +131,7 @@
         
         <item>
             <title><![CDATA[《言语如苏打般涌现》正片片段，男女主角网络互关现场]]></title>
-            <description><![CDATA[樱桃是个不善与人交谈、一直戴着耳机的少年，他喜欢把无法说出口的心情寄托于俳句中。微笑是个为了把矫正中的大门牙挡起来而一直戴着口罩的少女，身为人气视频上传者的她，看到可爱的东西就会发布视频。这样的两个人在商场相遇了，交换了联系方式开始聊天。他们在一起打工的地方，遇见了一个叫藤山的老人，后来还得知了老人一直在寻找某张唱片的原因。他们决定一起寻找唱片，而两人之间的距离也越来越近。但当某件事情发生之后，两人的想法出现了分歧。<br><br><iframe src="https://player.bilibili.com/player.html?aid=974520949&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/a6d34e083bf080a55805906e2d0ea1af705c3835.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[樱桃是个不善与人交谈、一直戴着耳机的少年，他喜欢把无法说出口的心情寄托于俳句中。微笑是个为了把矫正中的大门牙挡起来而一直戴着口罩的少女，身为人气视频上传者的她，看到可爱的东西就会发布视频。这样的两个人在商场相遇了，交换了联系方式开始聊天。他们在一起打工的地方，遇见了一个叫藤山的老人，后来还得知了老人一直在寻找某张唱片的原因。他们决定一起寻找唱片，而两人之间的距离也越来越近。但当某件事情发生之后，两人的想法出现了分歧。<br><br><iframe src="https://player.bilibili.com/player.html?aid=974520949&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/a6d34e083bf080a55805906e2d0ea1af705c3835.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 02 Aug 2021 04:11:33 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1i44y117ZQ</guid>
             <link>https://www.bilibili.com/video/BV1i44y117ZQ</link>
@@ -83,7 +147,7 @@
         
         <item>
             <title><![CDATA[【杨开慧】（1995）]]></title>
-            <description><![CDATA[杨开慧出生于知识分子之家，从小受到良好的教育。科学与民主的新思想使她成为一个进步的“新女性”。她不顾来自各方的劝阻，与毛泽东相知相恋。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334409627&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/89fd31b3452ef8576297ab0d5e181cbea456a930.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[杨开慧出生于知识分子之家，从小受到良好的教育。科学与民主的新思想使她成为一个进步的“新女性”。她不顾来自各方的劝阻，与毛泽东相知相恋。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334409627&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/89fd31b3452ef8576297ab0d5e181cbea456a930.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 02 Aug 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Gw411R7qF</guid>
             <link>https://www.bilibili.com/video/BV1Gw411R7qF</link>
@@ -99,74 +163,10 @@
         
         <item>
             <title><![CDATA[【张思德】（2004）]]></title>
-            <description><![CDATA[本片讲述了中国人民解放军的楷模——张思德的故事。在抗日战争后期，延安正处于热火朝天的大生产运动中。勤务兵张思德为人老实，不善言辞，做好事从不邀功，工作任劳任怨，一心一意为中国革命事业奉献自己。<br><br><iframe src="https://player.bilibili.com/player.html?aid=674394785&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/b49417c2b566a9ffc29f428da4b0bda9b0809f36.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[本片讲述了中国人民解放军的楷模——张思德的故事。在抗日战争后期，延安正处于热火朝天的大生产运动中。勤务兵张思德为人老实，不善言辞，做好事从不邀功，工作任劳任怨，一心一意为中国革命事业奉献自己。<br><br><iframe src="https://player.bilibili.com/player.html?aid=674394785&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b49417c2b566a9ffc29f428da4b0bda9b0809f36.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 01 Aug 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1cU4y1H7GK</guid>
             <link>https://www.bilibili.com/video/BV1cU4y1H7GK</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【井冈山】（1993）]]></title>
-            <description><![CDATA[1927年秋收起义失败后，毛泽东率工农革命军第一军第一师向南转移，途中遭到敌人的袭击，部队损失惨重。随后在决定部队去向的问题上，领导内部产生了很大分歧，最后毛泽东的意见得到大多数同志的支持，部队继续向南转移。<br><br><iframe src="https://player.bilibili.com/player.html?aid=546933490&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/aa4a9f2d94f9e2c2a11566af9df231a3bbbabaa0.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 01 Aug 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Fq4y1p7fU</guid>
-            <link>https://www.bilibili.com/video/BV1Fq4y1p7fU</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【疯狂的赛车】黄渤徐峥爆笑喜剧，宁浩黑色幽默]]></title>
-            <description><![CDATA[在一次全国自行车锦标赛上，倒霉的职业车手耿浩以0.01秒的微弱差距败给撞到狗屎运的对手，屈居亚军，随后他又遭奸商李法拉算计，因药检呈阳性而被终身禁赛，他的教练因此气倒。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291779605&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/f9f6b022bfc37f0fd544266f1436bc1d121707a9.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 31 Jul 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Tf4y15739</guid>
-            <link>https://www.bilibili.com/video/BV1Tf4y15739</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【西部英雄约拿·哈克斯】DC漫改，乔什·布洛林、梅根·福克斯主演]]></title>
-            <description><![CDATA[脸上带着长长伤疤的约拿·哈克斯是个神秘的赏金猎人、卓越的枪手，还有着与死亡世界交流的超能力，有个叫赖莉的妓女一直爱着他，是他和人类社会最主要的联系。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291864114&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/b8c2f496a3408abc5193d4579d02223de14530e3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 31 Jul 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Hf4y157HJ</guid>
-            <link>https://www.bilibili.com/video/BV1Hf4y157HJ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【人性污点】爱情惊悚，安东尼·霍普金斯、妮可·基德曼、温特沃斯·米勒主演]]></title>
-            <description><![CDATA[希尔克是一名大学教授，深受同事和学生们的信赖和喜爱。希尔克有一个美丽贤惠的妻子和三个伶俐可爱的孩子，他的生活堪称人生赢家的典范。然而，在希尔克的内心里隐藏着一个惊人的秘密，虽然他对外谎称自己是犹太人，但实际上，他却是一名非裔，只不过肤色极淡几乎无法察觉。<br><br><iframe src="https://player.bilibili.com/player.html?aid=206363025&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/182d80888c5e49b723bae2be35ea4154c5e8a813.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 30 Jul 2021 10:00:56 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1oh41187DG</guid>
-            <link>https://www.bilibili.com/video/BV1oh41187DG</link>
             
             
             

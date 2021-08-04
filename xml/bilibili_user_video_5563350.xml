@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 04 Aug 2021 00:16:26 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 04 Aug 2021 16:06:28 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[听君一席话，胜似一席话【沙雕观察4.22】]]></title>
+            <description><![CDATA[正确的废话是最靠谱的话<br><br><iframe src="https://player.bilibili.com/player.html?aid=759574635&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/34812cd48273e941f1decf6dce3eeac11a0353bb.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 04 Aug 2021 09:25:02 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1r64y1B7bY</guid>
+            <link>https://www.bilibili.com/video/BV1r64y1B7bY</link>
+            
+            
+            
+            <author><![CDATA[小希小桃Channel]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[反转了！奥运会摆烂居然别有深意！【沙雕观察4.21】]]></title>
@@ -179,22 +195,6 @@
             <pubDate>Fri, 09 Jul 2021 03:02:29 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1E64y147Co</guid>
             <link>https://www.bilibili.com/video/BV1E64y147Co</link>
-            
-            
-            
-            <author><![CDATA[小希小桃Channel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[一本正经分析“躲汉子”的技术水平有多高！【沙雕观察4.18】]]></title>
-            <description><![CDATA[一起唱好嘛？来——<br><br><iframe src="https://player.bilibili.com/player.html?aid=674022234&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/818fb4b767517683b347378462caf38d2453ab6c.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 07 Jul 2021 11:39:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1wU4y137RU</guid>
-            <link>https://www.bilibili.com/video/BV1wU4y137RU</link>
             
             
             
