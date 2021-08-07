@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 06 Aug 2021 16:06:41 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 07 Aug 2021 00:15:05 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[刘华强 速通 让子弹飞]]></title>

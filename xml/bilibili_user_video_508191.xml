@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[Azulim搬运组 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/508191</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/508191" rel="self" type="application/rss+xml" />
         <description><![CDATA[Azulim搬运组 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 06 Aug 2021 16:06:51 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 07 Aug 2021 00:15:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【全身回】梓璃梦的生日会！有创作舞蹈和弹唱之类的 (上)]]></title>
@@ -23,7 +23,7 @@
 staff：
           时轴：天鸽/咸鱼潇/森中平二/四夜夜夜/mafuyu/然而驱逐舰真是太棒了
           翻译：月下狐狼/キヨセ/AW/ましろ/一王老魔一orz/然而驱逐舰真是太棒了/隔壁来的Zzz/诺亚•C•修兹
-          校对：安叔/一王老魔一orz/勤劳的珈百璃/新鲜的烤螃蟹<br><br><iframe src="https://player.bilibili.com/player.html?aid=932046190&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/458044bdc110a6765f7af593d4df36159cdda788.jpg" referrerpolicy="no-referrer">]]></description>
+          校对：安叔/一王老魔一orz/勤劳的珈百璃/新鲜的烤螃蟹<br><br><iframe src="https://player.bilibili.com/player.html?aid=932046190&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/458044bdc110a6765f7af593d4df36159cdda788.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 05 Aug 2021 05:50:23 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1bM4y1N7DA</guid>
             <link>https://www.bilibili.com/video/BV1bM4y1N7DA</link>
@@ -45,7 +45,7 @@ staff：
 
 staff：时轴：九重阳炎
           翻译： SN
-           校对：赛钱箱，新鲜的烤螃蟹<br><br><iframe src="https://player.bilibili.com/player.html?aid=419465035&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/3129f2ecd771c691599929c326c3d62cadcf7763.jpg" referrerpolicy="no-referrer">]]></description>
+           校对：赛钱箱，新鲜的烤螃蟹<br><br><iframe src="https://player.bilibili.com/player.html?aid=419465035&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/3129f2ecd771c691599929c326c3d62cadcf7763.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 26 Jul 2021 05:33:48 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1k341167Rw</guid>
             <link>https://www.bilibili.com/video/BV1k341167Rw</link>
@@ -64,7 +64,7 @@ staff：时轴：九重阳炎
             <description><![CDATA[~
 Staff:时轴：feng
             翻：隔壁来的Zzz
-         校对：一王老魔一orz<br><br><iframe src="https://player.bilibili.com/player.html?aid=248718704&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/fab83003934680fa8ac5a5f8f4b683b599a16f6a.jpg" referrerpolicy="no-referrer">]]></description>
+         校对：一王老魔一orz<br><br><iframe src="https://player.bilibili.com/player.html?aid=248718704&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/fab83003934680fa8ac5a5f8f4b683b599a16f6a.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 20 Jun 2021 12:57:41 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1jv411W7zW</guid>
             <link>https://www.bilibili.com/video/BV1jv411W7zW</link>
@@ -80,7 +80,7 @@ Staff:时轴：feng
         
         <item>
             <title><![CDATA[【碧蓝航线】黑海妈誓约～]]></title>
-            <description><![CDATA[-<br><br><iframe src="https://player.bilibili.com/player.html?aid=291156110&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/6df5849b03423e734a85dcba1dc8fa3e4bfd5a3d.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[-<br><br><iframe src="https://player.bilibili.com/player.html?aid=291156110&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6df5849b03423e734a85dcba1dc8fa3e4bfd5a3d.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 18 Jun 2021 03:08:11 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1yf4y187HL</guid>
             <link>https://www.bilibili.com/video/BV1yf4y187HL</link>
@@ -96,7 +96,7 @@ Staff:时轴：feng
         
         <item>
             <title><![CDATA[【坎公骑冠剑】谢谢你，陌生人]]></title>
-            <description><![CDATA[-<br><br><iframe src="https://player.bilibili.com/player.html?aid=333544567&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/86da55f04cf31f83046502aff5edde972a418848.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[-<br><br><iframe src="https://player.bilibili.com/player.html?aid=333544567&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/86da55f04cf31f83046502aff5edde972a418848.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 10 Jun 2021 09:51:53 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV16w411Z7Jw</guid>
             <link>https://www.bilibili.com/video/BV16w411Z7Jw</link>
@@ -128,7 +128,7 @@ https://www.youtube.com/channel/UCARI...
 ●グッズ／Goods?
 https://azumalim.booth.pm/
 ●LINEスタンプ／STAMP✨
-<br><br><iframe src="https://player.bilibili.com/player.html?aid=845927049&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/12eeeed7b0a5916301ed5c8056efcca33df2118b.jpg" referrerpolicy="no-referrer">]]></description>
+<br><br><iframe src="https://player.bilibili.com/player.html?aid=845927049&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/12eeeed7b0a5916301ed5c8056efcca33df2118b.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 04 Jun 2021 00:05:02 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1354y157WY</guid>
             <link>https://www.bilibili.com/video/BV1354y157WY</link>
@@ -155,7 +155,7 @@ https://azumalim.booth.pm/
 
 ●Twiter?
 https://twitter.com/azuma_lim
-●メンバーシップ／Member<br><br><iframe src="https://player.bilibili.com/player.html?aid=888094888&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/d4138015b7e2ea3d50d2559f73a7dff7640ed30c.jpg" referrerpolicy="no-referrer">]]></description>
+●メンバーシップ／Member<br><br><iframe src="https://player.bilibili.com/player.html?aid=888094888&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/d4138015b7e2ea3d50d2559f73a7dff7640ed30c.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 15 May 2021 02:04:30 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1CK4y1A7JN</guid>
             <link>https://www.bilibili.com/video/BV1CK4y1A7JN</link>
@@ -171,7 +171,7 @@ https://twitter.com/azuma_lim
         
         <item>
             <title><![CDATA[【坎公骑冠剑】游戏闪退bug的临时解决方案]]></title>
-            <description><![CDATA[从开服经历到现在的bug，总算摸索出来了解决方法<br><br><iframe src="https://player.bilibili.com/player.html?aid=887988829&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/45c390915d56752c8acfbfec515bccb8cb5f34f9.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[从开服经历到现在的bug，总算摸索出来了解决方法<br><br><iframe src="https://player.bilibili.com/player.html?aid=887988829&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/45c390915d56752c8acfbfec515bccb8cb5f34f9.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 05 May 2021 11:39:25 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1nK4y1A7eP</guid>
             <link>https://www.bilibili.com/video/BV1nK4y1A7eP</link>
@@ -187,7 +187,7 @@ https://twitter.com/azuma_lim
         
         <item>
             <title><![CDATA[【坎公骑冠剑】你们遇到过这种bug吗？]]></title>
-            <description><![CDATA[正常游玩之后退出游戏，接着再次打开游戏后一小会就自动闪退<br><br><iframe src="https://player.bilibili.com/player.html?aid=760292692&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/8b80835b5c800e5b16a8007615cd1a7f660c838d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[正常游玩之后退出游戏，接着再次打开游戏后一小会就自动闪退<br><br><iframe src="https://player.bilibili.com/player.html?aid=760292692&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/8b80835b5c800e5b16a8007615cd1a7f660c838d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 27 Apr 2021 12:31:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1A64y117gU</guid>
             <link>https://www.bilibili.com/video/BV1A64y117gU</link>
@@ -214,7 +214,7 @@ https://twitter.com/azuma_lim
 赫敏     陌染闇
 罗恩     小雨
 马尔福  然而驱逐舰真是太棒了
-围观学生1  和  围观学生2   aw<br><br><iframe src="https://player.bilibili.com/player.html?aid=374994053&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/594ecf31bce1faf990c9d8bd5c4b0a6a6900f0d5.jpg" referrerpolicy="no-referrer">]]></description>
+围观学生1  和  围观学生2   aw<br><br><iframe src="https://player.bilibili.com/player.html?aid=374994053&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/594ecf31bce1faf990c9d8bd5c4b0a6a6900f0d5.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 06 Apr 2021 01:00:02 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1JZ4y1c7xF</guid>
             <link>https://www.bilibili.com/video/BV1JZ4y1c7xF</link>
