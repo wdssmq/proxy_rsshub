@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 12 Aug 2021 00:16:39 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 12 Aug 2021 16:06:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[女性JOJO？JOJO第六部《石之海》发布动画PV！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=674758550&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/8020b4e121124dc145d6c5dc8055948ff93e3866.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 12 Aug 2021 08:24:13 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1uU4y1n7Bo</guid>
+            <link>https://www.bilibili.com/video/BV1uU4y1n7Bo</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[阴阳联动吗？《CLANNAD》和《寒蝉》联动是什么意思？哭死加吓死？]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Mon, 02 Aug 2021 09:36:58 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Mh41167Ta</guid>
             <link>https://www.bilibili.com/video/BV1Mh41167Ta</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[东京奥运原本有《阿基拉》名场景！结果却变阴间操作 钱也不知道花哪了]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=377106935&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/9e7314851c1dd10b6d923ccef2646ea8fc69c6ae.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 31 Jul 2021 08:41:55 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1So4y1S7fQ</guid>
-            <link>https://www.bilibili.com/video/BV1So4y1S7fQ</link>
             
             
             
