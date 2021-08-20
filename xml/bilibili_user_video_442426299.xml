@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴吹夢_official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/442426299</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢_official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,40 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 17 Aug 2021 00:17:16 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 20 Aug 2021 03:33:04 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【直播回放】【B限歌曲】昭和天后驾到 2021年8月19日18点场]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=334896252&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/9e21196dc0594b96dc69ee02b20aea8c885a4cb1.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 19 Aug 2021 18:07:32 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1NA411A7c7</guid>
+            <link>https://www.bilibili.com/video/BV1NA411A7c7</link>
+            
+            
+            
+            <author><![CDATA[琴吹夢_official]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【直播回放】bilibili主播的直播回放 2021年8月18日18点场]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=932456964&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/0e96b6e240275db4e0e3873a8308deeeff22e875.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 18 Aug 2021 20:31:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1TM4y1V7St</guid>
+            <link>https://www.bilibili.com/video/BV1TM4y1V7St</link>
+            
+            
+            
+            <author><![CDATA[琴吹夢_official]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【直播回放】【B限歌回】20岁昭和歌姬参上，请点歌 2021年8月11日18点场]]></title>
@@ -144,43 +176,6 @@
             <pubDate>Fri, 30 Jul 2021 14:20:15 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1iM4y1T7G6</guid>
             <link>https://www.bilibili.com/video/BV1iM4y1T7G6</link>
-            
-            
-            
-            <author><![CDATA[琴吹夢_official]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【直播回放】【B限游戏】动脑子的游戏我很在行的！ 2021年7月28日18点场]]></title>
-            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=206907077&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/d351ddaab5035f64e92f5eec0befe269af9d9bca.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 28 Jul 2021 18:13:00 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV17h411z7vd</guid>
-            <link>https://www.bilibili.com/video/BV17h411z7vd</link>
-            
-            
-            
-            <author><![CDATA[琴吹夢_official]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【假面骑士BLACK RX翻唱】吾乃Vtuber中的昭和歌姬（一）和我一起抖起来！]]></title>
-            <description><![CDATA[翻唱假面骑士BLACK RX 歌曲
-
-好像DD们都很喜欢假面骑士BK RX
-难道你们也是昭和生的男儿吗
-
-你们最喜欢的假面骑士是谁呢？<br><br><iframe src="https://player.bilibili.com/player.html?aid=291883036&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/cd9007cde1e3f266230b405081c7e4d6425edab7.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 27 Jul 2021 12:01:19 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tf4y157v6</guid>
-            <link>https://www.bilibili.com/video/BV1tf4y157v6</link>
             
             
             
