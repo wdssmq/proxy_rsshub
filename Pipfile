@@ -7,9 +7,9 @@ name = "pypi"
 build = "python main.py"
 
 [packages]
-requests = "2.3"
+requests = "2.26.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
