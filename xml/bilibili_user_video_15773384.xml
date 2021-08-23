@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,40 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 23 Aug 2021 00:16:44 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 23 Aug 2021 16:07:33 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【鬼胆神偷】皮尔斯·布鲁斯南主演犯罪喜剧片]]></title>
+            <description><![CDATA[麦克斯·波德特和罗拉·西里罗是一对身手非凡、亲密无间的雌雄大盗。他们纵横天下，蜚声国际，是同行欣羡崇拜的对象，也是警方和富商恐惧憎恨的目标。在与老对头FBI探员斯坦·罗伊德一番斗智斗勇的周旋后，两人成功盗得一枚价值连城的钻石。之后便双双飞往位于中美洲巴哈马群岛的天堂岛，过起了悠哉游哉的隐居生活。<br><br><iframe src="https://player.bilibili.com/player.html?aid=334929878&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/8f5953548ef56427d269117c0b03827edad53090.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 23 Aug 2021 10:00:58 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV15A411A7dD</guid>
+            <link>https://www.bilibili.com/video/BV15A411A7dD</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【破冰船】撞击冰山被困极地上百天，俄罗斯灾难大片]]></title>
+            <description><![CDATA[一艘名为“格罗莫夫号”的极地破冰船突然遭遇一座移动的冰山。剧烈的碰撞导致一位极地探险家跌入海中。为了对落水者施救，船体受到重创。得知这一情况的船舶总部立刻向“格罗莫夫号”派去一位叫舍普琴科的新船长。<br><br><iframe src="https://player.bilibili.com/player.html?aid=758844332&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/a99badd24fdcf81ddf413ddb242bc54a904dfdae.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 23 Aug 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1y64y197Ka</guid>
+            <link>https://www.bilibili.com/video/BV1y64y197Ka</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【深海圆疑】海底惊现神秘太空船，小说改科幻惊悚片]]></title>
@@ -135,38 +167,6 @@
             <pubDate>Thu, 19 Aug 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1eP4y1x7RW</guid>
             <link>https://www.bilibili.com/video/BV1eP4y1x7RW</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【各有少年时】“爱在三部曲”导演青春喜剧，大学新生的疯狂周末]]></title>
-            <description><![CDATA[该片背景设置在80年代，讲述刚刚进入大学的新生Jake和他的棒球部队友们在一个周末里所经历的故事。影片与导演此前作品《年少轻狂》风格类似，时间上也是“接续”的关系。<br><br><iframe src="https://player.bilibili.com/player.html?aid=291377022&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/f8eacefc085d62186bc40daedb08a31dd75f79dd.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 19 Aug 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1uf4y1b7pH</guid>
-            <link>https://www.bilibili.com/video/BV1uf4y1b7pH</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【孤筏求生三十日】吃鲨鱼喝雨水海上漂流34天，真实事件改编]]></title>
-            <description><![CDATA[影片根据真实故事改编。1942年，二战正酣。1月16日，三名彼此陌生的士兵，驾驶美国海军的一架飞机，出发执行侦察任务。飞机燃油耗尽，不得不在南太平洋上迫降。三人没有食物，没有水，没有任何补给，只有一艘4英尺宽，8英尺长的黄色救生筏，让他们在危机四伏的海面上漂流。<br><br><iframe src="https://player.bilibili.com/player.html?aid=462296899&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/d8ee5bdda763f05ee37a55e2e91f5fb443e8849c.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 18 Aug 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1gL411J72p</guid>
-            <link>https://www.bilibili.com/video/BV1gL411J72p</link>
             
             
             
