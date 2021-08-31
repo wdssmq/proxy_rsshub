@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 31 Aug 2021 00:17:06 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 31 Aug 2021 16:07:14 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[1965年巴斯特·基顿主演无声短片《时光快车》]]></title>
