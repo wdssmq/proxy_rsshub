@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[AIChannel官方 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1473830</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/1473830" rel="self" type="application/rss+xml" />
         <description><![CDATA[AIChannel官方 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,34 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 01 Sep 2021 00:17:19 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 01 Sep 2021 16:07:15 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【生化危机8:村庄】让大家久等了的生化8实况 #2]]></title>
+            <description><![CDATA[抓住夏天的小尾巴玩生化危机8！
+
+（#1直播片段请大家再等等！）
+----------------------------
+油管发布于2021年8月28日
+
+快来关注我吧‍(・ω< )★~
+
+❤微博❤@Kizuna_AI绊爱
+❤Youtube❤A.I.Channel A.I.Games
+❤Twitter❤@aichan_nel<br><br><iframe src="https://player.bilibili.com/player.html?aid=590196862&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/ed4c5d4950ee30ebdb7066e7dbf43586fed0b732.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Sep 2021 09:44:13 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1iq4y1U7yA</guid>
+            <link>https://www.bilibili.com/video/BV1iq4y1U7yA</link>
+            
+            
+            
+            <author><![CDATA[AIChannel官方]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【翻唱】ウ”ィ”エ” 　绊爱Ver.]]></title>
@@ -237,39 +263,6 @@ https://twitter.com/DAIFUKU_wagasi
             <pubDate>Sat, 14 Aug 2021 21:43:05 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1RQ4y1274y</guid>
             <link>https://www.bilibili.com/video/BV1RQ4y1274y</link>
-            
-            
-            
-            <author><![CDATA[AIChannel官方]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【翻唱】灰姑娘 - DECO*27 / covered by 绊爱]]></title>
-            <description><![CDATA[「我爱你」想听这样的话坏掉！
-
-■素敵な本家さま
-DECO*27 
-https://youtu.be/adGhT_-JbZI
-
-■Illust：なげ
-https://twitter.com/Emae_626
-
-■Movie：ちゃそ
-https://twitter.com/nikutabeyooo
-
-■Mix：大福みっくす
-https://twitter.com/DAIFUKU_wagasi
-
-■Vocal：Kizuna AI
-歌ってみたリスト
-https://www.youtube.com/playlis<br><br><iframe src="https://player.bilibili.com/player.html?aid=762365802&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/1d45bee04ead0c935491fd146b852206901d3a78.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 14 Aug 2021 04:20:08 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1F64y1e7Xy</guid>
-            <link>https://www.bilibili.com/video/BV1F64y1e7Xy</link>
             
             
             
