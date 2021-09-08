@@ -2,9 +2,14 @@ import os
 import requests
 import json
 import re
+import time
 
 from function_base import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
 from function_base import fnEmpty, fnLog, fnBug, fnErr
+
+_now = int(time.time())
+_local_time = time.localtime(_now)
+_local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
 
 
 def read_json(file):
@@ -65,7 +70,7 @@ def get_xml(url, name):
 
 
 def update_readme(file, data):
-    insert = "---start---\n\n"+data+"\n---end---"
+    insert = "---start---\n\n"+_local_time_format+"\n\n"+data+"\n---end---"
     # 获取README.md内容
     with open(file, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -100,7 +105,11 @@ def main():
     _readme_data = for_routes(_routes, _instances)
 
     update_readme(_readme_file, _readme_data)
+    fnLog()
 # main
 
 
 main()
+
+fnLog("当前时间戳：%s, %s" % (_now, _local_time_format))
+fnLog()
