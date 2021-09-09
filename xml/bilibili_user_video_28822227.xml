@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 09 Sep 2021 00:17:50 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 09 Sep 2021 16:07:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[学乖了？《家有女友》作者竟然同意让读者自行选择！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=847944261&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/e3932525144508a34d47424d6204b3c61a878bbf.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 09 Sep 2021 08:29:34 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1gL4y1a7Pz</guid>
+            <link>https://www.bilibili.com/video/BV1gL4y1a7Pz</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[《宝可梦 红/蓝》重制将被欧洲定为18X游戏？]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Wed, 25 Aug 2021 08:28:35 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1fQ4y1Y75X</guid>
             <link>https://www.bilibili.com/video/BV1fQ4y1Y75X</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[狂战士美游好棒！《伊莉雅》新剧场版上映前宣传视频长达十分钟！]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=717550070&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/01bd879617b47e4968356728b64fbf1681128b57.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 24 Aug 2021 08:44:22 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1cQ4y117wR</guid>
-            <link>https://www.bilibili.com/video/BV1cQ4y117wR</link>
             
             
             
