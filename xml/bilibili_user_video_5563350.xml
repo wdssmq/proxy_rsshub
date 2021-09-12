@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[小希小桃Channel 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/5563350</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/5563350" rel="self" type="application/rss+xml" />
         <description><![CDATA[小希小桃Channel 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 11 Sep 2021 16:07:26 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 12 Sep 2021 00:19:49 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[怎么？你也想进西厂当普法先锋？【沙雕观察4.27】]]></title>
