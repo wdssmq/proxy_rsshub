@@ -29,7 +29,7 @@ def read_yml(file):
     if(os.path.exists(file) == True):
         file_byte = open(file, 'r', encoding='utf8')
         file_info = file_byte.read()
-        result = yaml.load(file_info)
+        result = yaml.load(file_info, Loader=yaml.FullLoader)
         file_byte.close()
     else:
         result = {}
