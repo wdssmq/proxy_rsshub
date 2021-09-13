@@ -8,10 +8,15 @@ import time
 from function_base import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
 from function_base import fnEmpty, fnLog, fnBug, fnErr
 
+from class_opml import opml
+_opml = None
+
 _now = int(time.time())
 _local_time = time.localtime(_now)
 _local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
 
+# 用于输出 opml
+_baseUrl = None
 
 def read_json(file):
     if(os.path.exists(file) == True):
@@ -53,12 +58,14 @@ def for_instances(host_list, route_info):
 
 
 def for_routes(route_list, host_list):
+    global _opml, _baseUrl
     readme_data = ""
     for route_info in route_list:
         (title, path, name) = for_instances(host_list, route_info)
         route_info_str = "title: %s\n\n" % title
         route_info_str += "path: [%s](xml/%s.xml \"%s\") 「[raw](xml/%s.xml?raw=true \"%s\")」\n\n" % (
             path, name, title, name, title)
+        _opml.addItem(title, '%s/xml/%s.xml' % (_baseUrl, name))
         readme_data += route_info_str
         print("----")
     return readme_data
@@ -96,9 +103,12 @@ def update_readme(file, data):
     fnLog("更新 README 成功")
 
     return True
+# 更新 readme
 
 
 def main():
+    global _opml, _baseUrl
+    _opml = opml()
     # 配置路径
     _confg_json = os.path.join(os.getcwd(), "config.json")
     _config_yml = os.path.join(os.getcwd(), "config.yml")
@@ -111,6 +121,11 @@ def main():
     _routes = _confg_data["routes"]
     _instances = _confg_data["instances"]
 
+    if "baseUrl" in _confg_data:
+        _baseUrl = _confg_data["baseUrl"]
+    else:
+        _baseUrl = ""
+
     print("-----")
 
     # README.md
@@ -119,6 +134,11 @@ def main():
     _readme_data = for_routes(_routes, _instances)
 
     update_readme(_readme_file, _readme_data)
+
+    # opml 存放
+    _out_opml = os.path.join(os.getcwd(), "rss.opml")
+    _opml.saveToFile(_out_opml)
+    fnLog(["更新 OPML 成功", _out_opml])
     fnLog()
 # main
 
