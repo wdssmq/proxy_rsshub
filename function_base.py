@@ -1,34 +1,40 @@
-# functions
+# Functions
 import os
-# import time
-
 
 def fnEmpty(arg):
     return 1
 # 什么也不做
 
 
-def fnLog(msg="", tip=None):
+def fnLog(msg="", tip=None, type=""):
     if not tip is None:
         tip = " ← %s" % tip
     else:
         tip = ""
+    if isinstance(msg, list):
+        rlt = ""
+        for x in msg:
+            if not any(rlt):
+                rlt += str(x)
+            else:
+                rlt = rlt + "，" + str(x)
+        msg = rlt
     if isinstance(msg, int):
         msg = str(msg)
     if not any(msg):
         print("")
     else:
-        print("_%s%s" % (msg, tip))
+        print("_%s%s%s" % (type, msg, tip))
 # 输出信息
 
 
-def fnBug(msg, tip):
-    fnLog("[debug]%s" % msg, tip)
+def fnBug(msg, tip=None):
+    fnLog(msg, tip, "[debug]")
 # debug输出
 
 
 def fnErr(msg, tip=None):
-    fnLog("_[err]%s" % msg, tip)
+    fnLog(msg, tip, "_[err]")
 # 错误信息
 
 
@@ -48,8 +54,7 @@ def fnGetFilesInDir2(path, ext):
 
 
 def fnGetFileTime(file):
-    # mtime = time.ctime(os.stat(file).st_mtime)  # 文件的修改时间
-    # ctime = time.ctime(os.stat(file).st_ctime)  # 文件的创建时间
     mtime = os.stat(file).st_mtime  # 文件的修改时间
     ctime = os.stat(file).st_ctime  # 文件的创建时间
     return (int(mtime), int(ctime))
+# 获取文件时间
