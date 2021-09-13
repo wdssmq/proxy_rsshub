@@ -48,6 +48,7 @@ def for_instances(host_list, route_info):
     fnLog(title)
     fnLog(path)
     name = path.replace("/", "_")
+    name = name.replace("+", "_")
     for host in host_list:
         url = "%s%s" % (host, path)
         if (get_xml(url, name)):
