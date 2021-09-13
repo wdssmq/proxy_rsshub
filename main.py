@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import yaml
 import re
 import time
 
@@ -21,7 +22,19 @@ def read_json(file):
     else:
         result = {}
     return result
-# 读取JSON
+# 读取 JSON
+
+
+def read_yml(file):
+    if(os.path.exists(file) == True):
+        file_byte = open(file, 'r', encoding='utf8')
+        file_info = file_byte.read()
+        result = yaml.load(file_info)
+        file_byte.close()
+    else:
+        result = {}
+    return result
+# 读取 YML
 
 
 def for_instances(host_list, route_info):
@@ -87,10 +100,14 @@ def update_readme(file, data):
 
 def main():
     # 配置路径
-    _confg_file = os.path.join(os.getcwd(), "config.json")
+    _confg_json = os.path.join(os.getcwd(), "config.json")
+    _config_yml = os.path.join(os.getcwd(), "config.yml")
 
     # 配置读取
-    _confg_data = read_json(_confg_file)
+    _confg_data = read_json(_confg_json)
+    if not any(_confg_data):
+        _confg_data = read_yml(_config_yml)
+    print(_confg_data)
     _routes = _confg_data["routes"]
     _instances = _confg_data["instances"]
 

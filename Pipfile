@@ -8,6 +8,7 @@ build = "python main.py"
 
 [packages]
 requests = "2.26.0"
+pyyaml = "5.4.1"
 
 [dev-packages]
 
