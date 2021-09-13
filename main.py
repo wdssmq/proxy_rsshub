@@ -107,17 +107,14 @@ def main():
     _confg_data = read_json(_confg_json)
     if not any(_confg_data):
         _confg_data = read_yml(_config_yml)
-    print(_confg_data)
+    # print(_confg_data)
     _routes = _confg_data["routes"]
     _instances = _confg_data["instances"]
 
+    print("-----")
+
     # README.md
     _readme_file = os.path.join(os.getcwd(), "README.md")
-
-    # xml_dir
-    _xml_dir = os.path.join(os.getcwd(), "xml")
-
-    print("-----")
 
     _readme_data = for_routes(_routes, _instances)
 
