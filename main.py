@@ -127,10 +127,10 @@ def main():
     try:
         if(os.environ["GITHUB_REPOSITORY"]):
             fnBug(os.environ["GITHUB_REPOSITORY"])
+            _baseUrl = "https://raw.githubusercontent.com/%s/main" % os.environ["GITHUB_REPOSITORY"]
     except:
         fnLog()
 
-    return
     print("-----")
 
     # README.md

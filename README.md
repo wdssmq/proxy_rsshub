@@ -10,6 +10,8 @@ https://github.com/wdssmq/proxy_rsshub
 
 # RSS 转存列表
 
+获取 opml：[rss.opml](rss.opml "查看 opml")「[raw 直链](rss.opml?raw=true "raw 直链")」
+
 ---start---
 
 2021-09-13 08:17:59

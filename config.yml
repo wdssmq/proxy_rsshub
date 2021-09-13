@@ -36,3 +36,4 @@ routes:
   path: bilibili/user/video/84399544
 - title: 琴吹夢_official 的 bilibili 空间
   path: bilibili/user/video/442426299
+# baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder
