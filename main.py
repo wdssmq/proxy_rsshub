@@ -16,7 +16,8 @@ _local_time = time.localtime(_now)
 _local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
 
 # 用于输出 opml
-_baseUrl = None
+_baseUrl = ""
+
 
 def read_json(file):
     if(os.path.exists(file) == True):
@@ -123,9 +124,13 @@ def main():
 
     if "baseUrl" in _confg_data:
         _baseUrl = _confg_data["baseUrl"]
-    else:
-        _baseUrl = ""
+    try:
+        if(os.environ["GITHUB_REPOSITORY"]):
+            fnBug(os.environ["GITHUB_REPOSITORY"])
+    except:
+        fnLog()
 
+    return
     print("-----")
 
     # README.md
