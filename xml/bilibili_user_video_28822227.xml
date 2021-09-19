@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 19 Sep 2021 00:18:26 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 19 Sep 2021 16:06:48 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[敢开除美国人？日手办公司或惹大麻烦！偷税歧视铜矿就看你怕不怕！]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=463001506&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/3eaff300c59ecd2a2024db244ed8bbb7e59b6534.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 19 Sep 2021 09:00:05 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1EL411x7EN</guid>
+            <link>https://www.bilibili.com/video/BV1EL411x7EN</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[雷神同款厨具，你值得拥有]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Tue, 07 Sep 2021 08:17:02 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Cw411f7Gj</guid>
             <link>https://www.bilibili.com/video/BV1Cw411f7Gj</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[日媒又用罪犯想让动漫背锅 Vtuber团体立刻反击！媒体道歉！]]></title>
-            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=717865660&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/2c5ceda39a74ed444c621462cd4f9cf2e3c32a5b.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 04 Sep 2021 10:25:42 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1oQ4y1C7w6</guid>
-            <link>https://www.bilibili.com/video/BV1oQ4y1C7w6</link>
             
             
             
