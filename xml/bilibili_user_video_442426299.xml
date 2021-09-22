@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[琴吹夢_official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/442426299</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/442426299" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢_official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 21 Sep 2021 16:07:11 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 22 Sep 2021 00:18:59 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【直播回放】【B限 在宅】VTIF 出演 2021年9月7日22点场]]></title>
