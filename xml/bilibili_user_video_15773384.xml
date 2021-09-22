@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,60 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 22 Sep 2021 00:17:18 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 22 Sep 2021 16:08:11 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【困在时间里的父亲】年度高分力作，奥斯卡两项大奖]]></title>
+            <description><![CDATA[影片以重复加碎片式的感官叙事手法，讲述了年迈且身患疾病的安东尼正在面临一项艰难的人生选择——是搬到养老院还是接受女儿寻找的新护工。在这个过程中，安东尼发现自己仿佛进入了一场奇怪的时空之旅，错乱的记忆和时间线交织出一段段匪夷所思的故事，而一个个陌生又熟悉的人也让他陷入迷茫。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763152150&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/cbb174173fd373c108cc326a8e3c745ff1cc12fa.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 22 Sep 2021 16:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1f64y1b7TA</guid>
+            <link>https://www.bilibili.com/video/BV1f64y1b7TA</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【速成家庭】豆瓣7.5家庭轻喜剧]]></title>
+            <description><![CDATA[皮特和爱丽结婚多年，夫妻两人之间的感情一直十分要好，只是这么多年来，他们都没有孩子，不过对于两人来说，这并不是什么着急的事情。一场意外让两夫妻的观念开始产生了改变，他们开始渴望一个爱情的结晶，年纪已经不再年轻的他们选择了走了领养这条路。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250042482&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/290da7f6b6765d9a716ed30735b6827162547cc7.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 22 Sep 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1kv411N7M2</guid>
+            <link>https://www.bilibili.com/video/BV1kv411N7M2</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【江南书剑情】许鞍华执导，金庸首部亲自改编电影]]></title>
+            <description><![CDATA[清乾隆年间，红花会舵主于万亭与四当家文泰来趁乾隆皇帝狩猎之际，面呈载有乾隆卑微身世的陈夫人遗书抄本，要挟乾隆与红花会结盟、反清复明。乾隆暗遣张召重杀死于万亭，将文泰来捕获。于万亭义子陈家洛继任舵主，率众前往营救文泰来。.<br><br><iframe src="https://player.bilibili.com/player.html?aid=547789820&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/4faab63397afcf6b98fe2985c95b8f5ca7a07c43.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 22 Sep 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1vq4y1T7e2</guid>
+            <link>https://www.bilibili.com/video/BV1vq4y1T7e2</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【野兽男孩】现代版美女与野兽]]></title>
-            <description><![CDATA[该片改编自阿莱克丝·弗林创作于2007年的同名小说，用惊悚、哥特的外衣包装一段美女与野兽的传奇故事。故事发生在纽约曼哈顿，英俊人品却很差的富家公子Kyle为了嘲弄同学Kendra，把她邀请到自己聚会让她出丑。备受侮辱的Kendra当即给他下了恶咒，把他变成了人见人厌的“怪物野兽”，只有当一个女孩真正发自内心爱上这个他，咒语才会解除。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890297273&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/991244a82d300f1ed42861fa5043ccdd3d95664f.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[该片改编自阿莱克丝·弗林创作于2007年的同名小说，用惊悚、哥特的外衣包装一段美女与野兽的传奇故事。故事发生在纽约曼哈顿，英俊人品却很差的富家公子Kyle为了嘲弄同学Kendra，把她邀请到自己聚会让她出丑。备受侮辱的Kendra当即给他下了恶咒，把他变成了人见人厌的“怪物野兽”，只有当一个女孩真正发自内心爱上这个他，咒语才会解除。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890297273&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/991244a82d300f1ed42861fa5043ccdd3d95664f.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 21 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1eP4y1a754</guid>
             <link>https://www.bilibili.com/video/BV1eP4y1a754</link>
@@ -35,7 +83,7 @@
         
         <item>
             <title><![CDATA[【新年前夜】群星出演贺岁喜剧]]></title>
-            <description><![CDATA[随着璀璨的太阳落下，新年前夜的幕布缓缓铺开，在这本该充满着希望与温馨的一夜里，却仍有一群人各自身陷烦恼。时代广场表演秀主持人摩根正在紧张地做最后排演；朵伊正在与非要和男友过除夕的女儿海莉闹别扭；漫画家兰迪（还沉浸在被前女友甩了的懊恼中，除夕只会让他更烦躁；而可怜的哈里斯已经到了癌症晚期，只希望看最后一次时代广场的新年落球仪式……他们和众多被生活困扰的纽约人一样，在自己的小位置上忙碌，却来不及睁开眼睛看看，新年的恩泽已悄悄降临……<br><br><iframe src="https://player.bilibili.com/player.html?aid=547534135&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/442bb1a577cec9ec54fe7a593dc64c9be295ecee.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[随着璀璨的太阳落下，新年前夜的幕布缓缓铺开，在这本该充满着希望与温馨的一夜里，却仍有一群人各自身陷烦恼。时代广场表演秀主持人摩根正在紧张地做最后排演；朵伊正在与非要和男友过除夕的女儿海莉闹别扭；漫画家兰迪（还沉浸在被前女友甩了的懊恼中，除夕只会让他更烦躁；而可怜的哈里斯已经到了癌症晚期，只希望看最后一次时代广场的新年落球仪式……他们和众多被生活困扰的纽约人一样，在自己的小位置上忙碌，却来不及睁开眼睛看看，新年的恩泽已悄悄降临……<br><br><iframe src="https://player.bilibili.com/player.html?aid=547534135&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/442bb1a577cec9ec54fe7a593dc64c9be295ecee.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 21 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1fq4y1M7MZ</guid>
             <link>https://www.bilibili.com/video/BV1fq4y1M7MZ</link>
@@ -51,7 +99,7 @@
         
         <item>
             <title><![CDATA[【天劫余生】豆瓣8.1，真实事件改编灾难片]]></title>
-            <description><![CDATA[1972年10月13日，赴智利比赛的一支乌拉圭橄榄球队所搭乘的飞机在安第斯山脉失事。生还的二十多位幸存者面对冰天雪地的生存环境，竭尽全力地以求能活着走出这座荒无人烟的死亡之地。在经历了满心希望的等待着救援队伍无果之后，绝望地他们只能面对着残酷的事实，赖以维生的食物日渐减少，海拔气候寒冷严苛，遭遇好几次雪崩以及内心对死亡充满的巨大恐惧。在激烈的讨论和内心挣扎后，他们开始尝试一些不可能做到的事情，分食死尸。<br><br><iframe src="https://player.bilibili.com/player.html?aid=633109258&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/1d4028f304b8e9e5d6f58f4d811b27e88dd32b60.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[1972年10月13日，赴智利比赛的一支乌拉圭橄榄球队所搭乘的飞机在安第斯山脉失事。生还的二十多位幸存者面对冰天雪地的生存环境，竭尽全力地以求能活着走出这座荒无人烟的死亡之地。在经历了满心希望的等待着救援队伍无果之后，绝望地他们只能面对着残酷的事实，赖以维生的食物日渐减少，海拔气候寒冷严苛，遭遇好几次雪崩以及内心对死亡充满的巨大恐惧。在激烈的讨论和内心挣扎后，他们开始尝试一些不可能做到的事情，分食死尸。<br><br><iframe src="https://player.bilibili.com/player.html?aid=633109258&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/1d4028f304b8e9e5d6f58f4d811b27e88dd32b60.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 20 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV14b4y1y7dH</guid>
             <link>https://www.bilibili.com/video/BV14b4y1y7dH</link>
@@ -67,7 +115,7 @@
         
         <item>
             <title><![CDATA[【独领风骚】保罗·路德主演爱情喜剧，简·奥斯汀小说改编]]></title>
-            <description><![CDATA[故事发生在位于比弗利山庄的一所贵族学校中，能够进入此学校就读的学生们，非富即贵，所以，校园里奢侈和自由的风气和普通的学校是无法相比的。在这里，成绩和品行都不重要，重要的是五颜六色的名牌时装，是闪闪发光的珠宝配饰，是张扬奔放肆意挥洒的个性。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890420471&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/8214f19b3ba1a264c3bec3f0b907f3d5ceecd3a9.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[故事发生在位于比弗利山庄的一所贵族学校中，能够进入此学校就读的学生们，非富即贵，所以，校园里奢侈和自由的风气和普通的学校是无法相比的。在这里，成绩和品行都不重要，重要的是五颜六色的名牌时装，是闪闪发光的珠宝配饰，是张扬奔放肆意挥洒的个性。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890420471&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/8214f19b3ba1a264c3bec3f0b907f3d5ceecd3a9.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 20 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1nP4y1Y7ZG</guid>
             <link>https://www.bilibili.com/video/BV1nP4y1Y7ZG</link>
@@ -83,7 +131,7 @@
         
         <item>
             <title><![CDATA[【乐高幻影忍者大电影】成龙配音东方武者]]></title>
-            <description><![CDATA[繁华时尚的忍者岛，乐高小人们过着快乐无忧的日子，除了……隔三差五会遭到邪恶魔头加满都的入侵骚扰外。当然，幸亏有英勇无畏的幻影忍者，他们一次次挺身而出，与魔王大战，才使得忍者岛免于被邪恶统治的危险。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718019684&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/46d45da1a878f9608abeb0356ea1246370a2d46d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[繁华时尚的忍者岛，乐高小人们过着快乐无忧的日子，除了……隔三差五会遭到邪恶魔头加满都的入侵骚扰外。当然，幸亏有英勇无畏的幻影忍者，他们一次次挺身而出，与魔王大战，才使得忍者岛免于被邪恶统治的危险。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718019684&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/46d45da1a878f9608abeb0356ea1246370a2d46d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 19 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1gQ4y1k7dX</guid>
             <link>https://www.bilibili.com/video/BV1gQ4y1k7dX</link>
@@ -99,7 +147,7 @@
         
         <item>
             <title><![CDATA[【姆明：漫游蓝湾】豆瓣8.1清新治愈，改编同名漫画]]></title>
-            <description><![CDATA[嚕嚕米一家人決定進行一趟旅程，經歷了一連串海上風暴後，他們來到了蔚藍海岸。這裏是享樂的天堂，美食、華服、帥哥，處處考驗著嚕嚕米一家對於彼此的信任與情感，他們能夠一起返回純樸的姆米谷嗎？<br><br><iframe src="https://player.bilibili.com/player.html?aid=590387801&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/f3539f84ba4c5e396030f4097d347a0b93a99fcc.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[嚕嚕米一家人決定進行一趟旅程，經歷了一連串海上風暴後，他們來到了蔚藍海岸。這裏是享樂的天堂，美食、華服、帥哥，處處考驗著嚕嚕米一家對於彼此的信任與情感，他們能夠一起返回純樸的姆米谷嗎？<br><br><iframe src="https://player.bilibili.com/player.html?aid=590387801&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/f3539f84ba4c5e396030f4097d347a0b93a99fcc.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 19 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1qq4y1Z7SQ</guid>
             <link>https://www.bilibili.com/video/BV1qq4y1Z7SQ</link>
@@ -115,58 +163,10 @@
         
         <item>
             <title><![CDATA[【孔繁森】金鸡奖特别奖，高明主演传记电影]]></title>
-            <description><![CDATA[孔繁森要去上任的地方阿里，是一个海拔高，地广人稀的地方。孔繁森的家人希望他能调回山东老家。美丽的阿里风光令孔繁森的心情热腾起来，同时，他也意识到自己的使命。到任后，发现这里缺电，缺少一切舒适的东西，很多干部纷纷想调走。孔繁森以身作则，带着教委主任孟志华去看望山村小学的师生。<br><br><iframe src="https://player.bilibili.com/player.html?aid=675317770&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/8caf29a14c571553310cc1483b36d8be8fe98fc1.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[孔繁森要去上任的地方阿里，是一个海拔高，地广人稀的地方。孔繁森的家人希望他能调回山东老家。美丽的阿里风光令孔繁森的心情热腾起来，同时，他也意识到自己的使命。到任后，发现这里缺电，缺少一切舒适的东西，很多干部纷纷想调走。孔繁森以身作则，带着教委主任孟志华去看望山村小学的师生。<br><br><iframe src="https://player.bilibili.com/player.html?aid=675317770&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/8caf29a14c571553310cc1483b36d8be8fe98fc1.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 18 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1WU4y1P7n8</guid>
             <link>https://www.bilibili.com/video/BV1WU4y1P7n8</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【敌后武工队】同名小说改编抗战片]]></title>
-            <description><![CDATA[1942年的冀中平原、日本宪兵汉奸、伪警察等数百人包围了东王庄，敌人架起机枪疯狂扫射，横尸遍野、惨不忍睹。闻讯赶来的武工队员们按捺不住心中的怒火，纷纷向队长魏强请战，为乡亲们报仇。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335284128&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/fe0bfc7a104638845ac763dd880d5838739b7dbc.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 18 Sep 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1kw411f7Uu</guid>
-            <link>https://www.bilibili.com/video/BV1kw411f7Uu</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【冷酷祭典】豆瓣8.1悬疑犯罪片，于佩尔主演夏布洛尔导演]]></title>
-            <description><![CDATA[苏菲在中产阶级乐里芙家做女佣，她千方百计隐藏着自己不识字的秘密。性格内向的苏菲内心非常敏感，事事留神不犯差错，并得到了主人家的认同。乐里芙一家对苏菲彬彬有礼，同时也昭示出主仆间的不同等级。在镇上的邮局，苏菲认识了同属穷人阶级的珍。<br><br><iframe src="https://player.bilibili.com/player.html?aid=632986400&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/e4c4c0eeb82d12ce120ce02d2cb24e8cdd469399.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 17 Sep 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1rb4y127FX</guid>
-            <link>https://www.bilibili.com/video/BV1rb4y127FX</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【牛奶配送员的奇幻人生】豆瓣7.4奇幻爱情，莫妮卡·贝鲁奇主演]]></title>
-            <description><![CDATA[讲述一个男人生命的三个阶段：第一阶段战时幸运的送奶工；第二阶段婚姻出轨爱上情人，第三阶段出家为僧。<br><br><iframe src="https://player.bilibili.com/player.html?aid=720431817&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/716d0fc4447befc5055be4fee73ee492458883b3.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 17 Sep 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1oQ4y16781</guid>
-            <link>https://www.bilibili.com/video/BV1oQ4y16781</link>
             
             
             
