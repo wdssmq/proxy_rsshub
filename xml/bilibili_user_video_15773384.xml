@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,12 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 30 Sep 2021 16:06:54 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 01 Oct 2021 00:20:05 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【名扬四海】豆瓣7.8励志歌舞喜剧]]></title>
-            <description><![CDATA[根据1980年艾伦-帕克导演的经典歌舞片《名扬四海》改编。在纽约表演艺术高中，年轻人的任何梦想都将可能被实现。无论是舞蹈、歌唱、表演或是拥有其他艺术才华的学生们都将可能在这里得到实现自己艺术梦想的宝贵机会。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890855405&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/170048db62364c4f32cc69da69c28f6e0ee29aa0.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[根据1980年艾伦-帕克导演的经典歌舞片《名扬四海》改编。在纽约表演艺术高中，年轻人的任何梦想都将可能被实现。无论是舞蹈、歌唱、表演或是拥有其他艺术才华的学生们都将可能在这里得到实现自己艺术梦想的宝贵机会。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890855405&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/170048db62364c4f32cc69da69c28f6e0ee29aa0.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 30 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1wP4y187UY</guid>
             <link>https://www.bilibili.com/video/BV1wP4y187UY</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[【登陆日：猛犬连】豆瓣3.8，低配版诺曼底登陆]]></title>
-            <description><![CDATA[第二次世界大战中，根据英国盟军埃森·豪威尔将军策划的“霸王”行动，为所有同盟军争取诺曼底登陆时间成为关键。1944年6月6日，诺曼底登陆拉开序幕。为了夺取海滩制高点霍克角山脊，压制德国布防在犹他和奥马哈海岸的重型火炮及机枪火力点，并销毁敌军的主力大炮，美军陆军中校詹姆斯·厄尔·鲁德尔率领第二游骑兵部队“猛犬连”成为这项任务的前锋部队。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975676805&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b5e5b61ad8012f0e8878bbd21c916d4fcced70c3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[第二次世界大战中，根据英国盟军埃森·豪威尔将军策划的“霸王”行动，为所有同盟军争取诺曼底登陆时间成为关键。1944年6月6日，诺曼底登陆拉开序幕。为了夺取海滩制高点霍克角山脊，压制德国布防在犹他和奥马哈海岸的重型火炮及机枪火力点，并销毁敌军的主力大炮，美军陆军中校詹姆斯·厄尔·鲁德尔率领第二游骑兵部队“猛犬连”成为这项任务的前锋部队。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975676805&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/b5e5b61ad8012f0e8878bbd21c916d4fcced70c3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 30 Sep 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1w44y187KQ</guid>
             <link>https://www.bilibili.com/video/BV1w44y187KQ</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[【明星伙伴】同名美剧原班人马续作喜剧片]]></title>
-            <description><![CDATA[电影明星文森特跟他的好兄弟艾里克、特托及伽玛重出江湖，加入金牌经纪人兼电影公司总经理阿里的旗下。他们在竞争激烈的好莱坞演艺圈里摸爬滚打，杀出重围，在这期间，他们的目标也发生了微小的变化，但彼此的友谊仍坚定无比……<br><br><iframe src="https://player.bilibili.com/player.html?aid=720692009&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/68239367f0e247142f41105266577002f6e615cd.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[电影明星文森特跟他的好兄弟艾里克、特托及伽玛重出江湖，加入金牌经纪人兼电影公司总经理阿里的旗下。他们在竞争激烈的好莱坞演艺圈里摸爬滚打，杀出重围，在这期间，他们的目标也发生了微小的变化，但彼此的友谊仍坚定无比……<br><br><iframe src="https://player.bilibili.com/player.html?aid=720692009&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/68239367f0e247142f41105266577002f6e615cd.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 30 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1qQ4y1z7Jq</guid>
             <link>https://www.bilibili.com/video/BV1qQ4y1z7Jq</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[【情书】中文版]]></title>
-            <description><![CDATA[日本神户某个飘雪的冬日，渡边博子在前未婚夫藤井树的两周年祭日上又一次悲痛到不能自已。正因为无法抑制住对已逝恋人的思念，渡边博子在其中学同学录里发现“藤井树”在小樽市读书时的地址时，依循着寄发了一封本以为是发往天国的情书。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718134611&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/0f5884712ff9b92e7c20a4f623820496c4724ef3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[日本神户某个飘雪的冬日，渡边博子在前未婚夫藤井树的两周年祭日上又一次悲痛到不能自已。正因为无法抑制住对已逝恋人的思念，渡边博子在其中学同学录里发现“藤井树”在小樽市读书时的地址时，依循着寄发了一封本以为是发往天国的情书。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718134611&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/0f5884712ff9b92e7c20a4f623820496c4724ef3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 29 Sep 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1iQ4y1k7n1</guid>
             <link>https://www.bilibili.com/video/BV1iQ4y1k7n1</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[【情书】豆瓣8.9，岩井俊二经典纯爱电影]]></title>
-            <description><![CDATA[日本神户某个飘雪的冬日，渡边博子在前未婚夫藤井树的两周年祭日上又一次悲痛到不能自已。正因为无法抑制住对已逝恋人的思念，渡边博子在其中学同学录里发现“藤井树”在小樽市读书时的地址时，依循着寄发了一封本以为是发往天国的情书。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420252549&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/fd7e4d90d8932af6ec2ebd799770766e89494a47.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[日本神户某个飘雪的冬日，渡边博子在前未婚夫藤井树的两周年祭日上又一次悲痛到不能自已。正因为无法抑制住对已逝恋人的思念，渡边博子在其中学同学录里发现“藤井树”在小樽市读书时的地址时，依循着寄发了一封本以为是发往天国的情书。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420252549&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/fd7e4d90d8932af6ec2ebd799770766e89494a47.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 29 Sep 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV163411i7Un</guid>
             <link>https://www.bilibili.com/video/BV163411i7Un</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[【说谎游戏】豆瓣7.4，蒂姆·罗斯主演犯罪悬疑]]></title>
-            <description><![CDATA[詹姆斯的家中世代经营着庞大的纺织产业，作为父亲唯一的儿子，詹姆斯日后势必继承父亲的纺织帝国，未来无可估量。然而某日，一位妓女的死亡令詹姆斯被卷入了罪与罚的漩涡之中。种种迹象表明，詹姆斯正是那位警方正在苦苦追寻的冷酷无情的凶手。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250737289&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/edfc83c94862b4eddd55244fea215125a37dacd3.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[詹姆斯的家中世代经营着庞大的纺织产业，作为父亲唯一的儿子，詹姆斯日后势必继承父亲的纺织帝国，未来无可估量。然而某日，一位妓女的死亡令詹姆斯被卷入了罪与罚的漩涡之中。种种迹象表明，詹姆斯正是那位警方正在苦苦追寻的冷酷无情的凶手。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250737289&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/edfc83c94862b4eddd55244fea215125a37dacd3.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 29 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Zv41137Cp</guid>
             <link>https://www.bilibili.com/video/BV1Zv41137Cp</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[【空想新子和千年的魔法】豆瓣7.7温暖清新动画电影]]></title>
-            <description><![CDATA[昭和30年，位于山口县的防府市，是一个依山傍水、空气清新的美丽所在。就读小学三年级的青木新子自幼生长在这里，她最喜欢听爷爷讲述的关于这个小町千年前古国国筑的故事。某天，一个来自大都市的转学生走入新子所在的班级。这个名叫岛津贵伊子有着白皙的皮肤，受过良好的教育，与土生土长的孩子们截然不同。新子与略显拘谨的贵伊子结为好友，更带领贵伊子融入了这片充满了幻想和魔法的田园生活……<br><br><iframe src="https://player.bilibili.com/player.html?aid=720691507&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/e6ac387ffcd0b0cfc5229b42e0b1fd672f378972.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[昭和30年，位于山口县的防府市，是一个依山傍水、空气清新的美丽所在。就读小学三年级的青木新子自幼生长在这里，她最喜欢听爷爷讲述的关于这个小町千年前古国国筑的故事。某天，一个来自大都市的转学生走入新子所在的班级。这个名叫岛津贵伊子有着白皙的皮肤，受过良好的教育，与土生土长的孩子们截然不同。新子与略显拘谨的贵伊子结为好友，更带领贵伊子融入了这片充满了幻想和魔法的田园生活……<br><br><iframe src="https://player.bilibili.com/player.html?aid=720691507&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/e6ac387ffcd0b0cfc5229b42e0b1fd672f378972.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 28 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1qQ4y1z7gq</guid>
             <link>https://www.bilibili.com/video/BV1qQ4y1z7gq</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[【寻找魔鬼】国产寻宝片，大漠魔鬼城寻找年羹尧宝藏]]></title>
-            <description><![CDATA[清雍正年间，年羹尧得知雍正对自己猜忌，派人将数年敛聚的财富藏进西北大漠魔鬼城，随后，他下令诛杀了全部埋宝者。200年过去了，这批宝藏的下落成了个谜，好多寻宝人最后不得善终。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975303286&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/03d5d6669f041c069dd1df49d4f2ed14a07c0d84.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[清雍正年间，年羹尧得知雍正对自己猜忌，派人将数年敛聚的财富藏进西北大漠魔鬼城，随后，他下令诛杀了全部埋宝者。200年过去了，这批宝藏的下落成了个谜，好多寻宝人最后不得善终。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975303286&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/03d5d6669f041c069dd1df49d4f2ed14a07c0d84.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 28 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1B44y187S7</guid>
             <link>https://www.bilibili.com/video/BV1B44y187S7</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[【阿帕鲁萨镇】豆瓣7.0，艾德·哈里斯自导自演西部片]]></title>
-            <description><![CDATA[故事发生在荒无人烟的美国西部，在阿帕鲁萨镇上，阿弗雷特和其搭档维吉尔依靠着武力和枪支艰难维持着镇上的短暂和平。小镇上最有权势的当属农场主兰德尔，由于手握着大量的资源，兰德尔和其党羽在镇上简直能用“横行霸道”来形容。终于，在惨剧接连发生之后，镇上居民们决定不再忍耐，一场大战即将拉开序幕。<br><br><iframe src="https://player.bilibili.com/player.html?aid=720730153&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/1a36ffa44ec2436876b70f0572d567cee48a8fbc.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[故事发生在荒无人烟的美国西部，在阿帕鲁萨镇上，阿弗雷特和其搭档维吉尔依靠着武力和枪支艰难维持着镇上的短暂和平。小镇上最有权势的当属农场主兰德尔，由于手握着大量的资源，兰德尔和其党羽在镇上简直能用“横行霸道”来形容。终于，在惨剧接连发生之后，镇上居民们决定不再忍耐，一场大战即将拉开序幕。<br><br><iframe src="https://player.bilibili.com/player.html?aid=720730153&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/1a36ffa44ec2436876b70f0572d567cee48a8fbc.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 27 Sep 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1mQ4y1z74z</guid>
             <link>https://www.bilibili.com/video/BV1mQ4y1z74z</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[【青铜狂魔】邪典神作，国产推理电影]]></title>
-            <description><![CDATA[碧海市,一个昏黑的夜晚，两个男人在一幢古堡进行文物交易，突然，卖者被对方用长剑刺死。被害者名范小庄，曾因走私文物和盗掘古墓被判刑。女警官邓虹和刑警段明海接管此案。<br><br><iframe src="https://player.bilibili.com/player.html?aid=933085013&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/d65ce5fd002ac03b8ed3faf89ef4ed61c9bade19.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[碧海市,一个昏黑的夜晚，两个男人在一幢古堡进行文物交易，突然，卖者被对方用长剑刺死。被害者名范小庄，曾因走私文物和盗掘古墓被判刑。女警官邓虹和刑警段明海接管此案。<br><br><iframe src="https://player.bilibili.com/player.html?aid=933085013&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/d65ce5fd002ac03b8ed3faf89ef4ed61c9bade19.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 27 Sep 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZM4y1g7u9</guid>
             <link>https://www.bilibili.com/video/BV1ZM4y1g7u9</link>
