@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 07 Oct 2021 00:18:24 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 07 Oct 2021 16:06:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【机械战警】科幻经典翻拍，铁甲威龙回归]]></title>
+            <description><![CDATA[2028年，专事军火开发的机器人公司OmniCorp.生产了大量装备精良的机械战警，他们被投入到维和和惩治犯罪等行动中，取得显著的效果。罪犯横行的底特律市，嫉恶如仇、正义感十足的警察亚历克斯·墨菲遭到仇家暗算，身体受到毁灭性破坏。<br><br><iframe src="https://player.bilibili.com/player.html?aid=208305757&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/459403baa2a8c67655fcc362f39a27eb53d59d86.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Oct 2021 08:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Nh411H7UP</guid>
+            <link>https://www.bilibili.com/video/BV1Nh411H7UP</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【全球风暴】科幻灾难特效大片]]></title>
+            <description><![CDATA[《全球风暴》的故事发生在未来，环境恶化导致自然灾害愈演愈烈，因此世界各国通力合作，创造了能控制天气的强大气象卫星网络。但是卫星网络突发故障开始攻击地球，摧毁一切的气象大灾变席卷世界。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293368284&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/b453eb28feceeff9efb23da9bdb4a1a47cfecb85.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Oct 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Cf4y1j788</guid>
+            <link>https://www.bilibili.com/video/BV1Cf4y1j788</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【乐高蝙蝠侠大电影】豆瓣8.0动画喜剧，哥谭反派大集合]]></title>
-            <description><![CDATA[罪恶丛生的哥谭市，疯狂的小丑带领恶棍军团展开新一波的犯罪活动。对他来说，犯罪以及引来宿敌蝙蝠侠是无比快乐的事情，可是猛男蝙蝠侠不仅轻松解决掉这群小坏蛋，还根本不将小丑放在眼里。蝙蝠侠的无情言语，深深刺痛了小丑的心。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335851303&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/9509f3c906e9aa1e4761b2a7b446dd9592a1b497.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[罪恶丛生的哥谭市，疯狂的小丑带领恶棍军团展开新一波的犯罪活动。对他来说，犯罪以及引来宿敌蝙蝠侠是无比快乐的事情，可是猛男蝙蝠侠不仅轻松解决掉这群小坏蛋，还根本不将小丑放在眼里。蝙蝠侠的无情言语，深深刺痛了小丑的心。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335851303&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/9509f3c906e9aa1e4761b2a7b446dd9592a1b497.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 06 Oct 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1aR4y1n7yE</guid>
             <link>https://www.bilibili.com/video/BV1aR4y1n7yE</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【大黄蜂】变形金刚外传电影]]></title>
-            <description><![CDATA[意图征服一切的霸天虎全员出击，塞伯坦即将陨落，B-127临危受命前往地球。在1987年的加州，B-127不仅遭到特工伯恩斯的追捕，更被闪电殴至重伤，语言模块和记忆模块严重受损。<br><br><iframe src="https://player.bilibili.com/player.html?aid=933347062&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/08e580bf679eb426870b39efaa7fbd86c529f94b.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[意图征服一切的霸天虎全员出击，塞伯坦即将陨落，B-127临危受命前往地球。在1987年的加州，B-127不仅遭到特工伯恩斯的追捕，更被闪电殴至重伤，语言模块和记忆模块严重受损。<br><br><iframe src="https://player.bilibili.com/player.html?aid=933347062&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/08e580bf679eb426870b39efaa7fbd86c529f94b.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 06 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1QT4y1Z7C7</guid>
             <link>https://www.bilibili.com/video/BV1QT4y1Z7C7</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【七宗罪】豆瓣8.8经典悬疑惊悚片，摩根·弗里曼、布拉德·皮特主演]]></title>
-            <description><![CDATA[“暴食”、“贪婪”、“懒惰”、“嫉妒”、“骄傲”、“淫欲”、“愤怒”，这是天主教教义所指的人性七宗罪。城市中发生的连坏杀人案，死者恰好都是犯有这些教义的人。凶手故弄玄虚的作案手法，令资深冷静的警员沙摩塞和血气方刚的新扎警员米尔斯都陷入了破案的谜团中。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975794736&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/96c251a31cc45e153ed641bae7be536e5550a0ea.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[“暴食”、“贪婪”、“懒惰”、“嫉妒”、“骄傲”、“淫欲”、“愤怒”，这是天主教教义所指的人性七宗罪。城市中发生的连坏杀人案，死者恰好都是犯有这些教义的人。凶手故弄玄虚的作案手法，令资深冷静的警员沙摩塞和血气方刚的新扎警员米尔斯都陷入了破案的谜团中。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975794736&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/96c251a31cc45e153ed641bae7be536e5550a0ea.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 05 Oct 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1m44y1475o</guid>
             <link>https://www.bilibili.com/video/BV1m44y1475o</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【寂静之地】高口碑惊悚片，怪物循声猎杀人类]]></title>
-            <description><![CDATA[一个大规模的入侵行动发生，让地球几乎全灭，幸存的这一家人过着安静无声的生活，一发出声音就会被怪物抓走。《寂静之地》中的家庭必须时时保持安静，这一家人必须搞清楚哪些声音可以发出，哪些不行。<br><br><iframe src="https://player.bilibili.com/player.html?aid=848269230&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/3748c12e6e9f7ffddf975a6d24a878dc2c7f5e94.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[一个大规模的入侵行动发生，让地球几乎全灭，幸存的这一家人过着安静无声的生活，一发出声音就会被怪物抓走。《寂静之地》中的家庭必须时时保持安静，这一家人必须搞清楚哪些声音可以发出，哪些不行。<br><br><iframe src="https://player.bilibili.com/player.html?aid=848269230&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/3748c12e6e9f7ffddf975a6d24a878dc2c7f5e94.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 05 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ML4y1h7g7</guid>
             <link>https://www.bilibili.com/video/BV1ML4y1h7g7</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【恐怖游轮】豆瓣8.5恐怖惊悚，高分心理悬疑电影]]></title>
-            <description><![CDATA[单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718130010&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/20ca20e8c7bf9f15819fabaa92860caaef2504b4.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718130010&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/20ca20e8c7bf9f15819fabaa92860caaef2504b4.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 04 Oct 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1vQ4y1k7v8</guid>
             <link>https://www.bilibili.com/video/BV1vQ4y1k7v8</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【碟中谍6：全面瓦解】豆瓣8.1，汤姆·克鲁斯主演经典动作片]]></title>
-            <description><![CDATA[伊森·亨特和队友们接到了追回三个大杀伤性核武器的任务。眼见任务马上就能完成，但为了挽救其中一位队友卢瑟的生命，三个核武器被人趁机带走。中情局负责人斯隆女士调来她手下的得意猛将沃克，让他盯着伊森·亨特完成追回核武器的任务。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890806736&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b23d455338f98be3a4cf6bac6b8de6105e442390.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[伊森·亨特和队友们接到了追回三个大杀伤性核武器的任务。眼见任务马上就能完成，但为了挽救其中一位队友卢瑟的生命，三个核武器被人趁机带走。中情局负责人斯隆女士调来她手下的得意猛将沃克，让他盯着伊森·亨特完成追回核武器的任务。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890806736&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/b23d455338f98be3a4cf6bac6b8de6105e442390.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 04 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1fP4y1b7RN</guid>
             <link>https://www.bilibili.com/video/BV1fP4y1b7RN</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【变相怪杰】豆瓣8.0，金•凯瑞主演奇幻喜剧]]></title>
-            <description><![CDATA[银行小职员斯坦利老实本分，过着和所有老实人一样的平凡生活。一次，斯坦利在接待金发美女蒂娜时深深恋上了对方，不料蒂娜却是黑帮头目多利安抢劫银行前派来打探地形的。多利安随后成功抢劫了斯坦利所在的银行。<br><br><iframe src="https://player.bilibili.com/player.html?aid=378109932&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/18f24dfc1a84aa70fc66cde11a419825057a01c6.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[银行小职员斯坦利老实本分，过着和所有老实人一样的平凡生活。一次，斯坦利在接待金发美女蒂娜时深深恋上了对方，不料蒂娜却是黑帮头目多利安抢劫银行前派来打探地形的。多利安随后成功抢劫了斯坦利所在的银行。<br><br><iframe src="https://player.bilibili.com/player.html?aid=378109932&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/18f24dfc1a84aa70fc66cde11a419825057a01c6.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 03 Oct 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1jf4y1w7Au</guid>
             <link>https://www.bilibili.com/video/BV1jf4y1w7Au</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【触不可及】豆瓣9.3高分喜剧，真实事件改编]]></title>
-            <description><![CDATA[因为一次跳伞事故，白人富翁菲利普Philippe瘫痪在床，欲招聘一名全职陪护。由于薪酬高，应聘者云集，个个舌灿莲花，却无法打动他的心。直到黑人德希斯Driss的出现才让他作出决定。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335811988&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/f7dfb31d9240658c505a655aff2377bf3e913d49.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[因为一次跳伞事故，白人富翁菲利普Philippe瘫痪在床，欲招聘一名全职陪护。由于薪酬高，应聘者云集，个个舌灿莲花，却无法打动他的心。直到黑人德希斯Driss的出现才让他作出决定。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335811988&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/f7dfb31d9240658c505a655aff2377bf3e913d49.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 03 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1HR4y1n73V</guid>
             <link>https://www.bilibili.com/video/BV1HR4y1n73V</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【东邪西毒】普通话]]></title>
-            <description><![CDATA[在恋人负气嫁给兄长的当晚，欧阳锋黯然离开白陀山，走进沙漠某个小镇，成为一名杀手中介人。他的朋友、风流剑客黄药师每年都来小镇与他畅饮，酒话里有关白陀山的消息令他忘却往事的念想渐次演变成自欺行为。<br><br><iframe src="https://player.bilibili.com/player.html?aid=631792931&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/fafdae0052dfe1f168ef49f5ec44e4211d5d4d5b.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 02 Oct 2021 08:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1sb4y167KP</guid>
-            <link>https://www.bilibili.com/video/BV1sb4y167KP</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【东邪西毒】全明星阵容，王家卫执导，颠覆传统武侠之作]]></title>
-            <description><![CDATA[在恋人负气嫁给兄长的当晚，欧阳锋黯然离开白陀山，走进沙漠某个小镇，成为一名杀手中介人。他的朋友、风流剑客黄药师每年都来小镇与他畅饮，酒话里有关白陀山的消息令他忘却往事的念想渐次演变成自欺行为。<br><br><iframe src="https://player.bilibili.com/player.html?aid=505188878&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6578190e3cbf8c95ce613b78548c253fab823508.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 02 Oct 2021 08:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Kg411V7ct</guid>
-            <link>https://www.bilibili.com/video/BV1Kg411V7ct</link>
             
             
             
