@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 09 Oct 2021 00:17:54 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 09 Oct 2021 16:06:24 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[《你的名字》男主耍流氓？ 新海诚苦笑：三年前还不是这样]]></title>
