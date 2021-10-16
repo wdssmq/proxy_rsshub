@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 16 Oct 2021 00:20:15 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 16 Oct 2021 16:07:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【大学】豆瓣8.0，清华大学题材励志纪录电影]]></title>
+            <description><![CDATA[在清华园里，有四个人正站在自己人生的路口。他们之中，有刚历经高考、一波三折地考入心仪学府的第一代“00”后大学生，有即将离开象牙塔、面临艰难抉择的博士毕业生，有旅美归来入职清华、满怀“观天”理想却挑战重重的青年教师，有耄耋之年、荣休后依然坚持站立三尺讲台的老院士。影片以三年的悠悠光景，诉说了四个清华人一生的理想，以及在他们身后属于这所大学的永恒青春。<br><br><iframe src="https://player.bilibili.com/player.html?aid=891124930&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/2cad0812fb3996e48168fa09b50487acfabf015c.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Oct 2021 08:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1yP4y1t7NJ</guid>
+            <link>https://www.bilibili.com/video/BV1yP4y1t7NJ</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【孩子不想理解】横道世之介导演青春片新作独播]]></title>
+            <description><![CDATA[读高二的美波是学校游泳队的一员，喜欢看一部以魔法少女Koteko为主角的动画。暑假开始前的某一天，她和在学校屋顶画Koteko的书法部男生昭平相识了。因为对动画的热爱，他们很快就成了朋友。<br><br><iframe src="https://player.bilibili.com/player.html?aid=463536597&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/05f9c1c95602fce058744fabe122113a39178803.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Oct 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1KL411G7Yz</guid>
+            <link>https://www.bilibili.com/video/BV1KL411G7Yz</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[泽野弘之《普罗米亚》B站独家热播问候视频]]></title>
-            <description><![CDATA[由我担任音乐制作的电影 #普罗米亚# 正在哔哩哔哩独家播出，希望大家能够一起享受电影和其中的音乐！<br><br><iframe src="https://player.bilibili.com/player.html?aid=891053940&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/5aa2f0bc5e7fe00924a649d39a48a73aaa5d698a.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[由我担任音乐制作的电影 #普罗米亚# 正在哔哩哔哩独家播出，希望大家能够一起享受电影和其中的音乐！<br><br><iframe src="https://player.bilibili.com/player.html?aid=891053940&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/5aa2f0bc5e7fe00924a649d39a48a73aaa5d698a.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 15 Oct 2021 10:00:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1WP4y1t7LR</guid>
             <link>https://www.bilibili.com/video/BV1WP4y1t7LR</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【刑警ZERO 特别篇】六甲山杀人事件]]></title>
-            <description><![CDATA[主人公时矢在丧失了记忆的情况下，与同事们前往辖区外的神户六甲山进行团体旅行。到达山上酒店时，这里已经聚集了6名客人。而这六名客人也都因为不约而同地收到了“神秘邀请函”，继而来到此地。与外部连接的道路在不久后全部被切断，酒店成为了陆地孤岛。更令人意想不到的是，孤岛酒店里发生了不可思议的杀人事件。<br><br><iframe src="https://player.bilibili.com/player.html?aid=251075818&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/333707e5d1faeac6e61fdf59b6cda9cfc0047fe4.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[主人公时矢在丧失了记忆的情况下，与同事们前往辖区外的神户六甲山进行团体旅行。到达山上酒店时，这里已经聚集了6名客人。而这六名客人也都因为不约而同地收到了“神秘邀请函”，继而来到此地。与外部连接的道路在不久后全部被切断，酒店成为了陆地孤岛。更令人意想不到的是，孤岛酒店里发生了不可思议的杀人事件。<br><br><iframe src="https://player.bilibili.com/player.html?aid=251075818&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/333707e5d1faeac6e61fdf59b6cda9cfc0047fe4.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 15 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1uv41137px</guid>
             <link>https://www.bilibili.com/video/BV1uv41137px</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【黑眼睛】陶虹获金鸡奖最佳女主]]></title>
-            <description><![CDATA[丁丽华是一位盲人，但身体上的残疾却并没能折损她的心智，正相反，和普通人一样，她坚强而乐观，独立又向上。从盲人学校毕业之后，亲戚为已到婚嫁之年的丁丽华安排了一门亲事，对方亦是同她一样的盲人。生性好强的丁丽华并不愿意就此嫁为人妻开始漫长的操劳家事的生活，正相反，她积极争取，入选了伤残人集训队。<br><br><iframe src="https://player.bilibili.com/player.html?aid=932540432&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/420ae39d2996f23cabf3fa458779927a77e0a81e.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[丁丽华是一位盲人，但身体上的残疾却并没能折损她的心智，正相反，和普通人一样，她坚强而乐观，独立又向上。从盲人学校毕业之后，亲戚为已到婚嫁之年的丁丽华安排了一门亲事，对方亦是同她一样的盲人。生性好强的丁丽华并不愿意就此嫁为人妻开始漫长的操劳家事的生活，正相反，她积极争取，入选了伤残人集训队。<br><br><iframe src="https://player.bilibili.com/player.html?aid=932540432&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/420ae39d2996f23cabf3fa458779927a77e0a81e.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 15 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1sM4y1V7K6</guid>
             <link>https://www.bilibili.com/video/BV1sM4y1V7K6</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【过关斩将】施瓦辛格科幻动作片]]></title>
-            <description><![CDATA[该片延续了施瓦辛格一贯的英雄风格。在2019年，美国已经成为了一个独裁国家，在这里，不容许有不同的声音出现。本是一名警察，因对当局的命令不满，拒不执行命令而被判有罪遭到逮捕。现在只有一个机会能让本重获自由，那就是参加电视台的“过关斩将”节目并最终获胜。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806124167&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/f1e7c320e1cab9b33fbc6390d721f80ff0f88837.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[该片延续了施瓦辛格一贯的英雄风格。在2019年，美国已经成为了一个独裁国家，在这里，不容许有不同的声音出现。本是一名警察，因对当局的命令不满，拒不执行命令而被判有罪遭到逮捕。现在只有一个机会能让本重获自由，那就是参加电视台的“过关斩将”节目并最终获胜。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806124167&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/f1e7c320e1cab9b33fbc6390d721f80ff0f88837.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 14 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Z34y1272Q</guid>
             <link>https://www.bilibili.com/video/BV1Z34y1272Q</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【北京人】曹禺名作改编，吕丽萍主演]]></title>
-            <description><![CDATA[民国年间，为给久病不愈的曾老太太冲喜，京城大户曾家举全族之力娶曾孙媳妇瑞贞进门，不料新人落地，老太太一命归西，喜事变成丧事。如今的曾家已不复昔日的辉煌，只剩下厉色内荏的空架子。<br><br><iframe src="https://player.bilibili.com/player.html?aid=932580108&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/38da65b48e1472fedc8c6f5061416bc15a35921d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[民国年间，为给久病不愈的曾老太太冲喜，京城大户曾家举全族之力娶曾孙媳妇瑞贞进门，不料新人落地，老太太一命归西，喜事变成丧事。如今的曾家已不复昔日的辉煌，只剩下厉色内荏的空架子。<br><br><iframe src="https://player.bilibili.com/player.html?aid=932580108&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/38da65b48e1472fedc8c6f5061416bc15a35921d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 14 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV11M4y1V7xH</guid>
             <link>https://www.bilibili.com/video/BV11M4y1V7xH</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【星期三消失了】中村伦也主演，一人饰七角]]></title>
-            <description><![CDATA[由于小时候的交通事故，“我”的性格和个性因星期几而不同，他们以星期几的名字互相称呼，其中“星期二”是最朴素无聊的存在，是从其他星期开始被强加家里打扫等麻烦事的角色。但是，有一天，忙了整天后躺在床上的“星期二”在星期三醒来。我心中的“星期三”消失了，“星期二”歌颂星期三，但日常生活渐渐变成了恐怖。<br><br><iframe src="https://player.bilibili.com/player.html?aid=848522805&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/aeaf48e64f92b48c29df0a834aaabcfcb6bed03e.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[由于小时候的交通事故，“我”的性格和个性因星期几而不同，他们以星期几的名字互相称呼，其中“星期二”是最朴素无聊的存在，是从其他星期开始被强加家里打扫等麻烦事的角色。但是，有一天，忙了整天后躺在床上的“星期二”在星期三醒来。我心中的“星期三”消失了，“星期二”歌颂星期三，但日常生活渐渐变成了恐怖。<br><br><iframe src="https://player.bilibili.com/player.html?aid=848522805&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/aeaf48e64f92b48c29df0a834aaabcfcb6bed03e.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 13 Oct 2021 10:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1JL4y167xS</guid>
             <link>https://www.bilibili.com/video/BV1JL4y167xS</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【爱情有什么道理】瑞凡·菲尼克斯主演爱情音乐电影]]></title>
-            <description><![CDATA[本片男主角瑞凡费尼克斯，21岁时就获得威尼斯影帝宝座，喜欢他的观众不要错过了本片！四位志同道合的乡村乐手，为了实现自我的梦想，前往乡村音乐之都，开创音乐事业。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293618481&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/4f126f071c078dd23ed0ee4e6b9e4d2e2b4b327e.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[本片男主角瑞凡费尼克斯，21岁时就获得威尼斯影帝宝座，喜欢他的观众不要错过了本片！四位志同道合的乡村乐手，为了实现自我的梦想，前往乡村音乐之都，开创音乐事业。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293618481&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/4f126f071c078dd23ed0ee4e6b9e4d2e2b4b327e.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 13 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1eF411Y7cG</guid>
             <link>https://www.bilibili.com/video/BV1eF411Y7cG</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【决算！忠臣藏】历史事件改编古装复仇喜剧]]></title>
-            <description><![CDATA[故事以赤穗藩为舞台，讲述为了给在江户城松廊下伤人而被迫切腹谢罪的赤穗藩君主浅野内匠头报仇，四十七名浪人武士团结一致，向宿敌吉良上野介报仇……<br><br><iframe src="https://player.bilibili.com/player.html?aid=506015504&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/744f9d024f6000dd9fc0221ce2ee9ddbd0ed8afc.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[故事以赤穗藩为舞台，讲述为了给在江户城松廊下伤人而被迫切腹谢罪的赤穗藩君主浅野内匠头报仇，四十七名浪人武士团结一致，向宿敌吉良上野介报仇……<br><br><iframe src="https://player.bilibili.com/player.html?aid=506015504&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/744f9d024f6000dd9fc0221ce2ee9ddbd0ed8afc.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 12 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1bu411Z7oH</guid>
             <link>https://www.bilibili.com/video/BV1bu411Z7oH</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【时空悍将】丹泽尔·华盛顿、罗素·克劳主演科幻犯罪]]></title>
-            <description><![CDATA[故事发生在一个电脑科技极为发达的年代，一名科学家发明了一个杀人程序协助警方办案，其中集结了数百名连环杀手的资料和他们的作案手法。这个程序是如此的邪恶，最后不仅生成了个人意志，更拥有了人类的外表和可以随时修复任意损伤的特殊能力，它从禁锢中逃脱了出来，在世间作恶。<br><br><iframe src="https://player.bilibili.com/player.html?aid=975419431&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/47b1ab829a6caad7a7389d66fa0440dc83689803.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Oct 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1p44y1h7RQ</guid>
-            <link>https://www.bilibili.com/video/BV1p44y1h7RQ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【美丽之星】龟梨和也、桥本爱主演科幻喜剧]]></title>
-            <description><![CDATA[三岛由纪夫唯一的科幻小说，1962年发表的《美丽之星》将翻拍电影。小说讲述主人公因看到飞碟而认为自己和家人是从火星、木星等不同星球来的，因此要带领家人肩负起拯救地球的使命。<br><br><iframe src="https://player.bilibili.com/player.html?aid=463319906&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/8ca8f2e7b52bae211bbbb2144a9b3f6e988517d1.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Oct 2021 11:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1xL411s7b2</guid>
-            <link>https://www.bilibili.com/video/BV1xL411s7b2</link>
             
             
             
