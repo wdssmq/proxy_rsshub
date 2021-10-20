@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,26 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 20 Oct 2021 00:19:38 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 20 Oct 2021 16:08:05 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第6话]平家物语]]></title>
+            <description><![CDATA[“祇园精舍钟声响，世间诸行总无常。沙罗双树花说法，盛极必衰是沧桑” 
+平安末期。眼看平家一族将在权力、武力、财力等各方面极尽荣华。
+拥有看见亡者之眼的男人·平重盛，遇见了拥有看见未来之眼的少女·琵琶。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/c16350ef50d82d998499939be9e4e55e44aa35ac.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Oct 2021 15:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep419286</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep419286</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第5话]星期一的豐滿S2（僅限港澳台地區）]]></title>
@@ -128,24 +146,6 @@
             <pubDate>Thu, 14 Oct 2021 07:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep424911</guid>
             <link>https://www.bilibili.com/bangumi/play/ep424911</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第5话]平家物语]]></title>
-            <description><![CDATA[“祇园精舍钟声响，世间诸行总无常。沙罗双树花说法，盛极必衰是沧桑” 
-平安末期。眼看平家一族将在权力、武力、财力等各方面极尽荣华。
-拥有看见亡者之眼的男人·平重盛，遇见了拥有看见未来之眼的少女·琵琶。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/c16350ef50d82d998499939be9e4e55e44aa35ac.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Oct 2021 15:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep419285</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep419285</link>
             
             
             
