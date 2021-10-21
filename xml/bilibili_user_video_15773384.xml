@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 21 Oct 2021 00:20:33 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 21 Oct 2021 16:18:52 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【恶女帮】安吉丽娜·朱莉主演奥茨小说改编]]></title>
+            <description><![CDATA[四个拥有不同生活轨迹的少女，喜爱摄影用镜头记录一切的女孩麦蒂，胆小内向的丽塔，出身富有家庭却总是遭到父亲痛打的戈尔迪以及女孩比奥莱特，本在艺术学校过着一如既往的校园生活。然而这循规蹈矩的日子，都被一个突然来到这里的流浪少女“Legs”打破了。<br><br><iframe src="https://player.bilibili.com/player.html?aid=718269351&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b615183f0fe72f2bc8a6627aa7c28ee90aebfcd4.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Oct 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV17Q4y1C7fh</guid>
+            <link>https://www.bilibili.com/video/BV17Q4y1C7fh</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【扁担·姑娘】郭涛、王彤主演爱情片]]></title>
+            <description><![CDATA[农村青年冬子为改变自己的命运，只身来到武汉投靠老乡高平，成了一名被武汉人称作“扁担”的挑夫，挣钱仅够勉强度日。高平为挣快钱，与人联合敲诈，不想中途被同伙打伤，伤愈后，他带冬子去歌舞厅找寻阮红，以期通过她找出同伙报仇。<br><br><iframe src="https://player.bilibili.com/player.html?aid=207621637&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/84e0a36be1ee52b964ab4b1fb6978f724d92c049.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Oct 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Th411W7dm</guid>
+            <link>https://www.bilibili.com/video/BV1Th411W7dm</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【伦敦战场】艾梅柏·希尔德主演爱情悬疑片]]></title>
-            <description><![CDATA[改编自英国小说家马丁艾米斯1989年作品《伦敦战场》。安柏赫德主演。以英国伦敦为背景，讲述一个具有预知未来能力的美女，她与3个不同的男人周旋，然而她已预知，其中一个人将会谋杀她……<br><br><iframe src="https://player.bilibili.com/player.html?aid=805946536&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/aa99b174daa1446679e9a2a62ceb26195c79442d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[改编自英国小说家马丁艾米斯1989年作品《伦敦战场》。安柏赫德主演。以英国伦敦为背景，讲述一个具有预知未来能力的美女，她与3个不同的男人周旋，然而她已预知，其中一个人将会谋杀她……<br><br><iframe src="https://player.bilibili.com/player.html?aid=805946536&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/aa99b174daa1446679e9a2a62ceb26195c79442d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 20 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1134y1U7xD</guid>
             <link>https://www.bilibili.com/video/BV1134y1U7xD</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【史努比，回家吧】豆瓣9.1高分动画，花生漫画大电影]]></title>
-            <description><![CDATA[当全美最受欢迎的小猎犬不见了，会发生什么事呢？在本片中，“花生”这一群小朋友全部嚎啕大哭。查尔斯秀拉将他最喜爱的传奇漫画搬上银幕，形成了这部感人的彩色音乐动画。<br><br><iframe src="https://player.bilibili.com/player.html?aid=336148939&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/144f0eda7b17fffd0a66d4b9b43e0c60a6154a03.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[当全美最受欢迎的小猎犬不见了，会发生什么事呢？在本片中，“花生”这一群小朋友全部嚎啕大哭。查尔斯秀拉将他最喜爱的传奇漫画搬上银幕，形成了这部感人的彩色音乐动画。<br><br><iframe src="https://player.bilibili.com/player.html?aid=336148939&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/144f0eda7b17fffd0a66d4b9b43e0c60a6154a03.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 20 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1pR4y1J7Dd</guid>
             <link>https://www.bilibili.com/video/BV1pR4y1J7Dd</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【潘菲洛夫28勇士】二战真实事件改编，俄罗斯战争电影]]></title>
-            <description><![CDATA[本片讲述了二战中的一个著名故事。1941年德军集结了最精良部队对莫斯科发动了号称“台风”的强大攻势，目标是在冬季来临前攻下这座城市。苏军“潘菲洛夫步兵师”的28名士兵用仅有1门45毫米反坦克炮、几支反坦克步枪、反坦克手榴弹和燃烧瓶阻挡了这支野心勃勃的侵略之军，以整个连队只幸存5人的巨大代价阻止了德军的进攻，保卫了莫斯科。<br><br><iframe src="https://player.bilibili.com/player.html?aid=976028039&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/41e720d0dd97fd2be7f239e740fb25a94597dfb7.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[本片讲述了二战中的一个著名故事。1941年德军集结了最精良部队对莫斯科发动了号称“台风”的强大攻势，目标是在冬季来临前攻下这座城市。苏军“潘菲洛夫步兵师”的28名士兵用仅有1门45毫米反坦克炮、几支反坦克步枪、反坦克手榴弹和燃烧瓶阻挡了这支野心勃勃的侵略之军，以整个连队只幸存5人的巨大代价阻止了德军的进攻，保卫了莫斯科。<br><br><iframe src="https://player.bilibili.com/player.html?aid=976028039&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/41e720d0dd97fd2be7f239e740fb25a94597dfb7.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 19 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1t44y1x7sZ</guid>
             <link>https://www.bilibili.com/video/BV1t44y1x7sZ</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【环大西洋2】环大西洋续集]]></title>
-            <description><![CDATA[洛杉矶又受到怪物的袭击，这次袭击的怪物力量远比它们的前辈更为强大，整座城市陷入了恐慌之中，罗素博士临危受死,带领着冲锋队奋起迎战。<br><br><iframe src="https://player.bilibili.com/player.html?aid=633513846&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/bd02fa18162b9f2cba03cbf0ff53c142348980ba.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[洛杉矶又受到怪物的袭击，这次袭击的怪物力量远比它们的前辈更为强大，整座城市陷入了恐慌之中，罗素博士临危受死,带领着冲锋队奋起迎战。<br><br><iframe src="https://player.bilibili.com/player.html?aid=633513846&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/bd02fa18162b9f2cba03cbf0ff53c142348980ba.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 19 Oct 2021 08:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1jb4y1Y75e</guid>
             <link>https://www.bilibili.com/video/BV1jb4y1Y75e</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【长大成人】路学长导演处女作]]></title>
-            <description><![CDATA[1976年北京的夏天，男孩周青带着被父亲剃了一半的头发，和朋友小莫跑向了一截长城的遗址，在那里周青拾到一本残缺的小人书——《钢铁是怎样炼成的》。周青在地震期间看到男青年纪文的吉它，以及纪文还在上高中的女友绍英。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250043475&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/9db3f648b0965f08d955538e2c9152f3f17c6674.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[1976年北京的夏天，男孩周青带着被父亲剃了一半的头发，和朋友小莫跑向了一截长城的遗址，在那里周青拾到一本残缺的小人书——《钢铁是怎样炼成的》。周青在地震期间看到男青年纪文的吉它，以及纪文还在上高中的女友绍英。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250043475&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/9db3f648b0965f08d955538e2c9152f3f17c6674.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 19 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1rv411N7SY</guid>
             <link>https://www.bilibili.com/video/BV1rv411N7SY</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【比佛利山超级警探3】艾迪•墨菲主演动作喜剧]]></title>
-            <description><![CDATA[我们的反常规干探艾索又回来了！艾索身为底特律的刑警，却三番四次跑到了洛山矶去破案，这次也不例外。艾索被派遣调查一宗谋杀案，他发现了案中的一连串线索，顺藤摸瓜之下最终追踪到了洛山矶比佛利山上一个大型游乐场的主人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293509166&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/a5d65f78106b66bc4db314250c936ceb429e9100.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[我们的反常规干探艾索又回来了！艾索身为底特律的刑警，却三番四次跑到了洛山矶去破案，这次也不例外。艾索被派遣调查一宗谋杀案，他发现了案中的一连串线索，顺藤摸瓜之下最终追踪到了洛山矶比佛利山上一个大型游乐场的主人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293509166&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/a5d65f78106b66bc4db314250c936ceb429e9100.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 18 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1if4y177co</guid>
             <link>https://www.bilibili.com/video/BV1if4y177co</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【垂帘听政】梁家辉获金像影帝之作]]></title>
-            <description><![CDATA[英法联军烧毁圆明园后，又迫使懦弱昏庸的清政府签定了一系列不平等的条约，在中国的嚣张气焰可谓不可一世，胆小怕事的清帝咸丰躲在了热河行宫内。除去皇后，常在咸丰身边出没的妃子有丽妃和懿贵妃，懿贵妃极力讨好咸丰，但丽妃明显更受咸丰宠爱。<br><br><iframe src="https://player.bilibili.com/player.html?aid=546860450&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/72081e443fb407a6baaef6155fff174a8320f51c.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[英法联军烧毁圆明园后，又迫使懦弱昏庸的清政府签定了一系列不平等的条约，在中国的嚣张气焰可谓不可一世，胆小怕事的清帝咸丰躲在了热河行宫内。除去皇后，常在咸丰身边出没的妃子有丽妃和懿贵妃，懿贵妃极力讨好咸丰，但丽妃明显更受咸丰宠爱。<br><br><iframe src="https://player.bilibili.com/player.html?aid=546860450&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/72081e443fb407a6baaef6155fff174a8320f51c.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 18 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV14q4y1H7Zf</guid>
             <link>https://www.bilibili.com/video/BV14q4y1H7Zf</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【火烧圆明园】李翰祥执导“清宫三部曲”]]></title>
-            <description><![CDATA[咸丰二年（1852年），颇有姿色的叶赫那拉氏玉兰被选进宫册封为贵人，由于历史上叶赫那拉与爱新觉罗两家族有宿仇，玉兰起初不得咸丰的宠幸，但善于心计的她终以一曲哀怨缠绵小调和倾城美貌将咸丰紧紧捆绑，被册封为懿嫔，又因生下儿子载淳，被进封为懿贵妃，地位一时除皇后外，无人可及。<br><br><iframe src="https://player.bilibili.com/player.html?aid=419326963&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/804f7d6fb665a8f8dcb99b7ee7458501059e82ca.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[咸丰二年（1852年），颇有姿色的叶赫那拉氏玉兰被选进宫册封为贵人，由于历史上叶赫那拉与爱新觉罗两家族有宿仇，玉兰起初不得咸丰的宠幸，但善于心计的她终以一曲哀怨缠绵小调和倾城美貌将咸丰紧紧捆绑，被册封为懿嫔，又因生下儿子载淳，被进封为懿贵妃，地位一时除皇后外，无人可及。<br><br><iframe src="https://player.bilibili.com/player.html?aid=419326963&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/804f7d6fb665a8f8dcb99b7ee7458501059e82ca.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 18 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV15V411p7fK</guid>
             <link>https://www.bilibili.com/video/BV15V411p7fK</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【非强力春药】伍迪·艾伦黑色幽默爱情喜剧]]></title>
-            <description><![CDATA[Lenny是一个体育新闻记者，他的第二个妻子Amanda则是一个画家。Amanda想要个孩子，于是她不顾Lenny的反对领养了一个小孩，Lenny给他取名为Max。Max非常可爱，也很聪明，在Lenny和Amanda的关爱下茁壮成长，转眼间已经5岁了。然而Lenny却发现他和Amanda之间的激情已经越来越少。<br><br><iframe src="https://player.bilibili.com/player.html?aid=891086884&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/afd74ca703fef32a8e316c97d6a4ff50b93c06a5.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Oct 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1YP4y1t78H</guid>
-            <link>https://www.bilibili.com/video/BV1YP4y1t78H</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【一直游到海水变蓝】贾樟柯执导文学纪录电影]]></title>
-            <description><![CDATA[2019年5月，几十位作家来到山西汾阳的一个小村庄，他们在这里谈论乡村与城市，文学与现实。影片以此为序曲，交响乐般地以18个章节讲述出1949年以来的中国往事。出生于上世纪50年代、60年代和70年代的三位作家贾平凹、余华和梁鸿成为影片最重要的叙述者，他们与已故作家马烽的女儿一起，重新注视了社会变迁中的个人与家庭，让影片成为一部跨度长达70年的中国心灵史。<br><br><iframe src="https://player.bilibili.com/player.html?aid=976095719&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/a457cadd4d26addf5f103ec0fde2b40eb3e7cccb.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Oct 2021 02:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1m44y1x77w</guid>
-            <link>https://www.bilibili.com/video/BV1m44y1x77w</link>
             
             
             

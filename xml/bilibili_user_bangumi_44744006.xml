@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,25 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 21 Oct 2021 00:20:15 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 21 Oct 2021 16:18:34 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第8话]极主夫道]]></title>
+            <description><![CDATA[主人公被称作“不死之龙”（传闻中一晚上可以单枪匹马毁掉对手整整十处地盘传说中的极道老大）。曾是极道老大，现为家庭主夫。
+因为曾是极道人士的经历影响，遣词用句时常带有道上人的风格，容易让人感到畏惧、恐怖...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/3297e09905d239b1424423f0273c7f0a6bf8a56b.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Oct 2021 07:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep424912</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep424912</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第6话]平家物语]]></title>
@@ -129,23 +146,6 @@
             <pubDate>Thu, 14 Oct 2021 16:30:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep410635</guid>
             <link>https://www.bilibili.com/bangumi/play/ep410635</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第7话]极主夫道]]></title>
-            <description><![CDATA[主人公被称作“不死之龙”（传闻中一晚上可以单枪匹马毁掉对手整整十处地盘传说中的极道老大）。曾是极道老大，现为家庭主夫。
-因为曾是极道人士的经历影响，遣词用句时常带有道上人的风格，容易让人感到畏惧、恐怖...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/3297e09905d239b1424423f0273c7f0a6bf8a56b.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Oct 2021 07:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep424911</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep424911</link>
             
             
             
