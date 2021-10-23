@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,56 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 23 Oct 2021 00:19:11 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 23 Oct 2021 16:06:34 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【双面情人】格温妮斯·帕特洛主演爱情喜剧]]></title>
+            <description><![CDATA[身为公关经理的海伦却在某天早上遭遇了失业的打击，她满怀失落地走向地铁，命运就在滑动门的左右发生变化。赶上地铁的海伦回到家发现男友的奸情，使得劳燕分飞。为了迎接新的生活，海伦改变了发型，在电梯间邂逅了富有魅力的男子詹姆斯。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293616798&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/709136e661b45734bdede177a72b16326ad45558.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Oct 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1rF411Y7n8</guid>
+            <link>https://www.bilibili.com/video/BV1rF411Y7n8</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【浪客剑心 最终章 追忆篇】浪客剑心5]]></title>
+            <description><![CDATA[幕府时代末期，外忧内患，山河动荡，百姓生活困苦，且生命时刻受到威胁。少年心太因其善良纯洁之心感动飞天御剑流高手比古清十郎，被其收入门下学习剑法，更名剑心。在国家危难之际，年轻的剑心怀揣改变时代的梦想下山，加入奇兵队，日后更被桂小五郎纳入麾下，以刽子手的身份为时代的变革尽一份绵薄之力。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763596414&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/7e2bde986ecf565ace34e4cc5a7812ab6d78fe10.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Oct 2021 02:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1or4y1276y</guid>
+            <link>https://www.bilibili.com/video/BV1or4y1276y</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【浪客剑心 最终章 人诛篇】浪客剑心4]]></title>
+            <description><![CDATA[明治维新运动后十二年，日本迎来了新时代。曾经叱咤风云的刽子手绯村剑心如今已成为和平主义者，与朋友们一起在东京过着平静的生活。一天晚上，剑心最喜欢的餐厅遭到炮火袭击，只留下一张写着“人诛”的字条——有人准备替天行道，审判之日近在眼前。此人名为雪代缘，对剑心怀恨在心，带着一众手下前来复仇。目睹无数无辜之人被牵扯进这场残酷的斗争，剑心终将面临一场审判，并由此找到对过去的救赎。<br><br><iframe src="https://player.bilibili.com/player.html?aid=463606316&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/88941f6ffdf689871316f7803abeea6bc56c2d56.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Oct 2021 02:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tL411G7WB</guid>
+            <link>https://www.bilibili.com/video/BV1tL411G7WB</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【决不让步】塞隆主演美国首桩胜诉性骚扰官司]]></title>
@@ -119,54 +167,6 @@
             <pubDate>Tue, 19 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1t44y1x7sZ</guid>
             <link>https://www.bilibili.com/video/BV1t44y1x7sZ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【环大西洋2】环大西洋续集]]></title>
-            <description><![CDATA[洛杉矶又受到怪物的袭击，这次袭击的怪物力量远比它们的前辈更为强大，整座城市陷入了恐慌之中，罗素博士临危受死,带领着冲锋队奋起迎战。<br><br><iframe src="https://player.bilibili.com/player.html?aid=633513846&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/bd02fa18162b9f2cba03cbf0ff53c142348980ba.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Oct 2021 08:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1jb4y1Y75e</guid>
-            <link>https://www.bilibili.com/video/BV1jb4y1Y75e</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【长大成人】路学长导演处女作]]></title>
-            <description><![CDATA[1976年北京的夏天，男孩周青带着被父亲剃了一半的头发，和朋友小莫跑向了一截长城的遗址，在那里周青拾到一本残缺的小人书——《钢铁是怎样炼成的》。周青在地震期间看到男青年纪文的吉它，以及纪文还在上高中的女友绍英。<br><br><iframe src="https://player.bilibili.com/player.html?aid=250043475&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/9db3f648b0965f08d955538e2c9152f3f17c6674.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Oct 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1rv411N7SY</guid>
-            <link>https://www.bilibili.com/video/BV1rv411N7SY</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【比佛利山超级警探3】艾迪•墨菲主演动作喜剧]]></title>
-            <description><![CDATA[我们的反常规干探艾索又回来了！艾索身为底特律的刑警，却三番四次跑到了洛山矶去破案，这次也不例外。艾索被派遣调查一宗谋杀案，他发现了案中的一连串线索，顺藤摸瓜之下最终追踪到了洛山矶比佛利山上一个大型游乐场的主人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293509166&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/a5d65f78106b66bc4db314250c936ceb429e9100.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Oct 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1if4y177co</guid>
-            <link>https://www.bilibili.com/video/BV1if4y177co</link>
             
             
             
