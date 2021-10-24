@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[田中姬铃木雏Official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/296909317</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
         <description><![CDATA[田中姬铃木雏Official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 23 Oct 2021 16:06:27 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 24 Oct 2021 00:20:18 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【录播】移居到食人鬼岛上了...[姬雏定刻集会#17]]]></title>
