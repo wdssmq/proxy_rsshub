@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 27 Oct 2021 00:18:46 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 27 Oct 2021 16:11:30 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【大耳朵图图之霸王龙在行动】大电影全网首播]]></title>
+            <description><![CDATA[顽皮可爱的霸王龙小分队成员图图、刷子、大龙和二龙总在幼儿园搞一些让家长和小朋友们头疼的“恶作剧”。正当家长们被这一系列问题弄得焦头烂额之际，“面恶心善”的牛爷爷成了图图刷子为首的霸王龙小分队最害怕的人。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421373285&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/2f0e5bcc96269e49544ec991f619c42a1cbb9b01.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Oct 2021 08:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1x3411k7i9</guid>
+            <link>https://www.bilibili.com/video/BV1x3411k7i9</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【香魂女】斯琴高娃主演，柏林金熊奖最佳影片]]></title>
+            <description><![CDATA[香二嫂是一位精明能干的女掌柜。她经营的香油厂获得了日本女商人的投资，可谓生意兴隆。但是，她有时也会黯然神伤，因为相夫教子令她寸断肝肠。老伴腿部有残疾是个酒鬼，孩子是天生的智障，这样的打击令她承受了巨大的精神压力。她唯一快乐的便是跟情人在一起的时光，但是他的怯懦与怕事，让她的希望逐渐破灭……<br><br><iframe src="https://player.bilibili.com/player.html?aid=420728521&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/d1e1ebb6a0a65fc23eaee2b69a4953f71682b42f.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Oct 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1F3411m7tn</guid>
+            <link>https://www.bilibili.com/video/BV1F3411m7tn</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【欢迎来到隔离病房】内田有纪、苍井优主演黑色喜剧]]></title>
-            <description><![CDATA[28岁的佐仓明日香职业是一名自由撰稿人。某天她醒来后发现自己躺在了一间白色屋子的床上。原来是一所精神病院的隔离病房，而这里只收女病人。明日香感觉自己失去了记忆，她完全不知道自己是如何来到这里的。<br><br><iframe src="https://player.bilibili.com/player.html?aid=847885028&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/89d8187d91147f1879e19c17f1fb2aefa56b9ef5.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[28岁的佐仓明日香职业是一名自由撰稿人。某天她醒来后发现自己躺在了一间白色屋子的床上。原来是一所精神病院的隔离病房，而这里只收女病人。明日香感觉自己失去了记忆，她完全不知道自己是如何来到这里的。<br><br><iframe src="https://player.bilibili.com/player.html?aid=847885028&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/89d8187d91147f1879e19c17f1fb2aefa56b9ef5.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 26 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1XL4y1h7iB</guid>
             <link>https://www.bilibili.com/video/BV1XL4y1h7iB</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【金秋桂花迟】冯远征主演，郁达夫小说改编]]></title>
-            <description><![CDATA[根据郁达夫小说《迟桂花》改编。留学东洋的知识分子于文朴回到祖国上海，虽有才华，但无处谋职，生活无计，整天处在内心孤独与困窘当中。更沉重的是感情和精神上的桎梏与荒寞。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420065263&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/6c89973fdbe7a6254f6d3eaee3fc49cb5449e1b8.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[根据郁达夫小说《迟桂花》改编。留学东洋的知识分子于文朴回到祖国上海，虽有才华，但无处谋职，生活无计，整天处在内心孤独与困窘当中。更沉重的是感情和精神上的桎梏与荒寞。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420065263&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6c89973fdbe7a6254f6d3eaee3fc49cb5449e1b8.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 26 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1W3411B7JQ</guid>
             <link>https://www.bilibili.com/video/BV1W3411B7JQ</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【我只是还没有全力以赴】堤真一主演漫改喜剧独播]]></title>
-            <description><![CDATA[年过四十的男人大黑静雄突发奇想，辞去原本还算安稳的工作，决心寻找真实的自我。早年离异的静雄一直和父亲志郎以及17岁的女儿铃子生活在一起，辞职后他散漫度日，从没画过画的他突然决定以漫画家身份出道。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890747868&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/591a33b7da1b98e099254b58d21f68f2221b8a0c.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[年过四十的男人大黑静雄突发奇想，辞去原本还算安稳的工作，决心寻找真实的自我。早年离异的静雄一直和父亲志郎以及17岁的女儿铃子生活在一起，辞职后他散漫度日，从没画过画的他突然决定以漫画家身份出道。<br><br><iframe src="https://player.bilibili.com/player.html?aid=890747868&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/591a33b7da1b98e099254b58d21f68f2221b8a0c.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 25 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1HP4y1a7w6</guid>
             <link>https://www.bilibili.com/video/BV1HP4y1a7w6</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【十兄弟】张敏、钟镇涛主演奇幻喜剧]]></title>
-            <description><![CDATA[老爷百岁大寿时被小儿子大虾气死，根据族规，家财由大哥全权管理，而大虾只分得瘦田一亩及老牛一条。十分奇怪的是，这片瘦田里种出的蔬菜瓜果都特别巨大。于是，大虾和大虾嫂刨开土一看，发现地里原来埋藏着十颗宝珠。可惜此事被无恶不作的大帅得知，于是带领兵马前来抢宝珠。<br><br><iframe src="https://player.bilibili.com/player.html?aid=805108677&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/15082c79f61869f0c8184789bb311b0563eef17c.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[老爷百岁大寿时被小儿子大虾气死，根据族规，家财由大哥全权管理，而大虾只分得瘦田一亩及老牛一条。十分奇怪的是，这片瘦田里种出的蔬菜瓜果都特别巨大。于是，大虾和大虾嫂刨开土一看，发现地里原来埋藏着十颗宝珠。可惜此事被无恶不作的大帅得知，于是带领兵马前来抢宝珠。<br><br><iframe src="https://player.bilibili.com/player.html?aid=805108677&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/15082c79f61869f0c8184789bb311b0563eef17c.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 25 Oct 2021 04:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Fy4y1G7qK</guid>
             <link>https://www.bilibili.com/video/BV1Fy4y1G7qK</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【奎迪】史泰龙主演“洛奇”系列衍生电影]]></title>
-            <description><![CDATA[故事将以曾被洛奇打败的重量级拳王阿波罗·奎迪的儿子为主角，影片的片名也源于此。这位出身上流社会的年轻人具备与生俱来的拳击天赋，立志成为拳王的他却遭到家人的反对。他于是找到了已经退出拳击界并且无意回归的洛奇来担任自己的教练。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293669208&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/c371a87a6a1dbc2a0bba283741ef4c09610cd82d.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[故事将以曾被洛奇打败的重量级拳王阿波罗·奎迪的儿子为主角，影片的片名也源于此。这位出身上流社会的年轻人具备与生俱来的拳击天赋，立志成为拳王的他却遭到家人的反对。他于是找到了已经退出拳击界并且无意回归的洛奇来担任自己的教练。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293669208&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/c371a87a6a1dbc2a0bba283741ef4c09610cd82d.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 24 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZF411Y7ek</guid>
             <link>https://www.bilibili.com/video/BV1ZF411Y7ek</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【呆头鹅】伍迪·艾伦主演爱情喜剧]]></title>
-            <description><![CDATA[由伍迪·艾伦编著并主演的本片，描述一名亨佛莱鲍嘉的大影迷，整天梦想自己成为鲍嘉，连妻子也受不了离他而去，于是他找寻新的伴侣，结果找到了朋友的妻子。<br><br><iframe src="https://player.bilibili.com/player.html?aid=976032444&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/e1cc973ecd342cda78339c7a11fa8e715b5fbdca.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[由伍迪·艾伦编著并主演的本片，描述一名亨佛莱鲍嘉的大影迷，整天梦想自己成为鲍嘉，连妻子也受不了离他而去，于是他找寻新的伴侣，结果找到了朋友的妻子。<br><br><iframe src="https://player.bilibili.com/player.html?aid=976032444&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/e1cc973ecd342cda78339c7a11fa8e715b5fbdca.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 24 Oct 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1b44y1x7C3</guid>
             <link>https://www.bilibili.com/video/BV1b44y1x7C3</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【双面情人】格温妮斯·帕特洛主演爱情喜剧]]></title>
-            <description><![CDATA[身为公关经理的海伦却在某天早上遭遇了失业的打击，她满怀失落地走向地铁，命运就在滑动门的左右发生变化。赶上地铁的海伦回到家发现男友的奸情，使得劳燕分飞。为了迎接新的生活，海伦改变了发型，在电梯间邂逅了富有魅力的男子詹姆斯。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293616798&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/709136e661b45734bdede177a72b16326ad45558.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[身为公关经理的海伦却在某天早上遭遇了失业的打击，她满怀失落地走向地铁，命运就在滑动门的左右发生变化。赶上地铁的海伦回到家发现男友的奸情，使得劳燕分飞。为了迎接新的生活，海伦改变了发型，在电梯间邂逅了富有魅力的男子詹姆斯。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293616798&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/709136e661b45734bdede177a72b16326ad45558.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 23 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1rF411Y7n8</guid>
             <link>https://www.bilibili.com/video/BV1rF411Y7n8</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【浪客剑心 最终章 追忆篇】浪客剑心5]]></title>
-            <description><![CDATA[幕府时代末期，外忧内患，山河动荡，百姓生活困苦，且生命时刻受到威胁。少年心太因其善良纯洁之心感动飞天御剑流高手比古清十郎，被其收入门下学习剑法，更名剑心。在国家危难之际，年轻的剑心怀揣改变时代的梦想下山，加入奇兵队，日后更被桂小五郎纳入麾下，以刽子手的身份为时代的变革尽一份绵薄之力。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763596414&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/7e2bde986ecf565ace34e4cc5a7812ab6d78fe10.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[幕府时代末期，外忧内患，山河动荡，百姓生活困苦，且生命时刻受到威胁。少年心太因其善良纯洁之心感动飞天御剑流高手比古清十郎，被其收入门下学习剑法，更名剑心。在国家危难之际，年轻的剑心怀揣改变时代的梦想下山，加入奇兵队，日后更被桂小五郎纳入麾下，以刽子手的身份为时代的变革尽一份绵薄之力。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763596414&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/7e2bde986ecf565ace34e4cc5a7812ab6d78fe10.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 23 Oct 2021 02:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1or4y1276y</guid>
             <link>https://www.bilibili.com/video/BV1or4y1276y</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【浪客剑心 最终章 人诛篇】浪客剑心4]]></title>
-            <description><![CDATA[明治维新运动后十二年，日本迎来了新时代。曾经叱咤风云的刽子手绯村剑心如今已成为和平主义者，与朋友们一起在东京过着平静的生活。一天晚上，剑心最喜欢的餐厅遭到炮火袭击，只留下一张写着“人诛”的字条——有人准备替天行道，审判之日近在眼前。此人名为雪代缘，对剑心怀恨在心，带着一众手下前来复仇。目睹无数无辜之人被牵扯进这场残酷的斗争，剑心终将面临一场审判，并由此找到对过去的救赎。<br><br><iframe src="https://player.bilibili.com/player.html?aid=463606316&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/88941f6ffdf689871316f7803abeea6bc56c2d56.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 23 Oct 2021 02:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tL411G7WB</guid>
-            <link>https://www.bilibili.com/video/BV1tL411G7WB</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【决不让步】塞隆主演美国首桩胜诉性骚扰官司]]></title>
-            <description><![CDATA[乔西与丈夫分居后，带着两个孩子回到明尼苏达老家，为了生计，决定不顾父亲反对去当地矿上工作。入职后乔西才明白为什么家里人对她的决定如此反对——矿上工作的女人每日要承受男职工们大量的性侮辱、性骚扰，就算忍气吞声，也要被男矿工的妻子们当成婊子，甚至在公共场合受到辱骂。不堪忍受这一切都乔西决定出头把矿业公司告上法庭。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421030557&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/fe8188de1699dbfa12a863c68ccd4b67ecfc7b20.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Oct 2021 10:00:02 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV133411C7gd</guid>
-            <link>https://www.bilibili.com/video/BV133411C7gd</link>
             
             
             
