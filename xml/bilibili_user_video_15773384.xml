@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,60 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 04 Nov 2021 00:19:08 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 04 Nov 2021 16:07:26 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[百亿票房影人齐荐电影《天书奇谭》]]></title>
+            <description><![CDATA[天庭有珍奇书籍“天书”，被锁在石龛门里三千年。看守天书的袁公对天书的内容好奇不已，他乘无人之际，偷偷拿出观看。原来，天书上记录了一百〇八条法术，袁公偷偷下凡，把天书上的内容刻在石壁上。但本意造福人类的袁公此举却触犯了天条，遭到了玉帝的惩罚。炼丹炉里的仙丹不慎被三条狐狸偷吃了，她们变成精下凡骗人钱财，还假扮仙姑和官府勾结，欺压百姓，祸害人间。袁公便指引天赋异禀的蛋生——一个从蛋里跳出来的孩子修习天书上的法术，和狐狸精斗智斗勇，为民除害。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293893314&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/5160366751f97f829b1a455bba6301fecf11c018.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 04 Nov 2021 13:01:18 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1jF411a7MD</guid>
+            <link>https://www.bilibili.com/video/BV1jF411a7MD</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【猫和老鼠：间谍使命】动作冒险系列动画电影]]></title>
+            <description><![CDATA[2015全新动感的华纳大动画电影——汤姆和杰瑞之间谍任务。任何年龄的汤姆和杰瑞迷都不会想错过和汤姆和杰瑞一起去冒险，一起去拯救世界，一起踏上危险的间谍任务。<br><br><iframe src="https://player.bilibili.com/player.html?aid=336266733&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/fddc720e09abc3b2b58c4b65c4a598795aee1236.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 04 Nov 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1FR4y1n7b5</guid>
+            <link>https://www.bilibili.com/video/BV1FR4y1n7b5</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【狂吻俄罗斯】冯巩主演爱情电影]]></title>
+            <description><![CDATA[音乐教师大江中年失意，在与妻子离婚后，他索性下海随好友双成远赴俄罗斯做起服装生意。与老实诚恳的大江不同，双成为人浪荡狡猾，所卖商品以次充好，坑蒙拐骗无所不能。在俄罗斯人娜塔莎家做客期间，大江结识了娜塔莎的妹妹卡嘉。这个美丽清纯、热爱舞蹈的女孩深深吸引着大江的目光。<br><br><iframe src="https://player.bilibili.com/player.html?aid=335112344&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/991e5e54f09272c3f5a54b7ffaa43af472af1ab4.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 04 Nov 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1nA411c7Vk</guid>
+            <link>https://www.bilibili.com/video/BV1nA411c7Vk</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【哈洛与慕德】豆瓣8.2，哈尔·阿什贝执导爱情喜剧]]></title>
-            <description><![CDATA[20岁的上流社会男孩哈洛对死亡异常迷恋，喜欢伪装自杀吓唬母亲，热衷参加葬礼，甚至购买了一辆灵车。母亲习以为常，却也不堪忍受，因此催促哈洛早日成家，成熟起来。在他人的葬礼上，哈洛认识了79岁的穆德，一个与他有着相同爱好的老妇人，从此走入慕德奇妙多彩的世界。<br><br><iframe src="https://player.bilibili.com/player.html?aid=676385061&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/5a0a06204c95ac34563e56990bb3c284b817f223.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[20岁的上流社会男孩哈洛对死亡异常迷恋，喜欢伪装自杀吓唬母亲，热衷参加葬礼，甚至购买了一辆灵车。母亲习以为常，却也不堪忍受，因此催促哈洛早日成家，成熟起来。在他人的葬礼上，哈洛认识了79岁的穆德，一个与他有着相同爱好的老妇人，从此走入慕德奇妙多彩的世界。<br><br><iframe src="https://player.bilibili.com/player.html?aid=676385061&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/5a0a06204c95ac34563e56990bb3c284b817f223.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 03 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1CU4y1u7Kw</guid>
             <link>https://www.bilibili.com/video/BV1CU4y1u7Kw</link>
@@ -35,7 +83,7 @@
         
         <item>
             <title><![CDATA[【天下第一剑】国产武侠动作片]]></title>
-            <description><![CDATA[清朝康熙初年，康熙平定了三藩叛乱后，吴三桂的余孽孔捷雄率领残兵败将，逃窜到云南麓州一带，勾结当地摆夷贼首鲁塔，血染召罕勐宣抚司府。为平叛安民，康熙六派官员，均被劫杀。于是，再派老臣庆奕，微服简从，南下麓州。<br><br><iframe src="https://player.bilibili.com/player.html?aid=207757563&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/8bb9c9a91ff564f78d646cae1c7b396529f13168.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[清朝康熙初年，康熙平定了三藩叛乱后，吴三桂的余孽孔捷雄率领残兵败将，逃窜到云南麓州一带，勾结当地摆夷贼首鲁塔，血染召罕勐宣抚司府。为平叛安民，康熙六派官员，均被劫杀。于是，再派老臣庆奕，微服简从，南下麓州。<br><br><iframe src="https://player.bilibili.com/player.html?aid=207757563&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/8bb9c9a91ff564f78d646cae1c7b396529f13168.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 03 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Qh411W7w1</guid>
             <link>https://www.bilibili.com/video/BV1Qh411W7w1</link>
@@ -51,7 +99,7 @@
         
         <item>
             <title><![CDATA[【不知不觉爱上你】梅格·瑞恩主演爱情喜剧]]></title>
-            <description><![CDATA[山姆深爱未婚妻琳达，琳达却移情别恋毅然与他分手了。山姆没想到自己的无限量牺牲换不来女友的珍惜。山姆不愿就此放手，于是他在琳达与新男友安东尼的新居附近租下了房子，企图日夜监视琳达的生活，继续了解琳达是生活并希望琳达会有回心转意的一天。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293792467&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b135cb7cee97f3dab9a3044c07b3f96105017743.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[山姆深爱未婚妻琳达，琳达却移情别恋毅然与他分手了。山姆没想到自己的无限量牺牲换不来女友的珍惜。山姆不愿就此放手，于是他在琳达与新男友安东尼的新居附近租下了房子，企图日夜监视琳达的生活，继续了解琳达是生活并希望琳达会有回心转意的一天。<br><br><iframe src="https://player.bilibili.com/player.html?aid=293792467&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/b135cb7cee97f3dab9a3044c07b3f96105017743.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 02 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1xF411e7Wz</guid>
             <link>https://www.bilibili.com/video/BV1xF411e7Wz</link>
@@ -67,7 +115,7 @@
         
         <item>
             <title><![CDATA[【自首的爱】陈宝国主演，取材自真实事件]]></title>
-            <description><![CDATA[当红女歌星周媚报案声称被人强奸，待刚从警官学校毕业上班没多久的女警官苏明赶到其寓所调查时，她却摆出拒人千里之外的态度，要翻案，这让苏明心生蹊跷。而周媚所在公寓的保安员前来自首时所说的前后不搭的供词，加深了苏明的疑惑，她决定为这个差不多定性的案子多跑几趟。<br><br><iframe src="https://player.bilibili.com/player.html?aid=377074661&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/a552515394d9addd6464061b4fed90ef5d702ad0.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[当红女歌星周媚报案声称被人强奸，待刚从警官学校毕业上班没多久的女警官苏明赶到其寓所调查时，她却摆出拒人千里之外的态度，要翻案，这让苏明心生蹊跷。而周媚所在公寓的保安员前来自首时所说的前后不搭的供词，加深了苏明的疑惑，她决定为这个差不多定性的案子多跑几趟。<br><br><iframe src="https://player.bilibili.com/player.html?aid=377074661&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/a552515394d9addd6464061b4fed90ef5d702ad0.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 02 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV16o4y1S7sw</guid>
             <link>https://www.bilibili.com/video/BV16o4y1S7sw</link>
@@ -83,7 +131,7 @@
         
         <item>
             <title><![CDATA[【充气娃娃之恋】瑞恩·高斯林主演喜剧电影]]></title>
-            <description><![CDATA[在寒冷的冰雪中，单身汉拉斯感到有些孤寂而无聊。他是一个典型的宅男，性格自闭，无友无伴。他的哥哥格斯和嫂子住在隔壁，见此情景也觉得辛酸。嫂子见他整天宅在家中，于是邀请他前来吃饭，但是兄嫂的嘘寒问暖仍无济于事。某天，拉斯居然从玩具公司定制了一个充气娃娃比安卡，并带她参加家庭聚会，一起吃饭，一起入眠，一起去教堂礼拜。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421397213&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/7a71c5c315520cbd985cdc77adfc0b85068803b3.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[在寒冷的冰雪中，单身汉拉斯感到有些孤寂而无聊。他是一个典型的宅男，性格自闭，无友无伴。他的哥哥格斯和嫂子住在隔壁，见此情景也觉得辛酸。嫂子见他整天宅在家中，于是邀请他前来吃饭，但是兄嫂的嘘寒问暖仍无济于事。某天，拉斯居然从玩具公司定制了一个充气娃娃比安卡，并带她参加家庭聚会，一起吃饭，一起入眠，一起去教堂礼拜。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421397213&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/7a71c5c315520cbd985cdc77adfc0b85068803b3.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 01 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1e3411k75h</guid>
             <link>https://www.bilibili.com/video/BV1e3411k75h</link>
@@ -99,7 +147,7 @@
         
         <item>
             <title><![CDATA[【周恩来万隆之行】周总理参加亚非会议]]></title>
-            <description><![CDATA[1955年春天，中国政府受到亚非会议五个发起国的邀请，决定派出以周恩来总理为团长的中国政府代表团参加在印度尼西亚的万隆市举行的亚非会议。台湾特务得到情报开始密谋策划谋害周总理，周恩来总理受到缅甸总理吴努的邀请先期经昆明去缅甸首都仰光参加六国总理的会晤。这时从香港启德机场起飞的中国政府租用的印度“克什米尔公主号”飞机，被台湾特务密谋在飞往印尼途中炸毁，机上十一名中国代表团的先遣人员和外国记者全部遇难，举世震惊。面对纷纭复杂的国际形式和台湾特务的破坏，周恩来不顾个人的安危，决定按原计划继续乘坐印度飞<br><br><iframe src="https://player.bilibili.com/player.html?aid=335351856&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/fa37e10ec7b67173fd7b35550db55ef3d231d124.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[1955年春天，中国政府受到亚非会议五个发起国的邀请，决定派出以周恩来总理为团长的中国政府代表团参加在印度尼西亚的万隆市举行的亚非会议。台湾特务得到情报开始密谋策划谋害周总理，周恩来总理受到缅甸总理吴努的邀请先期经昆明去缅甸首都仰光参加六国总理的会晤。这时从香港启德机场起飞的中国政府租用的印度“克什米尔公主号”飞机，被台湾特务密谋在飞往印尼途中炸毁，机上十一名中国代表团的先遣人员和外国记者全部遇难，举世震惊。面对纷纭复杂的国际形式和台湾特务的破坏，周恩来不顾个人的安危，决定按原计划继续乘坐印度飞<br><br><iframe src="https://player.bilibili.com/player.html?aid=335351856&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/fa37e10ec7b67173fd7b35550db55ef3d231d124.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 01 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1PA411F7qA</guid>
             <link>https://www.bilibili.com/video/BV1PA411F7qA</link>
@@ -115,58 +163,10 @@
         
         <item>
             <title><![CDATA[【艾丽卡】珍妮弗·加纳主演漫改动作电影]]></title>
-            <description><![CDATA[从创世之初开始，正邪两种力量间的争斗就没有终结，他们一方修炼能够起死回生并预见未来的法术，另一方则结成组织不停寻找终极武器的下落。现在，一个女人的出现将影响正邪间的势力平衡。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763807060&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/1306ab7c94cabc1b7762fcde7210c2fd8bf24500.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[从创世之初开始，正邪两种力量间的争斗就没有终结，他们一方修炼能够起死回生并预见未来的法术，另一方则结成组织不停寻找终极武器的下落。现在，一个女人的出现将影响正邪间的势力平衡。<br><br><iframe src="https://player.bilibili.com/player.html?aid=763807060&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/1306ab7c94cabc1b7762fcde7210c2fd8bf24500.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 31 Oct 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV13r4y117dT</guid>
             <link>https://www.bilibili.com/video/BV13r4y117dT</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【难以忽视的真相2】奥斯卡最佳纪录长片续作]]></title>
-            <description><![CDATA[派拉蒙公司周五宣布曾获得第79届奥斯卡奖最佳纪录长片的《难以忽视的真相》续集《难以忽视的真相II》将于明年1月在圣丹斯电影节首映。《难以忽视的真相》导演戴维斯·古根海姆巧妙地把全球变暖的种种自然现象与戈尔先生的个人历史，以及他长期以来致力于警示和改善全球变暖现象的行动交织在一起，构成了一部具有强烈震撼力的纪录片。<br><br><iframe src="https://player.bilibili.com/player.html?aid=891301467&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/234ee8d23421f79ea52c061f8f1f636baec873f8.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 31 Oct 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1pP4y1L7Kn</guid>
-            <link>https://www.bilibili.com/video/BV1pP4y1L7Kn</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【艾娃】杰西卡·查斯坦主演犯罪动作片]]></title>
-            <description><![CDATA[顶尖杀手艾娃效忠于一个神祕组织，在全球各地执行高价值目标的暗杀行动。然而，一次出了差错的行动，让艾娃身陷生死危机。面对各路杀手铺天盖地的追杀，无路可退的艾娃唯有杀出血路，才有活下去的机会…<br><br><iframe src="https://player.bilibili.com/player.html?aid=633773455&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6a475befa5fd34f2e7023b9ed34eabfc9a42dccc.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 30 Oct 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV19b4y1h7EY</guid>
-            <link>https://www.bilibili.com/video/BV19b4y1h7EY</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【天才小子吉米】奥斯卡提名科幻喜剧动画]]></title>
-            <description><![CDATA[吉米·纽特隆是个绝顶聪明的小家伙，可惜他缺少了那么点儿“酷”劲，在孩子们中间成不了英雄人物，始终过着和其他人没什么两样的平凡生活，应付着所有同龄人都需要面对的麻烦。不过，是金子就不会被埋没，英雄总有用武之地，吉米的才能在一次外星人的袭击中终于显现了出来。<br><br><iframe src="https://player.bilibili.com/player.html?aid=676370517&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/89c0ee58298b49d18c4bdfd4a3bb942e9fe1df67.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 30 Oct 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1mU4y1u75Q</guid>
-            <link>https://www.bilibili.com/video/BV1mU4y1u75Q</link>
             
             
             
