@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="http://getrss2021.xyz:1200/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,26 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 10 Nov 2021 00:19:34 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 10 Nov 2021 16:12:22 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第9话]平家物语]]></title>
+            <description><![CDATA[“祇园精舍钟声响，世间诸行总无常。沙罗双树花说法，盛极必衰是沧桑” 
+平安末期。眼看平家一族将在权力、武力、财力等各方面极尽荣华。
+拥有看见亡者之眼的男人·平重盛，遇见了拥有看见未来之眼的少女·琵琶。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/c16350ef50d82d998499939be9e4e55e44aa35ac.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Nov 2021 15:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep419289</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep419289</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第16话]猫和老鼠（1975）]]></title>
@@ -142,7 +160,7 @@
             <title><![CDATA[[全10话]极主夫道]]></title>
             <description><![CDATA[主人公被称作“不死之龙”（传闻中一晚上可以单枪匹马毁掉对手整整十处地盘传说中的极道老大）。曾是极道老大，现为家庭主夫。
 因为曾是极道人士的经历影响，遣词用句时常带有道上人的风格，容易让人感到畏惧、恐怖...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/3297e09905d239b1424423f0273c7f0a6bf8a56b.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 04 Nov 2021 07:00:01 GMT</pubDate>
+            <pubDate>Thu, 04 Nov 2021 07:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep424914</guid>
             <link>https://www.bilibili.com/bangumi/play/ep424914</link>
             
@@ -156,30 +174,11 @@
         </item>
         
         <item>
-            <title><![CDATA[[更新至第8话]平家物语]]></title>
-            <description><![CDATA[“祇园精舍钟声响，世间诸行总无常。沙罗双树花说法，盛极必衰是沧桑” 
-平安末期。眼看平家一族将在权力、武力、财力等各方面极尽荣华。
-拥有看见亡者之眼的男人·平重盛，遇见了拥有看见未来之眼的少女·琵琶。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/c16350ef50d82d998499939be9e4e55e44aa35ac.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 03 Nov 2021 15:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep419288</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep419288</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[全24话]半妖的夜叉姬]]></title>
-            <description><![CDATA[永远、刹那、诸叶，是继承了妖怪与人类血脉的半妖少女们。
-幼时被卷入森林大火而分离的双胞胎少女，永远与刹那。永远通过能穿越时代树时空的隧道，从战国时代来到了现代。她被戈薇所在的日暮家养育长大，成长为精通...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/44495658be4713cb36d830064596748aff82faae.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 20 Mar 2021 10:00:00 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep341456</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep341456</link>
+            <title><![CDATA[[全12话]街角魔族]]></title>
+            <description><![CDATA[某天早晨，突然觉醒了暗之力量的女高中生·吉田优子，为了解除一族所遭受的诅咒而准备开始打倒魔法少女！！但对方却是自己的救命恩人！？而且根本就没可能打赢！？废柴系庶民派魔族与高冷系肌肉魔法少女编织的日常系...<br><img src="http://i0.hdslb.com/bfs/bangumi/8fa97d1f68517724a0afcb1ca536bfe5b818e0d8.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 27 Sep 2019 07:00:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep276371</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep276371</link>
             
             
             
