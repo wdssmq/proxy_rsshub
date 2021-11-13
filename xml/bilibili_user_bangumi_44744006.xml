@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 12 Nov 2021 16:07:04 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 13 Nov 2021 00:18:24 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第6话]烧窑的话也要马克杯 第二季]]></title>
+            <description><![CDATA[找到了！我的得意之作。受已逝世的母亲，即传说中的陶艺家姬菜的影响，姬乃得以邂逅陶艺。参加美浓烧大赛，姬乃通过作品向世人传达了“自己的心情”，于是立志要做出“更加完美的作品”。而另一边，没能在大赛中一举...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/aab362d9692497f147b001e74cc9f9a0abd05945.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 12 Nov 2021 18:55:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep427330</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep427330</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第19话]白沙的水族馆]]></title>
@@ -113,22 +129,6 @@
             <pubDate>Sat, 06 Nov 2021 11:30:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep426171</guid>
             <link>https://www.bilibili.com/bangumi/play/ep426171</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第5话]烧窑的话也要马克杯 第二季]]></title>
-            <description><![CDATA[找到了！我的得意之作。受已逝世的母亲，即传说中的陶艺家姬菜的影响，姬乃得以邂逅陶艺。参加美浓烧大赛，姬乃通过作品向世人传达了“自己的心情”，于是立志要做出“更加完美的作品”。而另一边，没能在大赛中一举...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/aab362d9692497f147b001e74cc9f9a0abd05945.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 05 Nov 2021 18:55:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep427329</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep427329</link>
             
             
             
