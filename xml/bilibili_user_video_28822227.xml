@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 23 Nov 2021 00:19:57 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 23 Nov 2021 16:12:30 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[《来自深渊》第二季PV来了！ 看完动画又会有人蚌户住了吧？]]></title>
+            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=251813743&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/c5b2b6e8d7c59aa51518be42cf4298fd6d8d99de.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 23 Nov 2021 08:11:56 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZY411x7SG</guid>
+            <link>https://www.bilibili.com/video/BV1ZY411x7SG</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[抖M狂喜！全是强气大姐姐的《魔都精兵》动画化了！]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Wed, 10 Nov 2021 08:44:13 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1YR4y1E7e7</guid>
             <link>https://www.bilibili.com/video/BV1YR4y1E7e7</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OOO十周年纪念！全员回归，东映终于要给出最终结局？]]></title>
-            <description><![CDATA[：0<br><br><iframe src="https://player.bilibili.com/player.html?aid=634030310&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/5066eaa5f83f95ba23c4f56735a9aa2e9dd5cc96.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 Nov 2021 09:06:09 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ab4y187WA</guid>
-            <link>https://www.bilibili.com/video/BV1ab4y187WA</link>
             
             
             
