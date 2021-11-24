@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="http://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +14,44 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 24 Nov 2021 00:19:51 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 24 Nov 2021 16:09:14 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【变脸迷情】吴彦祖、黎姿主演犯罪动作电影]]></title>
+            <description><![CDATA[阿军和阿郎是一对相依为命的兄弟，尽管阿郎长了一张人人避之而不及的畸形面孔，可是在阿军的心里，他依然是那个独一无二的亲弟弟。为了讨生活，阿军和阿郎来到了香港，在那里，他们加入了黑道，成为了职业杀手。<br><br><iframe src="https://player.bilibili.com/player.html?aid=928799146&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/b79f9bffbda39e2ebaa5b101581cbac8c18fc71c.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 24 Nov 2021 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1DT4y1A7ED</guid>
+            <link>https://www.bilibili.com/video/BV1DT4y1A7ED</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【终极救援】布鲁·威利斯主演特工动作片]]></title>
+            <description><![CDATA[即将退休的中情局精英特工在执行最后一次外勤任务时，被暴徒绑架，远在布拉格任职中情局内勤的儿子哈里得知后，发现父亲的绑架可能跟中情局神秘的终极骇客工具"秃鹰"有关，在申请参与行动被拒绝后，在有限的线索面前，哈里该如何解救自己的父亲并且拯救世界....<br><br><iframe src="https://player.bilibili.com/player.html?aid=758847639&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/30919de968ac362e56a3b9ba246ce604dc219a39.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 24 Nov 2021 03:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1164y197Ng</guid>
+            <link>https://www.bilibili.com/video/BV1164y197Ng</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【相棒：X DAY】川原和久、田中圭主演，相棒外传电影]]></title>
-            <description><![CDATA[东京明和银行职员中山雄吾坠楼身亡，搜查一课刑警伊丹宪一率队赶赴现场，结果遭遇了颇令他头疼的警视厅电脑犯罪对策课的专门搜查官岩月彬。原来中山生前曾以Justice11的ID在网络上上传散布大量疑似银行内幕信息的数据，其行为早已引起岩月彬及其同僚的注意。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421756865&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/f08dbf2b463978c7cef432ded32adc2e864def16.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[东京明和银行职员中山雄吾坠楼身亡，搜查一课刑警伊丹宪一率队赶赴现场，结果遭遇了颇令他头疼的警视厅电脑犯罪对策课的专门搜查官岩月彬。原来中山生前曾以Justice11的ID在网络上上传散布大量疑似银行内幕信息的数据，其行为早已引起岩月彬及其同僚的注意。<br><br><iframe src="https://player.bilibili.com/player.html?aid=421756865&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/f08dbf2b463978c7cef432ded32adc2e864def16.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 23 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV12341187nK</guid>
             <link>https://www.bilibili.com/video/BV12341187nK</link>
@@ -35,7 +67,7 @@
         
         <item>
             <title><![CDATA[【复仇者格林】童话公主联盟拯救世界]]></title>
-            <description><![CDATA[当侏儒怪破坏了魔镜，并逃到了现实世界，从前的四个公主“灰姑娘，睡美人，白雪公主和长发姑娘”也被吸过传送门。训练有素、天赋异禀的四个女人必须在侏儒怪及其奴军奴役地球上的每一个人前，与其战斗....<br><br><iframe src="https://player.bilibili.com/player.html?aid=931343499&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/67b9b4bf48c3622f2a8047e3f8400b40de2de4b9.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[当侏儒怪破坏了魔镜，并逃到了现实世界，从前的四个公主“灰姑娘，睡美人，白雪公主和长发姑娘”也被吸过传送门。训练有素、天赋异禀的四个女人必须在侏儒怪及其奴军奴役地球上的每一个人前，与其战斗....<br><br><iframe src="https://player.bilibili.com/player.html?aid=931343499&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/67b9b4bf48c3622f2a8047e3f8400b40de2de4b9.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 23 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1KM4y1g7FM</guid>
             <link>https://www.bilibili.com/video/BV1KM4y1g7FM</link>
@@ -51,7 +83,7 @@
         
         <item>
             <title><![CDATA[【碧海追踪】保罗·沃克、杰西卡·阿尔芭主演冒险动作片]]></title>
-            <description><![CDATA[风暴之夜，一架飞机在海上失事，坠入无边的大海深处……碧水蓝天的巴哈马海域上，失业潜水员杰拉德和女友萨曼预备寻宝深海的沉船宝藏，然而破旧的小船和竞争对手贝茨的打压让他们难以如愿，幸好律师好友布莱斯和女友阿曼达来到，于是四人出海，竟意外的发现了著名海盗的宝藏线索以及一架载满毒品的飞机。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806829838&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/9f50dc77fad9634c452cfcdd58aa910e5af3e56a.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[风暴之夜，一架飞机在海上失事，坠入无边的大海深处……碧水蓝天的巴哈马海域上，失业潜水员杰拉德和女友萨曼预备寻宝深海的沉船宝藏，然而破旧的小船和竞争对手贝茨的打压让他们难以如愿，幸好律师好友布莱斯和女友阿曼达来到，于是四人出海，竟意外的发现了著名海盗的宝藏线索以及一架载满毒品的飞机。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806829838&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/9f50dc77fad9634c452cfcdd58aa910e5af3e56a.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 22 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1T34y1o7tJ</guid>
             <link>https://www.bilibili.com/video/BV1T34y1o7tJ</link>
@@ -67,7 +99,7 @@
         
         <item>
             <title><![CDATA[【泪洒姑苏】白灵、蔡明主演古装爱情]]></title>
-            <description><![CDATA[明朝无锡县县令之女王怜娟是个聪明、美丽的姑娘，因生母早亡，继母心肠歹毒，她终日闷闷不乐。贴身丫环小玲对她体贴入微，两人情同姐妹。这一天夜晚，怜娟在后花园焚香抚琴，抒发愁怀。浮浪成性的纨绔子弟、苏州知府之子张青云从墙外经过，偷听到王小姐在里面弹琴，翻墙潜入花园。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420182300&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/1faf983510f589cd8a719337ceb1ae7a62c687e2.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[明朝无锡县县令之女王怜娟是个聪明、美丽的姑娘，因生母早亡，继母心肠歹毒，她终日闷闷不乐。贴身丫环小玲对她体贴入微，两人情同姐妹。这一天夜晚，怜娟在后花园焚香抚琴，抒发愁怀。浮浪成性的纨绔子弟、苏州知府之子张青云从墙外经过，偷听到王小姐在里面弹琴，翻墙潜入花园。<br><br><iframe src="https://player.bilibili.com/player.html?aid=420182300&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/1faf983510f589cd8a719337ceb1ae7a62c687e2.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 22 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1D3411B7KL</guid>
             <link>https://www.bilibili.com/video/BV1D3411B7KL</link>
@@ -83,7 +115,7 @@
         
         <item>
             <title><![CDATA[【太阳】神木隆之介主演科幻电影]]></title>
-            <description><![CDATA[《太阳》以近未来的日本为舞台，描写了只能在夜晚生活的新人类与在太阳下生活的旧人类之间的对立和融合，是一部追寻生存意义的人情派作品。曾执导过《JokerGame》等作品的入江悠携手年轻的演技派神木隆之介、门胁麦共同合作，彼此之间互称战友。<br><br><iframe src="https://player.bilibili.com/player.html?aid=720420688&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/8d46578e6a219f45f63aa1cdd97df6fb2818fa87.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[《太阳》以近未来的日本为舞台，描写了只能在夜晚生活的新人类与在太阳下生活的旧人类之间的对立和融合，是一部追寻生存意义的人情派作品。曾执导过《JokerGame》等作品的入江悠携手年轻的演技派神木隆之介、门胁麦共同合作，彼此之间互称战友。<br><br><iframe src="https://player.bilibili.com/player.html?aid=720420688&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/8d46578e6a219f45f63aa1cdd97df6fb2818fa87.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 21 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1AQ4y1r7Wk</guid>
             <link>https://www.bilibili.com/video/BV1AQ4y1r7Wk</link>
@@ -99,7 +131,7 @@
         
         <item>
             <title><![CDATA[【亚当斯一家】豪华配音阵容，哥特喜剧动画]]></title>
-            <description><![CDATA[讲述一个诡异古怪的家庭与一个狡猾的真人秀主持人对峙，这个家庭同时也在为新生命的到来做准备，将举办一场亚当斯式的庆祝派对。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806852684&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/4b346856b48f2bf533e9ea1b789e19c2946de52b.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[讲述一个诡异古怪的家庭与一个狡猾的真人秀主持人对峙，这个家庭同时也在为新生命的到来做准备，将举办一场亚当斯式的庆祝派对。<br><br><iframe src="https://player.bilibili.com/player.html?aid=806852684&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/4b346856b48f2bf533e9ea1b789e19c2946de52b.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 21 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1534y1o7SW</guid>
             <link>https://www.bilibili.com/video/BV1534y1o7SW</link>
@@ -115,7 +147,7 @@
         
         <item>
             <title><![CDATA[【军犬麦克斯】狗狗演技爆表，温馨治愈冒险片]]></title>
-            <description><![CDATA[凯尔是一名海军陆战队队员，忠心耿耿的军犬麦克斯是他的搭档和战友，两人穿梭在枪林弹雨之间，经历过许多生死攸关的危急时刻，结下了深厚的友谊。最终，凯尔死在了战场上，心碎的麦克斯竟患上了战后创伤应激症，无法作战也不肯认新主人的麦克斯只能离开了军队...<br><br><iframe src="https://player.bilibili.com/player.html?aid=634249556&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/6ab9565e5eb35ca9e4379e7505615222c66f40f9.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[凯尔是一名海军陆战队队员，忠心耿耿的军犬麦克斯是他的搭档和战友，两人穿梭在枪林弹雨之间，经历过许多生死攸关的危急时刻，结下了深厚的友谊。最终，凯尔死在了战场上，心碎的麦克斯竟患上了战后创伤应激症，无法作战也不肯认新主人的麦克斯只能离开了军队...<br><br><iframe src="https://player.bilibili.com/player.html?aid=634249556&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/6ab9565e5eb35ca9e4379e7505615222c66f40f9.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 20 Nov 2021 10:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Sb4y1t7L7</guid>
             <link>https://www.bilibili.com/video/BV1Sb4y1t7L7</link>
@@ -131,42 +163,10 @@
         
         <item>
             <title><![CDATA[【查理·巴特利】小罗伯特·唐尼主演喜剧电影]]></title>
-            <description><![CDATA[富家小子查理·巴特利同时是一位点子奇多的中学生，因此履出状况的他常常被各个私立学校拒绝甚至开除，迫于无奈，父母只好让查理进入一所鱼龙混杂的公立学校念书。初来乍到的查理难免被学校里的小霸王欺负得鼻青脸肿，然而很快，鬼马的查理就为自己的小聪明找到了的用武之地。<br><br><iframe src="https://player.bilibili.com/player.html?aid=719198631&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/24a40894df75e54ba1917814d0c1131ca382c85a.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[富家小子查理·巴特利同时是一位点子奇多的中学生，因此履出状况的他常常被各个私立学校拒绝甚至开除，迫于无奈，父母只好让查理进入一所鱼龙混杂的公立学校念书。初来乍到的查理难免被学校里的小霸王欺负得鼻青脸肿，然而很快，鬼马的查理就为自己的小聪明找到了的用武之地。<br><br><iframe src="https://player.bilibili.com/player.html?aid=719198631&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/24a40894df75e54ba1917814d0c1131ca382c85a.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 20 Nov 2021 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1VQ4y1U7ZY</guid>
             <link>https://www.bilibili.com/video/BV1VQ4y1U7ZY</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【生死停留】经典烧脑悬疑片]]></title>
-            <description><![CDATA[一部超出想象的心理惊悚电影。一向上进的大学生亨利·拉萨姆突然扬言要自杀，心理医生山姆·福斯特为了挽救亨利，开始对其进行治疗。然后奇怪的事情发生了...山姆发现亨利经常会说出一些骇人听闻的语言，更加令人不安的是，这些预言竟然一一应验。<br><br><iframe src="https://player.bilibili.com/player.html?aid=634194447&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b618a8e69ec3a1cedc4b57e312512c201d7656e7.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 19 Nov 2021 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1rb4y1t7xQ</guid>
-            <link>https://www.bilibili.com/video/BV1rb4y1t7xQ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【梦魇之旅】夜愿配乐奇幻片]]></title>
-            <description><![CDATA[年逾七十的作曲家汤姆·怀特曼罹患癫痫和血栓痴呆，他早已分不清现实世界，更遗忘女儿杰姆的存在。他的脑海，早已退转到那个充满奇幻色彩的童年时代。记忆的最深处，生活在孤儿院的10岁少年汤姆受到雪人的邀请，御空飞行追赶多年未曾谋面的父亲。<br><br><iframe src="https://player.bilibili.com/player.html?aid=716370746&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/f036725db0800c1f34735a642ef96b0429fef42a.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 19 Nov 2021 03:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1uX4y1P7LT</guid>
-            <link>https://www.bilibili.com/video/BV1uX4y1P7LT</link>
             
             
             
