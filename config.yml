@@ -8,6 +8,8 @@ instances:
 routes:
 - title: 沉冰浮水 的追番列表
   path: bilibili/user/bangumi/44744006
+- title: 宅游星 的 bilibili 空间
+  path: bilibili/user/video/324798
 - title: 猎影娘 的 bilibili 空间
   path: bilibili/user/video/43619319
 - title: 橙心资讯 的 bilibili 空间
