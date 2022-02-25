@@ -14,15 +14,15 @@ routes:
   path: bilibili/user/video/43619319
 - title: 橙心资讯 的 bilibili 空间
   path: bilibili/user/video/28822227
-- title: 影迷qzm 的 bilibili 空间
+- title: 影迷 qzm 的 bilibili 空间
   path: bilibili/user/video/108766690
-- title: Azulim搬运 的 bilibili 空间
+- title: Azulim 搬运 的 bilibili 空间
   path: bilibili/user/video/508191
-- title: AIChannel官方 的 bilibili 空间
+- title: AIChannel 官方 的 bilibili 空间
   path: bilibili/user/video/1473830
-- title: 小希小桃Channel 的 bilibili 空间
+- title: 小希小桃 Channel 的 bilibili 空间
   path: bilibili/user/video/5563350
-- title: 田中姬铃木雏Official 的 bilibili 空间
+- title: 田中姬铃木雏 Official 的 bilibili 空间
   path: bilibili/user/video/296909317
 - title: 哔哩哔哩电影 的 bilibili 空间
   path: bilibili/user/video/15773384
@@ -30,9 +30,9 @@ routes:
   path: bilibili/user/video/7078836
 - title: 夏実萌恵 的 bilibili 空间
   path: bilibili/user/video/355167926
-- title: MMP字幕搬运 的 bilibili 空间
+- title: MMP 字幕搬运 的 bilibili 空间
   path: bilibili/user/video/278093107
-- title: 虚拟女友Yomemi 的 bilibili 空间
+- title: 虚拟女友 Yomemi 的 bilibili 空间
   path: bilibili/user/video/292044559
 - title: 琴肥夢甜品加工坊 的 bilibili 空间
   path: bilibili/user/video/84399544
