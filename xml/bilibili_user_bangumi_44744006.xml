@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 12 Mar 2022 00:25:56 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 12 Mar 2022 16:07:52 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第1095话]名侦探柯南]]></title>
+            <description><![CDATA[主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样。之后他...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 12 Mar 2022 11:30:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep459323</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep459323</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第10话]指名！]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Fri, 11 Feb 2022 14:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep469621</guid>
             <link>https://www.bilibili.com/bangumi/play/ep469621</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第1094话]名侦探柯南]]></title>
-            <description><![CDATA[主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样。之后他...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 05 Feb 2022 11:30:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep459322</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep459322</link>
             
             
             
