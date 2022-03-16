@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[猎影娘 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/43619319</link>
-        <atom:link href="http://rsshub/bilibili/user/video/43619319" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/43619319" rel="self" type="application/rss+xml" />
         <description><![CDATA[猎影娘 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 15 Mar 2022 16:13:13 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 16 Mar 2022 00:27:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[源于指尖的温度，电影《王者回归》珍藏手稿预售进行中]]></title>
