@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[琴吹夢甜品加工坊 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/84399544</link>
-        <atom:link href="http://rsshub/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢甜品加工坊 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 22 Mar 2022 00:29:35 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 23 Mar 2022 00:33:46 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[【超美丽3D】梦酱深夜食堂~边做饭边和大家聊聊鬼灭之刃吧]]></title>
