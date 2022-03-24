@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[田中姬铃木雏Official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/296909317</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/296909317" rel="self" type="application/rss+xml" />
         <description><![CDATA[田中姬铃木雏Official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 23 Mar 2022 23:19:04 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Thu, 24 Mar 2022 16:08:32 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【4周年】现在来玩耳机锵锵传话游戏肯定易如反掌吧！]]></title>
