@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-04-05 08:29:32
+2022-04-06 00:12:34
 
 title: 沉冰浮水 的追番列表
 
@@ -64,9 +64,13 @@ title: 葵歌剧摸鱼团 的 bilibili 空间
 
 path: [bilibili/user/video/7078836](xml/bilibili_user_video_7078836.xml "葵歌剧摸鱼团 的 bilibili 空间") 「[raw](xml/bilibili_user_video_7078836.xml?raw=true "葵歌剧摸鱼团 的 bilibili 空间")」
 
-title: 夏実萌恵 的 bilibili 空间
+title: 夏实萌惠_搬运 的 bilibili 空间
 
-path: [bilibili/user/video/355167926](xml/bilibili_user_video_355167926.xml "夏実萌恵 的 bilibili 空间") 「[raw](xml/bilibili_user_video_355167926.xml?raw=true "夏実萌恵 的 bilibili 空间")」
+path: [bilibili/user/video/355167926](xml/bilibili_user_video_355167926.xml "夏实萌惠_搬运 的 bilibili 空间") 「[raw](xml/bilibili_user_video_355167926.xml?raw=true "夏实萌惠_搬运 的 bilibili 空间")」
+
+title: 夏实萌惠_official 的 bilibili 空间
+
+path: [bilibili/user/video/1416046076](xml/bilibili_user_video_1416046076.xml "夏实萌惠_official 的 bilibili 空间") 「[raw](xml/bilibili_user_video_1416046076.xml?raw=true "夏实萌惠_official 的 bilibili 空间")」
 
 title: MMP 字幕搬运 的 bilibili 空间
 
