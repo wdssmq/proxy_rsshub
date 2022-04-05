@@ -30,8 +30,10 @@ routes:
   path: bilibili/user/video/15773384
 - title: 葵歌剧摸鱼团 的 bilibili 空间
   path: bilibili/user/video/7078836
-- title: 夏実萌恵 的 bilibili 空间
+- title: 夏实萌惠_搬运 的 bilibili 空间
   path: bilibili/user/video/355167926
+- title: 夏实萌惠_official 的 bilibili 空间
+  path: bilibili/user/video/1416046076
 - title: MMP 字幕搬运 的 bilibili 空间
   path: bilibili/user/video/278093107
 - title: 虚拟女友 Yomemi 的 bilibili 空间
