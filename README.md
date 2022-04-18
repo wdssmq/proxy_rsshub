@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-04-18 08:37:11
+2022-04-18 20:13:32
 
 title: 沉冰浮水 的追番列表
 
@@ -43,6 +43,14 @@ path: [bilibili/user/video/108766690](xml/bilibili_user_video_108766690.xml "影
 title: Azulim 搬运 的 bilibili 空间
 
 path: [bilibili/user/video/508191](xml/bilibili_user_video_508191.xml "Azulim 搬运 的 bilibili 空间") 「[raw](xml/bilibili_user_video_508191.xml?raw=true "Azulim 搬运 的 bilibili 空间")」
+
+title: 九重紫 的 bilibili 空间
+
+path: [bilibili/user/video/225347042](xml/bilibili_user_video_225347042.xml "九重紫 的 bilibili 空间") 「[raw](xml/bilibili_user_video_225347042.xml?raw=true "九重紫 的 bilibili 空间")」
+
+title: 小鸟游杏子 的 bilibili 空间
+
+path: [bilibili/user/video/1069108539](xml/bilibili_user_video_1069108539.xml "小鸟游杏子 的 bilibili 空间") 「[raw](xml/bilibili_user_video_1069108539.xml?raw=true "小鸟游杏子 的 bilibili 空间")」
 
 title: AIChannel 官方 的 bilibili 空间
 
