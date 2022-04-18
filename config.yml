@@ -22,6 +22,8 @@ routes:
   path: bilibili/user/video/508191
 - title: 九重紫 的 bilibili 空间
   path: bilibili/user/video/225347042
+- title: 小鸟游杏子 的 bilibili 空间
+  path: bilibili/user/video/1069108539
 - title: AIChannel 官方 的 bilibili 空间
   path: bilibili/user/video/1473830
 - title: 小希小桃 Channel 的 bilibili 空间
