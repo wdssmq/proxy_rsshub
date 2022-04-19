@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[琴吹夢甜品加工坊 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/84399544</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub/bilibili/user/video/84399544" rel="self" type="application/rss+xml" />
         <description><![CDATA[琴吹夢甜品加工坊 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 19 Apr 2022 00:29:42 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 19 Apr 2022 16:14:23 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【翻唱】成为大统领(×)成为大姐头(√) ！dd别的女人是要受罚的哦~]]></title>
