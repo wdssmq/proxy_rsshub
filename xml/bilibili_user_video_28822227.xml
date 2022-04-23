@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[橙心资讯 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/28822227</link>
-        <atom:link href="http://rsshub/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/28822227" rel="self" type="application/rss+xml" />
         <description><![CDATA[橙心资讯 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 23 Apr 2022 00:31:39 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 23 Apr 2022 16:08:49 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[新番惊现WDNMD牌电饭煲 是国人整活吗？ 其实真有这牌子！]]></title>
+            <description><![CDATA[:0<br><br><iframe src="https://player.bilibili.com/player.html?aid=895970772&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/48076f08058fce02aa1900bfae7e8c676a321020.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Apr 2022 09:32:26 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV14A4y1X7Uf</guid>
+            <link>https://www.bilibili.com/video/BV14A4y1X7Uf</link>
+            
+            
+            
+            <author><![CDATA[橙心资讯]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【原神手书】从此蒙德归稻妻]]></title>
@@ -155,23 +171,6 @@
             <pubDate>Tue, 12 Apr 2022 09:29:47 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1pi4y1U7JG</guid>
             <link>https://www.bilibili.com/video/BV1pi4y1U7JG</link>
-            
-            
-            
-            <author><![CDATA[橙心资讯]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[提瓦特搏击之夜]]></title>
-            <description><![CDATA[企划：黑色之焰
-&nbsp;配音：至高无上的小叶子<br><br><iframe src="https://player.bilibili.com/player.html?aid=768080909&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/64c9013b7b9ba56c971c4174e6f6fdb40c4eacc7.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 10 Apr 2022 08:34:45 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Nr4y1W7eS</guid>
-            <link>https://www.bilibili.com/video/BV1Nr4y1W7eS</link>
             
             
             
