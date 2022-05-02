@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
+
 >
     <channel>
         <title><![CDATA[哔哩哔哩电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/15773384</link>
-        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/bilibili/user/video/15773384" rel="self" type="application/rss+xml" />
         <description><![CDATA[哔哩哔哩电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,12 +15,76 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 02 May 2022 00:35:32 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 02 May 2022 16:16:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【快乐的大脚2】豆瓣7.3 企鹅版歌舞青春]]></title>
+            <description><![CDATA[曼波将踢踏舞带回南极大陆，帝企鹅家族沉浸在无尽的欢乐中。可是曼波的儿子艾利克完全不擅长歌舞，他在同伴面前出了丑，内心觉得分外沮丧，于是和两个好朋友离开了帝企鹅的地盘。可是此时大地发生震动，温室效应变得愈加明显，冰川融化，积雪消融，南极大陆面临着一场巨大的变动……<br><br><iframe src="https://player.bilibili.com/player.html?aid=896026658&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/e96874a6b726e4192f2337826b7832e858a1c337.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 02 May 2022 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PA4y1D7E8</guid>
+            <link>https://www.bilibili.com/video/BV1PA4y1D7E8</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【快乐的大脚】奥斯卡最佳动画长片]]></title>
+            <description><![CDATA[在帝企鹅里面，不会唱歌是一件丢人的事情，而玛宝恰恰是这样的企鹅。但是，他格外擅长舞蹈，舞技超群的绝艺却没有带给他幸运，铁面领袖把他赶出了族门。玛宝在外面的世界流浪，却碰上了另一个族群：阿德利企鹅。这群企鹅嗜好跳舞，他们惊叹于玛宝的舞步，邀请他前去舞会狂欢<br><br><iframe src="https://player.bilibili.com/player.html?aid=341047297&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/7eaf83ec9103f2d90b18b3260e99656219658466.png" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 02 May 2022 10:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1kR4y1K7sK</guid>
+            <link>https://www.bilibili.com/video/BV1kR4y1K7sK</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【全民情敌】约会专家传授独家恋爱技巧]]></title>
+            <description><![CDATA[希什十分准确的把握了男性的弱点：他们在求爱的时候由于过分迫切想得到对方好感，反而会表现笨拙失去魅力。而希什掌握了一套完整的独家的理论，可以帮助男士在头三次约会时候就成功俘获对方的心，这套谋略全面实用，令约会期间的就餐、牵手、接吻，有了指导细则…<br><br><iframe src="https://player.bilibili.com/player.html?aid=937666883&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/16b9e09d7903ecb60d29d9807672916a890b8ba0.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 02 May 2022 06:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1cT4y1q7Rw</guid>
+            <link>https://www.bilibili.com/video/BV1cT4y1q7Rw</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【日之丸灵魂~幕后的英雄~】田中圭、土屋太凤诠释长野东奥会的幕后故事]]></title>
+            <description><![CDATA[影片由饭塚健([虹色时光])执导，杉原宪明([贞子])、铃木谦一(《恶党：犯罪者追踪调查》)操刀剧本，故事讲述1998年的长野冬奥会，日本获得跳台滑雪男子团体赛金牌，而在这背后，有25名试跳员默默支持着整个团队，田中圭将饰演其中一员西方仁也。<br><br><iframe src="https://player.bilibili.com/player.html?aid=638621716&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/3b4f99565f3552ca7f2cf05da1ddc8b2320a76f1.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 02 May 2022 02:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1sY4y1k7jT</guid>
+            <link>https://www.bilibili.com/video/BV1sY4y1k7jT</link>
+            
+            
+            
+            <author><![CDATA[哔哩哔哩电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【猫头鹰王国：守卫者传奇】 扎导执导奇幻动画电影]]></title>
-            <description><![CDATA[在茂密宁静的仓鸮森林，猫头鹰诺克图斯和妻儿们生活在一棵参天大树的枝干上。她的儿子索伦无比迷恋“守护者”的传说。据说很久以前，佩戴着钢喙的邪恶“纯种者”国王压迫猫头鹰子民，关键时刻守护者挺身而出，打败了国王及其爪牙，但…<br><br><iframe src="https://player.bilibili.com/player.html?aid=596022004&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/a687a05c9a5f69e74142b4f88a3da1303dff8139.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[在茂密宁静的仓鸮森林，猫头鹰诺克图斯和妻儿们生活在一棵参天大树的枝干上。她的儿子索伦无比迷恋“守护者”的传说。据说很久以前，佩戴着钢喙的邪恶“纯种者”国王压迫猫头鹰子民，关键时刻守护者挺身而出，打败了国王及其爪牙，但…<br><br><iframe src="https://player.bilibili.com/player.html?aid=596022004&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/a687a05c9a5f69e74142b4f88a3da1303dff8139.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 01 May 2022 10:00:02 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1JB4y1m7mo</guid>
             <link>https://www.bilibili.com/video/BV1JB4y1m7mo</link>
@@ -35,7 +100,7 @@
         
         <item>
             <title><![CDATA[【异次元骇客】豆瓣8.4经典科幻悬疑片]]></title>
-            <description><![CDATA[十三，一个听起来就有些阴冷的数字。在一座大厦的第十三层，科学家道格拉斯•霍尔和汉农•富勒用电脑模拟出一个逼真的1937年的洛杉矶，他们可以通过电脑进入这个虚拟世界，真实地体验1937年的生活与自己。然而一个夜里，富勒…<br><br><iframe src="https://player.bilibili.com/player.html?aid=213053473&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/ebcf84d8fa7760a2e7924eadd91678ef4627966a.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[十三，一个听起来就有些阴冷的数字。在一座大厦的第十三层，科学家道格拉斯•霍尔和汉农•富勒用电脑模拟出一个逼真的1937年的洛杉矶，他们可以通过电脑进入这个虚拟世界，真实地体验1937年的生活与自己。然而一个夜里，富勒…<br><br><iframe src="https://player.bilibili.com/player.html?aid=213053473&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/ebcf84d8fa7760a2e7924eadd91678ef4627966a.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 01 May 2022 06:00:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Sa411i7Hj</guid>
             <link>https://www.bilibili.com/video/BV1Sa411i7Hj</link>
@@ -51,7 +116,7 @@
         
         <item>
             <title><![CDATA[【喜羊羊与灰太狼之筐出未来】粤语版]]></title>
-            <description><![CDATA[喜羊羊、灰太狼与一众小羊组成的守护者队进入篮球顶级赛事决赛，但却意外地败北，团队分崩离析。虽然各散东西，但对篮球的热爱和对冠军的渴望让大家再次组队，参加新一届大赛，然而这次的对手更强大，他们面临更大的挑战！<br><br><iframe src="https://player.bilibili.com/player.html?aid=641021144&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i1.hdslb.com/bfs/archive/1ca75a1966974f1d405923d5800868c3c6c613a4.png" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[喜羊羊、灰太狼与一众小羊组成的守护者队进入篮球顶级赛事决赛，但却意外地败北，团队分崩离析。虽然各散东西，但对篮球的热爱和对冠军的渴望让大家再次组队，参加新一届大赛，然而这次的对手更强大，他们面临更大的挑战！<br><br><iframe src="https://player.bilibili.com/player.html?aid=641021144&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/1ca75a1966974f1d405923d5800868c3c6c613a4.png" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 01 May 2022 03:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1aY4y187no</guid>
             <link>https://www.bilibili.com/video/BV1aY4y187no</link>
@@ -67,7 +132,7 @@
         
         <item>
             <title><![CDATA[【“炼”爱】独播：当代单身女性相亲实录]]></title>
-            <description><![CDATA[本片真实的记录了生活在都市的五位单身女性：有人想谈一场不分手的恋爱，有人在家人催促中往返于各个婚恋活动，有人则是把希望寄托在社交软件,还有人肩负起单亲妈妈的重任……不同的成长背景、迥异的价值体系，但她们正在面对人生中同样的情感命题———在城市化，网络化的多元时代里，我们面对情感失去了什么？抛弃了什么？忽视了什么？<br><br><iframe src="https://player.bilibili.com/player.html?aid=725199088&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/866ff99783e2ab9b0483ebb9e4e66116610140fe.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[本片真实的记录了生活在都市的五位单身女性：有人想谈一场不分手的恋爱，有人在家人催促中往返于各个婚恋活动，有人则是把希望寄托在社交软件,还有人肩负起单亲妈妈的重任……不同的成长背景、迥异的价值体系，但她们正在面对人生中同样的情感命题———在城市化，网络化的多元时代里，我们面对情感失去了什么？抛弃了什么？忽视了什么？<br><br><iframe src="https://player.bilibili.com/player.html?aid=725199088&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/866ff99783e2ab9b0483ebb9e4e66116610140fe.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 01 May 2022 02:00:04 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV13S4y1m71W</guid>
             <link>https://www.bilibili.com/video/BV13S4y1m71W</link>
@@ -83,7 +148,7 @@
         
         <item>
             <title><![CDATA[【模仿游戏】计算机之父图灵的传奇一生]]></title>
-            <description><![CDATA[二战期间，盟军苦于德国的秘密系统”英格玛“无法破译，政府召集了一批民间数学家、逻辑学家进行秘密破解工作，图灵就是其中之一。计划刚开始图灵遭到了以休为首的组员和领导的排斥，幸好军情处部长孟席斯帮助他立项研究…<br><br><iframe src="https://player.bilibili.com/player.html?aid=810973912&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/6f066cd6b539d65805598538e304c4eb0ac0dc85.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[二战期间，盟军苦于德国的秘密系统”英格玛“无法破译，政府召集了一批民间数学家、逻辑学家进行秘密破解工作，图灵就是其中之一。计划刚开始图灵遭到了以休为首的组员和领导的排斥，幸好军情处部长孟席斯帮助他立项研究…<br><br><iframe src="https://player.bilibili.com/player.html?aid=810973912&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6f066cd6b539d65805598538e304c4eb0ac0dc85.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 30 Apr 2022 10:00:03 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1G34y1e74o</guid>
             <link>https://www.bilibili.com/video/BV1G34y1e74o</link>
@@ -99,74 +164,10 @@
         
         <item>
             <title><![CDATA[【至暗时刻】影帝级表演还原二战英国转折点]]></title>
-            <description><![CDATA[影片讲述英国首相丘吉尔在作为首相期间面临的最重要的审判：是向纳粹妥协做俘虏，还是团结人民群起反抗？丘吉尔将集结整个国家为自由奋战，试图改变世界历史进程，度过黎明前的黑暗。<br><br><iframe src="https://player.bilibili.com/player.html?aid=683296904&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/cf440597c5e69126c316ed64463a63788e4943b1.jpg" referrerpolicy="no-referrer">]]></description>
+            <description><![CDATA[影片讲述英国首相丘吉尔在作为首相期间面临的最重要的审判：是向纳粹妥协做俘虏，还是团结人民群起反抗？丘吉尔将集结整个国家为自由奋战，试图改变世界历史进程，度过黎明前的黑暗。<br><br><iframe src="https://player.bilibili.com/player.html?aid=683296904&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/cf440597c5e69126c316ed64463a63788e4943b1.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 30 Apr 2022 06:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV15S4y1A7eu</guid>
             <link>https://www.bilibili.com/video/BV15S4y1A7eu</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【四海】韩寒导演新作全网独播]]></title>
-            <description><![CDATA[在码头做摩托车特技表演顺便拉客的年轻人吴仁耀，他多年不见的浪荡父亲吴仁腾；梦想大城市生活的餐馆服务员周欢颂和他浮夸真诚的哥哥周欢歌。一支从没有赢过一场比赛的“不败传说”车队频频出战，一群可笑又可爱的小人物命运交织。阿耀和欢颂都立志活成自己亲人的反面，想彼此取暖，彼此独立，却又总不在一个频道上。世事无常，他们不得不背井离乡，迎接一场未知旅途，阿耀的一身技能竟会用在一个自己都意想不到的场合，他的亲情友情和爱情最终又将会是如何……<br><br><iframe src="https://player.bilibili.com/player.html?aid=213480685&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/f701da6badcad9288a29887c2507156ab14a7867.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 30 Apr 2022 02:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1qa411Y7R9</guid>
-            <link>https://www.bilibili.com/video/BV1qa411Y7R9</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【狂蟒之灾2：搜寻血兰】探险队遭遇食人巨兽]]></title>
-            <description><![CDATA[故事发生在位于婆罗洲的原始丛林中，比尔带领着他的探险小队穿行于其中，寻找着一种名为“血兰”的珍稀植物。在离目标越来越近的同时，危险也不期而至。血兰的力量没有使人类返老还童，却将一群蛇类变得凶猛而恐怖<br><br><iframe src="https://player.bilibili.com/player.html?aid=725386431&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/8db654cd1d76ffc2e0bb62b383cd16c0d78a17e9.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 29 Apr 2022 10:00:02 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1bS4y1175M</guid>
-            <link>https://www.bilibili.com/video/BV1bS4y1175M</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【原谅他77次】阿Sa主演爱情片（粤语版）]]></title>
-            <description><![CDATA[Eva与Adam恋爱十年多，却因一件小事突然分手。莫名被分手的Adam酒后与学生Mandy发生了关系。可随后Mandy却在Adam家中意外发现了一本Eva所写的77次心碎记录，记事簿里Eva一次次的被伤害纪录历历在目⋯<br><br><iframe src="https://player.bilibili.com/player.html?aid=213348149&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i2.hdslb.com/bfs/archive/6bc158bf4683fa57987b1d2abd4a8193cac22d28.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 29 Apr 2022 03:00:03 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1qa411v7LZ</guid>
-            <link>https://www.bilibili.com/video/BV1qa411v7LZ</link>
-            
-            
-            
-            <author><![CDATA[哔哩哔哩电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【皇室风流史】丹麦史上最禁忌三角恋]]></title>
-            <description><![CDATA[医师乔安纳·费德里克·斯特恩斯被丹麦国王克里斯蒂安七世相中，叫来陪伴他一同游历欧洲。作为国王的私人医生，斯特恩斯获得了国王的信任，赢得了王后卡罗琳·马蒂尔德的好感。他试图发动政变，最后却被以“滥用职权”和“侵犯国王尊严”的罪名处死。<br><br><iframe src="https://player.bilibili.com/player.html?aid=595981237&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="https://www.bilibili.com/video/http://i0.hdslb.com/bfs/archive/3e420015fb262f7ee25de80c70998bec5f8c5a7d.png" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 28 Apr 2022 10:00:01 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1oB4y127fj</guid>
-            <link>https://www.bilibili.com/video/BV1oB4y127fj</link>
             
             
             
