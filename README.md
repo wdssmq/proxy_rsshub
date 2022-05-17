@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-05-17 08:34:15
+2022-05-18 00:18:50
 
 title: 沉冰浮水 的追番列表
 
@@ -67,6 +67,10 @@ path: [bilibili/user/video/296909317](xml/bilibili_user_video_296909317.xml "田
 title: 哔哩哔哩电影 的 bilibili 空间
 
 path: [bilibili/user/video/15773384](xml/bilibili_user_video_15773384.xml "哔哩哔哩电影 的 bilibili 空间") 「[raw](xml/bilibili_user_video_15773384.xml?raw=true "哔哩哔哩电影 的 bilibili 空间")」
+
+title: 哔哩哔哩番剧出差 的 bilibili 空间
+
+path: [bilibili/user/video/11783021](xml/bilibili_user_video_11783021.xml "哔哩哔哩番剧出差 的 bilibili 空间") 「[raw](xml/bilibili_user_video_11783021.xml?raw=true "哔哩哔哩番剧出差 的 bilibili 空间")」
 
 title: 葵歌剧摸鱼团 的 bilibili 空间
 
