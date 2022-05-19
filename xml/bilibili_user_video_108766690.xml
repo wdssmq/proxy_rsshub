@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[影迷qzm 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/108766690</link>
-        <atom:link href="https://rsshub/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/108766690" rel="self" type="application/rss+xml" />
         <description><![CDATA[影迷qzm 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 18 May 2022 16:09:30 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 19 May 2022 00:39:14 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[[4K·双杜比]1952年美国电影《雨中曲》吉恩·凯利影史经典歌舞选段]]></title>
