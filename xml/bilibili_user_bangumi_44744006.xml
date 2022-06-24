@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
-
 >
     <channel>
         <title><![CDATA[沉冰浮水 的追番列表]]></title>
         <link>https://space.bilibili.com/44744006/bangumi</link>
-        <atom:link href="http://rsshub.app/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/bangumi/44744006" rel="self" type="application/rss+xml" />
         <description><![CDATA[沉冰浮水 的追番列表 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 23 Jun 2022 16:09:06 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Fri, 24 Jun 2022 00:36:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[[更新至第22话]川尻小玉的懒散生活]]></title>
+            <description><![CDATA[酒、酒、肉、酒、睡觉！川尻小玉热爱酒精和甜食，对重油重盐的食物毫无抵抗力。而这正是一部描绘她那糜烂生活的漫画。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/ecb52c79def9f5a6099c5a0770f56e20479fb008.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 24 Jun 2022 02:25:01 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep478243</guid>
+            <link>https://www.bilibili.com/bangumi/play/ep478243</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[更新至第7话]夏日重现]]></title>
@@ -63,7 +78,7 @@
 
 這是一個世界各國均暗地裡進行激烈情報戰的時代。東國（Ostania）與西國（Westalis）的冷戰狀態已經持續數十年。
 
-&lt;黃昏&gt;是西國情報局東國對策科<wise>的一...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/abf7d5a6a48391386060e083bc1114a5c550c82b.png" referrerpolicy="no-referrer"></wise>]]></description>
+<黃昏>是西國情報局東國對策科<wise>的一...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/abf7d5a6a48391386060e083bc1114a5c550c82b.png" referrerpolicy="no-referrer"></wise>]]></description>
             <pubDate>Sat, 18 Jun 2022 23:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep476225</guid>
             <link>https://www.bilibili.com/bangumi/play/ep476225</link>
@@ -135,22 +150,6 @@
             <pubDate>Sat, 18 Jun 2022 00:30:00 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep476252</guid>
             <link>https://www.bilibili.com/bangumi/play/ep476252</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[[更新至第21话]川尻小玉的懒散生活]]></title>
-            <description><![CDATA[酒、酒、肉、酒、睡觉！川尻小玉热爱酒精和甜食，对重油重盐的食物毫无抵抗力。而这正是一部描绘她那糜烂生活的漫画。...<br><img src="http://i0.hdslb.com/bfs/bangumi/image/ecb52c79def9f5a6099c5a0770f56e20479fb008.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 17 Jun 2022 02:25:00 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/bangumi/play/ep478242</guid>
-            <link>https://www.bilibili.com/bangumi/play/ep478242</link>
             
             
             
