@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[宅游星 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/324798</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/324798" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/bilibili/user/video/324798" rel="self" type="application/rss+xml" />
         <description><![CDATA[宅游星 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 24 Jun 2022 16:09:01 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 25 Jun 2022 00:36:43 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【熟肉】你刚刚说“笨蛋”了吧？#8【莉泽】【原神】【危途疑踪】【魔神任务间章】]]></title>
