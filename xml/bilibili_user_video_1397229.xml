@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ocarina 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1397229</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1397229" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/bilibili/user/video/1397229" rel="self" type="application/rss+xml" />
         <description><![CDATA[ocarina 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 01 Jul 2022 16:08:41 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 02 Jul 2022 00:38:22 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【FF14手书】千本樱【爱梅/古代人三人组】]]></title>
