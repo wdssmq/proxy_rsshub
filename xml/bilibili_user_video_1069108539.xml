@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[小鸟游杏子Official 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/1069108539</link>
-        <atom:link href="https://rsshub.rssforever.com/bilibili/user/video/1069108539" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/bilibili/user/video/1069108539" rel="self" type="application/rss+xml" />
         <description><![CDATA[小鸟游杏子Official 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,7 +15,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 29 Sep 2022 02:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 03:26:19 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
